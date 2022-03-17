@@ -1,44 +1,48 @@
 
-- [概况](#--)
-- [作品列表/demo地址](#-----demo--)
-  * [翻阅经典, 与一个惊艳的名字不期而遇: 古诗文起名 http://xiaosang.net/gushi_namer/](#--------------------------http---xiaosangnet-gushi-namer-)
-  * [强迫症福利:等宽文字生成器 http://xiaosang.net/equal_width/](#--------------http---xiaosangnet-equal-width-)
-  * [刘庸干净又卫生: 弹幕附魔 http://xiaosang.net/string_alchemy/](#--------------http---xiaosangnet-string-alchemy-)
-  * [排序算法可视化 http://xiaosang.net/algorithm/show_sort/index.html](#--------http---xiaosangnet-algorithm-show-sort-indexhtml)
-  * [藏头诗生成器 http://xiaosang.net/head_tail_poem/](#-------http---xiaosangnet-head-tail-poem-)
-  * [TS神器: JSON转TypeScript定义 http://xiaosang.net/json_to_ts/](#ts----json-typescript---http---xiaosangnet-json-to-ts-)
-- [语言统计](#----)
-
+- [概况]
+- [作品列表/demo地址]
+  * [翻阅经典, 与一个惊艳的名字不期而遇: 古诗文起名]
+  * [强迫症福利:等宽文字生成器]
+  * [刘庸干净又卫生: 弹幕附魔]
+  * [排序算法可视化]
+  * [藏头诗生成器]
+  * [TS神器: JSON转TypeScript定义]
+- [语言统计]
 
 # 概况
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holynova)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-
 # 作品列表/demo地址
-## 翻阅经典, 与一个惊艳的名字不期而遇: 古诗文起名 http://xiaosang.net/gushi_namer/
+## 翻阅经典, 与一个惊艳的名字不期而遇: 古诗文起名 
+demo: http://xiaosang.net/gushi_namer/
 
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/8215783/158734298-a4066c81-0bb4-4a0f-8368-e6f338ccadb1.png">
 
 
-## 强迫症福利:等宽文字生成器 http://xiaosang.net/equal_width/
+## 强迫症福利:等宽文字生成器 
+demo: http://xiaosang.net/equal_width/
 
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/8215783/158734207-674ca43d-0a5e-451d-99d6-5f54f6c36478.png">
 
-## 刘庸干净又卫生: 弹幕附魔 http://xiaosang.net/string_alchemy/
+## 刘庸干净又卫生: 弹幕附魔 
+demo: http://xiaosang.net/string_alchemy/
 
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/8215783/158734137-4ce17d65-a1d3-42d3-ba37-d8b530096bbd.png">
 
-## 排序算法可视化 http://xiaosang.net/algorithm/show_sort/index.html
+## 排序算法可视化 
+demo: http://xiaosang.net/algorithm/show_sort/index.html
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/8215783/158734723-f9b5d51d-4c9f-436e-a496-4c0bdaab3373.png">
 
-## 藏头诗生成器 http://xiaosang.net/head_tail_poem/
+## 藏头诗生成器 
+demo: http://xiaosang.net/head_tail_poem/
 
 <img width="310" alt="image" src="https://user-images.githubusercontent.com/8215783/158734587-0994c997-48c3-42b0-a1ba-f83a0f378c03.png">
 
-## TS神器: JSON转TypeScript定义 http://xiaosang.net/json_to_ts/
+## TS神器: JSON转TypeScript定义 
+demo: http://xiaosang.net/json_to_ts/
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/8215783/158735061-68370963-27d9-40e2-a364-4c64dd85b2a1.png">
 
