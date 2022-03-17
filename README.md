@@ -28,7 +28,7 @@
 
 <img width="310" alt="image" src="https://user-images.githubusercontent.com/8215783/158734587-0994c997-48c3-42b0-a1ba-f83a0f378c03.png">
 
-## TS神器: JSON转TypeScript定义
+## TS神器: JSON转TypeScript定义 http://xiaosang.net/json_to_ts/
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/8215783/158735061-68370963-27d9-40e2-a364-4c64dd85b2a1.png">
 
