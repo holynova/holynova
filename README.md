@@ -1,8 +1,7 @@
 
-
+# 概况
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holynova)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holynova)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -31,6 +30,10 @@
 ## TS神器: JSON转TypeScript定义 http://xiaosang.net/json_to_ts/
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/8215783/158735061-68370963-27d9-40e2-a364-4c64dd85b2a1.png">
+
+
+# 语言统计
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holynova)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
