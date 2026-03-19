@@ -5,8 +5,34 @@
 
 ## 🏗️ 项目列表
 
+### 📖 快速导航
+<p>
+<a href="#古诗文起名">1. 古诗文起名</a> | 
+<a href="#gemini-批量生图插件">2. Gemini 批量生图插件</a> | 
+<a href="#scrape-to-markdown">3. Scrape to Markdown</a> | 
+<a href="#坦克战术">4. 坦克战术</a> | 
+<a href="#俳句tinder">5. 俳句Tinder</a> | 
+<a href="#youtube视频抓取">6. YouTube视频抓取</a> | 
+<a href="#收藏夹淘金">7. 收藏夹淘金</a> | 
+<a href="#等宽文字生成器">8. 等宽文字生成器</a> | 
+<a href="#弹幕附魔">9. 弹幕附魔</a> | 
+<a href="#排序算法可视化">10. 排序算法可视化</a> | 
+<a href="#藏头诗生成器">11. 藏头诗生成器</a> | 
+<a href="#倒推工资">12. 倒推工资</a> | 
+<a href="#排列组合生成器">13. 排列组合生成器</a> | 
+<a href="#电子万花尺">14. 电子万花尺</a> | 
+<a href="#一眼看电影">15. 一眼看电影</a> | 
+<a href="#生命时间轴可视化">16. 生命时间轴可视化</a> | 
+<a href="#节假日可视化">17. 节假日可视化</a> | 
+<a href="#火锅定时器">18. 火锅定时器</a> | 
+<a href="#100-clocks">19. 100 Clocks</a> | 
+<a href="#json转typescript定义">20. JSON转TypeScript定义</a>
+</p>
+
+---
+
 ### 古诗文起名
-![Preview](./gushi_namer.png)
+<img width="320" alt="Preview" src="./gushi_namer.png">
 - **简介**: 翻阅经典, 与一个惊艳的名字不期而遇
 利用诗经、楚辞、唐诗、宋词等给小朋友起名字
 支持手机查看
@@ -16,7 +42,7 @@
 ---
 
 ### Gemini 批量生图插件
-![Preview](./prompt_one_by_one.png)
+<img width="640" alt="Preview" src="./prompt_one_by_one.png">
 - **简介**: Gemini Batch Image Generator
 一行一个提示词，自动逐条发送，支持前缀/后缀、停止队列、实时计时、滚动日志、进度条
 - **链接**: [💻 源码仓库](https://github.com/holynova/prompt_one_by_one)
@@ -25,7 +51,7 @@
 ---
 
 ### Scrape to Markdown
-![Preview](./scrape_to_markdown.png)
+<img width="320" alt="Preview" src="./scrape_to_markdown.png">
 - **简介**: 一个多功能 Chrome 扩展，用于内容抓取、格式转换和批量图片下载
 技术栈: React 19 + TypeScript + Vite + TailwindCSS
 - **链接**: [💻 源码仓库](https://github.com/holynova/scrape-to-markdown.chrome)
@@ -34,7 +60,7 @@
 ---
 
 ### 坦克战术
-![Preview](./tank.png)
+<img width="640" alt="Preview" src="./tank.png">
 - **简介**: Tank Tactics Game
 童年游戏"四顶", 坦克二打一
 基于 React + Vite 的回合制战术对战游戏，支持双人对战(PvP)和人机对战(PvE)
@@ -44,7 +70,7 @@
 ---
 
 ### 俳句Tinder
-![Preview](./haiku_flow1.png)
+<img width="320" alt="Preview" src="./haiku_flow1.png">
 - **简介**: Haiku Flow - 极简主义的 Web 应用程序
 通过类似 Tinder 的滑动界面浏览精选经典俳句
 收藏喜爱的作品，追踪每日阅读习惯
@@ -54,7 +80,7 @@
 ---
 
 ### YouTube视频抓取
-![Preview](./youtueb_scraper.png)
+<img width="320" alt="Preview" src="./youtueb_scraper.png">
 - **简介**: YouTube视频内容抓取工具
 - **链接**: (暂无链接)
 - **标签**: `tool` `scraper`
@@ -62,7 +88,7 @@
 ---
 
 ### 收藏夹淘金
-![Preview](./collection_miner.png)
+<img width="640" alt="Preview" src="./collection_miner.png">
 - **简介**: Collection Miner
 打开新标签页时从收藏夹随机挑3条展示
 支持点赞、删除书签(可撤销)、赞/踩影响随机权重
@@ -72,7 +98,7 @@
 ---
 
 ### 等宽文字生成器
-![Preview](https://user-images.githubusercontent.com/8215783/158734207-674ca43d-0a5e-451d-99d6-5f54f6c36478.png)
+<img width="320" alt="Preview" src="./158734207-674ca43d-0a5e-451d-99d6-5f54f6c36478.png">
 - **简介**: 强迫症福利
 每行输入长短不一的文字，自动调整字号，使得看起来宽度相等
 - **链接**: [🌐 在线预览](https://holynova.github.io/equal_width/) | [💻 源码仓库](https://github.com/holynova/equal_width)
@@ -81,7 +107,7 @@
 ---
 
 ### 弹幕附魔
-![Preview](https://user-images.githubusercontent.com/8215783/158734137-4ce17d65-a1d3-42d3-ba37-d8b530096bbd.png)
+<img width="320" alt="Preview" src="./158734137-4ce17d65-a1d3-42d3-ba37-d8b530096bbd.png">
 - **简介**: 刘庸干净又卫生
 将普通文字转换为同音的化学元素文字
 - **链接**: [🌐 在线预览](https://holynova.github.io/string_alchemy/) | [💻 源码仓库](https://github.com/holynova/string_alchemy)
@@ -90,7 +116,7 @@
 ---
 
 ### 排序算法可视化
-![Preview](https://user-images.githubusercontent.com/8215783/158734723-f9b5d51d-4c9f-436e-a496-4c0bdaab3373.png)
+<img width="640" alt="Preview" src="./158734723-f9b5d51d-4c9f-436e-a496-4c0bdaab3373.png">
 - **简介**: 学习算法的 playground
 排序算法的可视化展示
 - **链接**: [🌐 在线预览](https://holynova.github.io/algorithm/show_sort/index.html) | [💻 源码仓库](https://github.com/holynova/algorithm)
@@ -99,7 +125,7 @@
 ---
 
 ### 藏头诗生成器
-![Preview](https://user-images.githubusercontent.com/8215783/158734587-0994c997-48c3-42b0-a1ba-f83a0f378c03.png)
+<img width="320" alt="Preview" src="./158734587-0994c997-48c3-42b0-a1ba-f83a0f378c03.png">
 - **简介**: 藏头诗、藏尾诗生成器
 - **链接**: [🌐 在线预览](https://holynova.github.io/head_tail_poem/) | [💻 源码仓库](https://github.com/holynova/head_tail_poem)
 - **标签**: `website` `typescript` `chinese` `fun`
@@ -107,7 +133,7 @@
 ---
 
 ### 倒推工资
-![Preview](./salary.png)
+<img width="640" alt="Preview" src="./salary.png">
 - **简介**: 税后工资计算器
 支持两种公积金方案，工资构成分析和工资对照表
 - **链接**: [🌐 在线预览](https://holynova.github.io/salary) | [💻 源码仓库](https://github.com/holynova/json_to_ts)
@@ -116,7 +142,7 @@
 ---
 
 ### 排列组合生成器
-![Preview](./combination.png)
+<img width="640" alt="Preview" src="./combination.png">
 - **简介**: 支持多种元素的排列组合计算
 可视化展示组合结果
 - **链接**: [🌐 在线预览](https://holynova.github.io/combination) | [💻 源码仓库](https://github.com/holynova/json_to_ts)
@@ -125,7 +151,7 @@
 ---
 
 ### 电子万花尺
-![Preview](./spinning-drawer.png)
+<img width="640" alt="Preview" src="./spinning-drawer.png">
 - **简介**: 多形状旋轮线可视化 / Polygonal Spirograph Visualizer
 支持多种形状（圆形、椭圆、多边形）的旋轮线绘制
 7种颜色方案，外旋/内旋模式，历史记录
@@ -135,7 +161,7 @@
 ---
 
 ### 一眼看电影
-![Preview](./one_second_movie.png)
+<img width="640" alt="Preview" src="./one_second_movie.png">
 - **简介**: One Second Movie
 将视频压缩为4K联系表，一眼看完整部电影
 支持文件上传和URL处理，三种质量预设
@@ -156,7 +182,7 @@
 ---
 
 ### 节假日可视化
-![Preview](./holiday.png)
+<img width="640" alt="Preview" src="./holiday.png">
 - **简介**: 年度节假日日历展示
 法定假日、调休工作日统计
 贡献图形式展示全年日期分布
@@ -166,7 +192,7 @@
 ---
 
 ### 火锅定时器
-![Preview](./hotpot.png)
+<img width="640" alt="Preview" src="./hotpot.png">
 - **简介**: 火锅食材烹饪时间管理
 多食材同时计时功能
 - **链接**: [💻 源码仓库](https://github.com/holynova/json_to_ts)
@@ -175,7 +201,7 @@
 ---
 
 ### 100 Clocks
-![Preview](./100_clocks.png)
+<img width="320" alt="Preview" src="./100_clocks.png">
 - **简介**: a collection of clocks in different styles
 不同风格的时钟集合
 - **链接**: [🌐 在线预览](https://holynova.github.io/100-clocks) | [💻 源码仓库](https://github.com/holynova/100-clocks)
@@ -184,7 +210,7 @@
 ---
 
 ### JSON转TypeScript定义
-![Preview](https://user-images.githubusercontent.com/8215783/158735061-68370963-27d9-40e2-a364-4c64dd85b2a1.png)
+<img width="640" alt="Preview" src="./158735061-68370963-27d9-40e2-a364-4c64dd85b2a1.png">
 - **简介**: TS神器
 支持 JavaScript 代码转换为 TypeScript，自动类型推导和类型声明生成
 同时包含JSON格式化工具
