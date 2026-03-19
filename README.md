@@ -1,5 +1,5 @@
 # 概况
-[![Anurag's GitHub stats](<img width="640" alt="Anurag's GitHub stats" src="./github_stats.svg">)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holynova)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏗️ 项目列表
 
@@ -235,4 +235,4 @@
 
 
 # 语言统计
-[![Top Langs](<img width="640" alt="Top Langs" src="./top_langs.svg">)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holynova)](https://github.com/anuraghazra/github-readme-stats)
