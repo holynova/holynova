@@ -1,7 +1,8 @@
-# 概况
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holynova)](https://github.com/anuraghazra/github-readme-stats)
+# 作品作品集 / My Projects Portfolio
 
+本列表由 `projects.json` 自动生成，包含了当前所有的作品项目及其相关信息。
 
+---
 
 ## 🏗️ 项目列表
 
@@ -190,8 +191,3 @@
 同时包含JSON格式化工具
 - **链接**: [🌐 在线预览](https://holynova.github.io/json_to_ts/) | [💻 源码仓库](https://github.com/holynova/json_to_ts)
 - **标签**: `website` `typescript` `react` `tool` `devTool`
-
-
-# 语言统计
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holynova)](https://github.com/anuraghazra/github-readme-stats)
-

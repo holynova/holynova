@@ -1,0 +1,221 @@
+[
+  {
+    "title": "古诗文起名",
+    "desc": "翻阅经典, 与一个惊艳的名字不期而遇\n利用诗经、楚辞、唐诗、宋词等给小朋友起名字\n支持手机查看",
+    "repoName": "gushi_namer",
+    "demoLink": "https://holynova.github.io/gushi_namer/",
+    "repoLink": "https://github.com/holynova/gushi_namer",
+    "images": [
+      "./gushi_namer.png"
+    ],
+    "tags": ["website", "mobileWeb", "typescript", "chinese", "tool"]
+  },
+  {
+    "title": "Gemini 批量生图插件",
+    "desc": "Gemini Batch Image Generator\n一行一个提示词，自动逐条发送，支持前缀/后缀、停止队列、实时计时、滚动日志、进度条",
+    "repoName": "prompt_one_by_one",
+    "demoLink": "",
+    "repoLink": "https://github.com/holynova/prompt_one_by_one",
+    "images": [
+      "./prompt_one_by_one.png"
+    ],
+    "tags": ["chromeExtension", "javascript", "ai", "tool"]
+  },
+  {
+    "title": "Scrape to Markdown",
+    "desc": "一个多功能 Chrome 扩展，用于内容抓取、格式转换和批量图片下载\n技术栈: React 19 + TypeScript + Vite + TailwindCSS",
+    "repoName": "scrape-to-markdown.chrome",
+    "demoLink": "",
+    "repoLink": "https://github.com/holynova/scrape-to-markdown.chrome",
+    "images": [
+      "./scrape_to_markdown.png"
+    ],
+    "tags": ["chromeExtension", "typescript", "react", "tool"]
+  },
+  {
+    "title": "坦克战术",
+    "desc": "Tank Tactics Game\n童年游戏\"四顶\", 坦克二打一\n基于 React + Vite 的回合制战术对战游戏，支持双人对战(PvP)和人机对战(PvE)",
+    "repoName": "tank-tactics-game",
+    "demoLink": "https://holynova.github.io/tank-tactics-game/",
+    "repoLink": "https://github.com/holynova/tank-tactics-game",
+    "images": [
+      "./tank.png"
+    ],
+    "tags": ["website", "typescript", "react", "game"]
+  },
+  {
+    "title": "俳句Tinder",
+    "desc": "Haiku Flow - 极简主义的 Web 应用程序\n通过类似 Tinder 的滑动界面浏览精选经典俳句\n收藏喜爱的作品，追踪每日阅读习惯",
+    "repoName": "haiku-flow",
+    "demoLink": "https://holynova.github.io/haiku-flow",
+    "repoLink": "https://github.com/holynova/haiku-flow",
+    "images": [
+      "./haiku_flow1.png",
+      "./haiku_flow2.png"
+    ],
+    "tags": ["website", "mobileWeb", "typescript", "chinese"]
+  },
+  {
+    "title": "YouTube视频抓取",
+    "desc": "YouTube视频内容抓取工具",
+    "repoName": "",
+    "demoLink": "",
+    "repoLink": "",
+    "images": [
+      "./youtueb_scraper.png"
+    ],
+    "tags": ["tool", "scraper"]
+  },
+  {
+    "title": "收藏夹淘金",
+    "desc": "Collection Miner\n打开新标签页时从收藏夹随机挑3条展示\n支持点赞、删除书签(可撤销)、赞/踩影响随机权重",
+    "repoName": "collection_miner",
+    "demoLink": "",
+    "repoLink": "https://github.com/holynova/collection_miner",
+    "images": [
+      "./collection_miner.png"
+    ],
+    "tags": ["chromeExtension", "javascript", "tool"]
+  },
+  {
+    "title": "等宽文字生成器",
+    "desc": "强迫症福利\n每行输入长短不一的文字，自动调整字号，使得看起来宽度相等",
+    "repoName": "equal_width",
+    "demoLink": "https://holynova.github.io/equal_width/",
+    "repoLink": "https://github.com/holynova/equal_width",
+    "images": [
+      "https://user-images.githubusercontent.com/8215783/158734207-674ca43d-0a5e-451d-99d6-5f54f6c36478.png"
+    ],
+    "tags": ["website", "javascript", "tool"]
+  },
+  {
+    "title": "弹幕附魔",
+    "desc": "刘庸干净又卫生\n将普通文字转换为同音的化学元素文字",
+    "repoName": "string_alchemy",
+    "demoLink": "https://holynova.github.io/string_alchemy/",
+    "repoLink": "https://github.com/holynova/string_alchemy",
+    "images": [
+      "https://user-images.githubusercontent.com/8215783/158734137-4ce17d65-a1d3-42d3-ba37-d8b530096bbd.png"
+    ],
+    "tags": ["website", "javascript", "fun", "tool"]
+  },
+  {
+    "title": "排序算法可视化",
+    "desc": "学习算法的 playground\n排序算法的可视化展示",
+    "repoName": "algorithm",
+    "demoLink": "https://holynova.github.io/algorithm/show_sort/index.html",
+    "repoLink": "https://github.com/holynova/algorithm",
+    "images": [
+      "https://user-images.githubusercontent.com/8215783/158734723-f9b5d51d-4c9f-436e-a496-4c0bdaab3373.png"
+    ],
+    "tags": ["website", "javascript", "visualization", "algorithm"]
+  },
+  {
+    "title": "藏头诗生成器",
+    "desc": "藏头诗、藏尾诗生成器",
+    "repoName": "head_tail_poem",
+    "demoLink": "https://holynova.github.io/head_tail_poem/",
+    "repoLink": "https://github.com/holynova/head_tail_poem",
+    "images": [
+      "https://user-images.githubusercontent.com/8215783/158734587-0994c997-48c3-42b0-a1ba-f83a0f378c03.png"
+    ],
+    "tags": ["website", "typescript", "chinese", "fun"]
+  },
+  {
+    "title": "倒推工资",
+    "desc": "税后工资计算器\n支持两种公积金方案，工资构成分析和工资对照表",
+    "repoName": "json_to_ts",
+    "demoLink": "https://holynova.github.io/salary",
+    "repoLink": "https://github.com/holynova/json_to_ts",
+    "images": [
+      "./salary.png"
+    ],
+    "tags": ["website", "typescript", "react", "tool"]
+  },
+  {
+    "title": "排列组合生成器",
+    "desc": "支持多种元素的排列组合计算\n可视化展示组合结果",
+    "repoName": "json_to_ts",
+    "demoLink": "https://holynova.github.io/combination",
+    "repoLink": "https://github.com/holynova/json_to_ts",
+    "images": [
+      "./combination.png"
+    ],
+    "tags": ["website", "typescript", "react", "tool", "algorithm"]
+  },
+  {
+    "title": "电子万花尺",
+    "desc": "多形状旋轮线可视化 / Polygonal Spirograph Visualizer\n支持多种形状（圆形、椭圆、多边形）的旋轮线绘制\n7种颜色方案，外旋/内旋模式，历史记录",
+    "repoName": "spinning-drawer",
+    "demoLink": "https://holynova.github.io/spinning-drawer/",
+    "repoLink": "https://github.com/holynova/spinning-drawer",
+    "images": [
+      "./spinning-drawer.png"
+    ],
+    "tags": ["website", "html", "visualization", "fun", "canvas"]
+  },
+  {
+    "title": "一眼看电影",
+    "desc": "One Second Movie\n将视频压缩为4K联系表，一眼看完整部电影\n支持文件上传和URL处理，三种质量预设",
+    "repoName": "one_second_movie",
+    "demoLink": "https://holynova.github.io/one_second_movie/",
+    "repoLink": "https://github.com/holynova/one_second_movie",
+    "images": [
+      "./one_second_movie.png"
+    ],
+    "tags": ["website", "typescript", "react", "node", "tool", "video"]
+  },
+  {
+    "title": "生命时间轴可视化",
+    "desc": "Life Bar Chart\n根据出生和死亡年月生成甘特图\n基于Canvas的高性能绘图，支持自定义时间区间，响应式设计",
+    "repoName": "life_bar_chart",
+    "demoLink": "",
+    "repoLink": "https://github.com/holynova/life_bar_chart",
+    "images": [],
+    "tags": ["website", "typescript", "react", "visualization", "canvas"]
+  },
+  {
+    "title": "节假日可视化",
+    "desc": "年度节假日日历展示\n法定假日、调休工作日统计\n贡献图形式展示全年日期分布",
+    "repoName": "json_to_ts",
+    "demoLink": "",
+    "repoLink": "https://github.com/holynova/json_to_ts",
+    "images": [
+      "./holiday.png"
+    ],
+    "tags": ["website", "typescript", "react", "visualization"]
+  },
+  {
+    "title": "火锅定时器",
+    "desc": "火锅食材烹饪时间管理\n多食材同时计时功能",
+    "repoName": "json_to_ts",
+    "demoLink": "",
+    "repoLink": "https://github.com/holynova/json_to_ts",
+    "images": [
+      "./hotpot.png"
+    ],
+    "tags": ["website", "typescript", "react", "tool", "fun"]
+  },
+  {
+    "title": "100 Clocks",
+    "desc": "a collection of clocks in different styles\n不同风格的时钟集合",
+    "repoName": "100-clocks",
+    "demoLink": "https://holynova.github.io/100-clocks",
+    "repoLink": "https://github.com/holynova/100-clocks",
+    "images": [
+      "./100_clocks.png"
+    ],
+    "tags": ["website", "html", "visualization", "fun", "canvas"]
+  },
+  {
+    "title": "JSON转TypeScript定义",
+    "desc": "TS神器\n支持 JavaScript 代码转换为 TypeScript，自动类型推导和类型声明生成\n同时包含JSON格式化工具",
+    "repoName": "json_to_ts",
+    "demoLink": "https://holynova.github.io/json_to_ts/",
+    "repoLink": "https://github.com/holynova/json_to_ts",
+    "images": [
+      "https://user-images.githubusercontent.com/8215783/158735061-68370963-27d9-40e2-a364-4c64dd85b2a1.png"
+    ],
+    "tags": ["website", "typescript", "react", "tool", "devTool"]
+  }
+]
