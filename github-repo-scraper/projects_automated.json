@@ -138,7 +138,9 @@
     "repoName": "hand_fireworks",
     "demoLink": "https://holynova.github.io/hand_fireworks/",
     "repoLink": "https://github.com/holynova/hand_fireworks",
-    "images": [],
+    "images": [
+      "./screenshots/hand_fireworks.png"
+    ],
     "tags": [
       "html"
     ]
@@ -171,7 +173,9 @@
     "repoName": "100-clocks",
     "demoLink": "https://holynova.github.io/100-clocks/",
     "repoLink": "https://github.com/holynova/100-clocks",
-    "images": [],
+    "images": [
+      "./screenshots/100-clocks.png"
+    ],
     "tags": [
       "html"
     ]
@@ -193,7 +197,9 @@
     "repoName": "tank-tactics-game",
     "demoLink": "https://holynova.github.io/tank-tactics-game/",
     "repoLink": "https://github.com/holynova/tank-tactics-game",
-    "images": [],
+    "images": [
+      "./screenshots/tank-tactics-game.png"
+    ],
     "tags": [
       "typescript"
     ]
@@ -204,7 +210,9 @@
     "repoName": "haiku-flow",
     "demoLink": "https://holynova.github.io/haiku-flow/",
     "repoLink": "https://github.com/holynova/haiku-flow",
-    "images": [],
+    "images": [
+      "./screenshots/haiku-flow.png"
+    ],
     "tags": [
       "typescript"
     ]
@@ -316,7 +324,9 @@
     "repoName": "json_to_ts",
     "demoLink": "https://holynova.github.io/json_to_ts/",
     "repoLink": "https://github.com/holynova/json_to_ts",
-    "images": [],
+    "images": [
+      "./screenshots/json_to_ts.png"
+    ],
     "tags": [
       "typescript"
     ]
@@ -327,7 +337,9 @@
     "repoName": "mouse_scroll_heath_check",
     "demoLink": "https://holynova.github.io/mouse_scroll_heath_check/",
     "repoLink": "https://github.com/holynova/mouse_scroll_heath_check",
-    "images": [],
+    "images": [
+      "./screenshots/mouse_scroll_heath_check.png"
+    ],
     "tags": [
       "html"
     ]
@@ -338,7 +350,9 @@
     "repoName": "holynova.github.io",
     "demoLink": "https://holynova.github.io/holynova.github.io/",
     "repoLink": "https://github.com/holynova/holynova.github.io",
-    "images": [],
+    "images": [
+      "./screenshots/holynova.github.io.png"
+    ],
     "tags": [
       "javascript",
       "css"
@@ -381,7 +395,9 @@
     "repoName": "mobile_tools",
     "demoLink": "https://mobile-tools.vercel.app",
     "repoLink": "https://github.com/holynova/mobile_tools",
-    "images": [],
+    "images": [
+      "./screenshots/mobile_tools.png"
+    ],
     "tags": [
       "typescript"
     ]
@@ -434,7 +450,9 @@
     "repoName": "head_tail_poem_generator",
     "demoLink": "https://holynova.github.io/head_tail_poem_generator/",
     "repoLink": "https://github.com/holynova/head_tail_poem_generator",
-    "images": [],
+    "images": [
+      "./screenshots/head_tail_poem_generator.png"
+    ],
     "tags": [
       "javascript"
     ]
@@ -445,7 +463,9 @@
     "repoName": "head_tail_poem",
     "demoLink": "https://holynova.github.io/head_tail_poem/",
     "repoLink": "https://github.com/holynova/head_tail_poem",
-    "images": [],
+    "images": [
+      "./screenshots/head_tail_poem.png"
+    ],
     "tags": [
       "typescript"
     ]
@@ -487,7 +507,9 @@
     "repoName": "pc_tools",
     "demoLink": "https://holynova.github.io/pc_tools/",
     "repoLink": "https://github.com/holynova/pc_tools",
-    "images": [],
+    "images": [
+      "./screenshots/pc_tools.png"
+    ],
     "tags": [
       "typescript"
     ]
@@ -677,7 +699,9 @@
     "repoName": "string_alchemy",
     "demoLink": "https://holynova.github.io/string_alchemy/",
     "repoLink": "https://github.com/holynova/string_alchemy",
-    "images": [],
+    "images": [
+      "./screenshots/string_alchemy.png"
+    ],
     "tags": [
       "javascript"
     ]
@@ -783,7 +807,9 @@
     "repoName": "equal_width",
     "demoLink": "https://holynova.github.io/equal_width/",
     "repoLink": "https://github.com/holynova/equal_width",
-    "images": [],
+    "images": [
+      "./screenshots/equal_width.png"
+    ],
     "tags": [
       "javascript"
     ]
@@ -882,7 +908,9 @@
     "repoName": "agreement2html_web",
     "demoLink": "https://holynova.github.io/agreement2html_web/",
     "repoLink": "https://github.com/holynova/agreement2html_web",
-    "images": [],
+    "images": [
+      "./screenshots/agreement2html_web.png"
+    ],
     "tags": [
       "html"
     ]

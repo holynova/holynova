@@ -1,10 +1,14 @@
 import { Octokit } from "@octokit/rest";
 import { lexer } from "marked";
 import fs from "fs/promises";
+import { createWriteStream } from "fs";
 import axios from "axios";
+import path from "path";
+import { finished } from "stream/promises";
 
 const USERNAME = "holynova";
 const OUTPUT_FILE = "projects_automated.json";
+const SCREENSHOT_DIR = "screenshots";
 const TOKEN = process.env.GITHUB_TOKEN || "";
 
 const octokit = new Octokit({
@@ -12,13 +16,11 @@ const octokit = new Octokit({
 });
 
 async function getReadme(owner, repo, defaultBranch = "main") {
-  // Use raw.githubusercontent.com to avoid API rate limits for non-authenticated requests
   const url = `https://raw.githubusercontent.com/${owner}/${repo}/${defaultBranch}/README.md`;
   try {
     const { data } = await axios.get(url);
     return data;
   } catch (error) {
-    // If main fails, try master
     if (defaultBranch === "main") {
         try {
             const { data } = await axios.get(`https://raw.githubusercontent.com/${owner}/${repo}/master/README.md`);
@@ -27,6 +29,36 @@ async function getReadme(owner, repo, defaultBranch = "main") {
     }
     return null;
   }
+}
+
+async function downloadImage(url, destPath) {
+    try {
+        const response = await axios({
+            url,
+            method: 'GET',
+            responseType: 'stream'
+        });
+        const writer = createWriteStream(destPath);
+        response.data.pipe(writer);
+        await finished(writer);
+        return true;
+    } catch (error) {
+        console.error(`Failed to download image from ${url}: ${error.message}`);
+        return false;
+    }
+}
+
+async function getScreenshot(demoUrl, repoName) {
+    const apiUrl = `https://api.microlink.io/?url=${encodeURIComponent(demoUrl)}&screenshot=true&meta=false&embed=screenshot.url`;
+    try {
+        // Microlink with embed=screenshot.url returns the image directly or a redirect to the image
+        const localPath = path.join(SCREENSHOT_DIR, `${repoName}.png`);
+        const success = await downloadImage(apiUrl, localPath);
+        return success ? `./${SCREENSHOT_DIR}/${repoName}.png` : null;
+    } catch (error) {
+        console.error(`Screenshot failed for ${repoName}: ${error.message}`);
+        return null;
+    }
 }
 
 function extractProjectInfo(markdown, owner, repo, defaultBranch = "main") {
@@ -42,7 +74,6 @@ function extractProjectInfo(markdown, owner, repo, defaultBranch = "main") {
       foundH1 = true;
       continue;
     }
-    // Extract first paragraph for description
     if (token.type === "paragraph" && !desc) {
       desc = token.text;
     }
@@ -51,7 +82,6 @@ function extractProjectInfo(markdown, owner, repo, defaultBranch = "main") {
       if (t.type === "image") {
         let src = t.href;
         if (!src.startsWith("http")) {
-          // Clean up relative path
           const cleanPath = src.replace(/^(\.\/|\/)/, "");
           src = `https://raw.githubusercontent.com/${owner}/${repo}/${defaultBranch}/${cleanPath}`;
         }
@@ -71,16 +101,18 @@ async function main() {
   console.log(`🚀 Starting scraper for user: ${USERNAME}...`);
   
   try {
-    // Fetch all public repos
     const { data: repos } = await octokit.repos.listForUser({
       username: USERNAME,
       type: "public",
       sort: "updated",
-      per_page: 100, // Adjust if user has > 100 repos
+      per_page: 100,
     });
 
     const filteredRepos = repos.filter(repo => !repo.fork);
     console.log(`📦 Identified ${filteredRepos.length} public non-forked repositories.`);
+
+    // Ensure screenshots directory exists
+    await fs.mkdir(SCREENSHOT_DIR, { recursive: true });
 
     const projects = [];
 
@@ -88,7 +120,7 @@ async function main() {
       process.stdout.write(`🔍 Processing ${repo.name}... `);
       
       const markdown = await getReadme(USERNAME, repo.name, repo.default_branch);
-      const { desc, images } = extractProjectInfo(markdown, USERNAME, repo.name, repo.default_branch);
+      const { desc, images: extractedImages } = extractProjectInfo(markdown, USERNAME, repo.name, repo.default_branch);
 
       const tags = new Set();
       if (repo.language) tags.add(repo.language.toLowerCase());
@@ -101,9 +133,20 @@ async function main() {
         demoLink = `https://${USERNAME}.github.io/${repo.name}/`;
       }
 
+      let images = [...extractedImages];
+      
+      // If no images found in README, try to take a screenshot of the demo link
+      if (images.length === 0 && demoLink) {
+        process.stdout.write(`📸 Capturing screenshot... `);
+        const screenshotPath = await getScreenshot(demoLink, repo.name);
+        if (screenshotPath) {
+          images.push(screenshotPath);
+        }
+      }
+
       projects.push({
         title: repo.name.replace(/[-_]/g, " ").replace(/\b\w/g, c => c.toUpperCase()),
-        desc: (desc || "").split("\n")[0].slice(0, 200), // Safety truncation
+        desc: (desc || "").split("\n")[0].slice(0, 200),
         repoName: repo.name,
         demoLink,
         repoLink: repo.html_url,

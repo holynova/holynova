@@ -24,7 +24,7 @@
 18. [火锅定时器](#火锅定时器)
 19. [100 Clocks](#100-clocks)
 20. [JSON转TypeScript定义](#json转typescript定义)
-21. [iOS自适应键盘](#ios自适应键盘)
+21. [iOS打字模拟](#ios打字模拟)
 
 ---
 
@@ -236,7 +236,7 @@
 
 ---
 
-### iOS自适应键盘
+### iOS打字模拟
 <img width="320" alt="Preview" src="./keyboard_sentence.png">
 
 - **简介**: iOS 软键盘自适应收缩与打字演示
