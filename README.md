@@ -24,6 +24,7 @@
 18. [火锅定时器](#火锅定时器)
 19. [100 Clocks](#100-clocks)
 20. [JSON转TypeScript定义](#json转typescript定义)
+21. [iOS自适应键盘](#ios自适应键盘)
 
 ---
 
@@ -228,10 +229,20 @@
 <img width="640" alt="Preview" src="./158735061-68370963-27d9-40e2-a364-4c64dd85b2a1.png">
 
 - **简介**: TS神器
-支持 JavaScript 代码转换为 TypeScript，自动类型推导和类型声明生成
+支持 JavaScript 代码转换为 TypeScript，自动类型推导 and 类型声明生成
 同时包含JSON格式化工具
 - **链接**: [🌐 在线预览](https://holynova.github.io/json_to_ts/) | [💻 源码仓库](https://github.com/holynova/json_to_ts)
 - **标签**: `website` `typescript` `react` `tool` `devTool`
+
+---
+
+### iOS自适应键盘
+<img width="320" alt="Preview" src="./keyboard_sentence.png">
+
+- **简介**: iOS 软键盘自适应收缩与打字演示
+模拟 iOS 键盘在输入不同句子时消隐未使用键的自适应变化。支持保留三行、单行合并、方形流式布局三种收缩模式。利用 Web Audio API 动态合成按键音，支持一键录制导出 MP4/WebM 视频。
+- **链接**: [🌐 在线预览](https://holynova.github.io/keyboard_sentence/) | [💻 源码仓库](https://github.com/holynova/keyboard_sentence)
+- **标签**: `website` `javascript` `animation` `audio` `video`
 
 
 # 语言统计
