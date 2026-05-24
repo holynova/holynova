@@ -27,10 +27,10 @@
 
 ### Scrape to Markdown
 ![Preview](./scrape_to_markdown.png)
-- **简介**: 一个多功能 Chrome 扩展，用于内容抓取、格式转换和批量图片下载
-技术栈: React 19 + TypeScript + Vite + TailwindCSS
+- **简介**: Chrome 侧边栏效率工具，支持网页转 Markdown、微博/豆瓣数据导出、普通网页图片下载，以及 Gemini / ChatGPT 原图批量打包下载
+带构建时间、自动标签选择、下载进度日志和图片数量限制
 - **链接**: [💻 源码仓库](https://github.com/holynova/scrape-to-markdown.chrome)
-- **标签**: `chromeExtension` `typescript` `react` `tool`
+- **标签**: `chromeExtension` `typescript` `react` `ai` `scraper` `tool`
 
 ---
 

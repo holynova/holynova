@@ -23,14 +23,14 @@
   },
   {
     "title": "Scrape to Markdown",
-    "desc": "一个多功能 Chrome 扩展，用于内容抓取、格式转换和批量图片下载\n技术栈: React 19 + TypeScript + Vite + TailwindCSS",
+    "desc": "Chrome 侧边栏效率工具，支持网页转 Markdown、微博/豆瓣数据导出、普通网页图片下载，以及 Gemini / ChatGPT 原图批量打包下载\n带构建时间、自动标签选择、下载进度日志和图片数量限制",
     "repoName": "scrape-to-markdown.chrome",
     "demoLink": "",
     "repoLink": "https://github.com/holynova/scrape-to-markdown.chrome",
     "images": [
       "./scrape_to_markdown.png"
     ],
-    "tags": ["chromeExtension", "typescript", "react", "tool"]
+    "tags": ["chromeExtension", "typescript", "react", "ai", "scraper", "tool"]
   },
   {
     "title": "坦克战术",
