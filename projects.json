@@ -1,5 +1,23 @@
 [
   {
+    "title": "视频提示词生成器",
+    "desc": "本地网页工具，用模板生成中英文 AI 视频 Prompt，支持复制、历史、收藏和常用视频模型入口。",
+    "repoName": "video_prompt_generator",
+    "demoLink": "https://holynova.github.io/video_prompt_generator/",
+    "repoLink": "https://github.com/holynova/video_prompt_generator",
+    "images": [
+      "./video_prompt_generator.png"
+    ],
+    "tags": [
+      "website",
+      "html",
+      "javascript",
+      "ai",
+      "tool",
+      "video"
+    ]
+  },
+  {
     "title": "Offer 比较神器",
     "desc": "Offer 比较器和总包计算器，支持奖金、股权、期权、工时、税后估算、多维评分和图表对比。",
     "repoName": "offer_compare",
@@ -8,7 +26,13 @@
     "images": [
       "./offer_compare.png"
     ],
-    "tags": ["website", "html", "javascript", "tool", "calculator"]
+    "tags": [
+      "website",
+      "html",
+      "javascript",
+      "tool",
+      "calculator"
+    ]
   },
   {
     "title": "古诗文起名",
@@ -19,7 +43,13 @@
     "images": [
       "./gushi_namer.png"
     ],
-    "tags": ["website", "mobileWeb", "typescript", "chinese", "tool"]
+    "tags": [
+      "website",
+      "mobileWeb",
+      "typescript",
+      "chinese",
+      "tool"
+    ]
   },
   {
     "title": "Gemini 批量生图插件",
@@ -30,7 +60,12 @@
     "images": [
       "./prompt_one_by_one.png"
     ],
-    "tags": ["chromeExtension", "javascript", "ai", "tool"]
+    "tags": [
+      "chromeExtension",
+      "javascript",
+      "ai",
+      "tool"
+    ]
   },
   {
     "title": "Scrape to Markdown",
@@ -41,7 +76,14 @@
     "images": [
       "./scrape_to_markdown.png"
     ],
-    "tags": ["chromeExtension", "typescript", "react", "ai", "scraper", "tool"]
+    "tags": [
+      "chromeExtension",
+      "typescript",
+      "react",
+      "ai",
+      "scraper",
+      "tool"
+    ]
   },
   {
     "title": "坦克战术",
@@ -52,7 +94,12 @@
     "images": [
       "./tank.png"
     ],
-    "tags": ["website", "typescript", "react", "game"]
+    "tags": [
+      "website",
+      "typescript",
+      "react",
+      "game"
+    ]
   },
   {
     "title": "俳句Tinder",
@@ -64,7 +111,12 @@
       "./haiku_flow1.png",
       "./haiku_flow2.png"
     ],
-    "tags": ["website", "mobileWeb", "typescript", "chinese"]
+    "tags": [
+      "website",
+      "mobileWeb",
+      "typescript",
+      "chinese"
+    ]
   },
   {
     "title": "YouTube视频抓取",
@@ -75,7 +127,10 @@
     "images": [
       "./youtueb_scraper.png"
     ],
-    "tags": ["tool", "scraper"]
+    "tags": [
+      "tool",
+      "scraper"
+    ]
   },
   {
     "title": "收藏夹淘金",
@@ -86,7 +141,11 @@
     "images": [
       "./collection_miner.png"
     ],
-    "tags": ["chromeExtension", "javascript", "tool"]
+    "tags": [
+      "chromeExtension",
+      "javascript",
+      "tool"
+    ]
   },
   {
     "title": "等宽文字生成器",
@@ -97,7 +156,11 @@
     "images": [
       "https://user-images.githubusercontent.com/8215783/158734207-674ca43d-0a5e-451d-99d6-5f54f6c36478.png"
     ],
-    "tags": ["website", "javascript", "tool"]
+    "tags": [
+      "website",
+      "javascript",
+      "tool"
+    ]
   },
   {
     "title": "弹幕附魔",
@@ -108,7 +171,12 @@
     "images": [
       "https://user-images.githubusercontent.com/8215783/158734137-4ce17d65-a1d3-42d3-ba37-d8b530096bbd.png"
     ],
-    "tags": ["website", "javascript", "fun", "tool"]
+    "tags": [
+      "website",
+      "javascript",
+      "fun",
+      "tool"
+    ]
   },
   {
     "title": "排序算法可视化",
@@ -119,7 +187,12 @@
     "images": [
       "https://user-images.githubusercontent.com/8215783/158734723-f9b5d51d-4c9f-436e-a496-4c0bdaab3373.png"
     ],
-    "tags": ["website", "javascript", "visualization", "algorithm"]
+    "tags": [
+      "website",
+      "javascript",
+      "visualization",
+      "algorithm"
+    ]
   },
   {
     "title": "藏头诗生成器",
@@ -130,7 +203,12 @@
     "images": [
       "https://user-images.githubusercontent.com/8215783/158734587-0994c997-48c3-42b0-a1ba-f83a0f378c03.png"
     ],
-    "tags": ["website", "typescript", "chinese", "fun"]
+    "tags": [
+      "website",
+      "typescript",
+      "chinese",
+      "fun"
+    ]
   },
   {
     "title": "倒推工资",
@@ -141,7 +219,12 @@
     "images": [
       "./salary.png"
     ],
-    "tags": ["website", "typescript", "react", "tool"]
+    "tags": [
+      "website",
+      "typescript",
+      "react",
+      "tool"
+    ]
   },
   {
     "title": "排列组合生成器",
@@ -152,7 +235,13 @@
     "images": [
       "./combination.png"
     ],
-    "tags": ["website", "typescript", "react", "tool", "algorithm"]
+    "tags": [
+      "website",
+      "typescript",
+      "react",
+      "tool",
+      "algorithm"
+    ]
   },
   {
     "title": "电子万花尺",
@@ -163,7 +252,13 @@
     "images": [
       "./spinning-drawer.png"
     ],
-    "tags": ["website", "html", "visualization", "fun", "canvas"]
+    "tags": [
+      "website",
+      "html",
+      "visualization",
+      "fun",
+      "canvas"
+    ]
   },
   {
     "title": "一眼看电影",
@@ -174,7 +269,14 @@
     "images": [
       "./one_second_movie.png"
     ],
-    "tags": ["website", "typescript", "react", "node", "tool", "video"]
+    "tags": [
+      "website",
+      "typescript",
+      "react",
+      "node",
+      "tool",
+      "video"
+    ]
   },
   {
     "title": "生命时间轴可视化",
@@ -183,7 +285,13 @@
     "demoLink": "",
     "repoLink": "https://github.com/holynova/life_bar_chart",
     "images": [],
-    "tags": ["website", "typescript", "react", "visualization", "canvas"]
+    "tags": [
+      "website",
+      "typescript",
+      "react",
+      "visualization",
+      "canvas"
+    ]
   },
   {
     "title": "节假日可视化",
@@ -194,7 +302,12 @@
     "images": [
       "./holiday.png"
     ],
-    "tags": ["website", "typescript", "react", "visualization"]
+    "tags": [
+      "website",
+      "typescript",
+      "react",
+      "visualization"
+    ]
   },
   {
     "title": "火锅定时器",
@@ -205,7 +318,13 @@
     "images": [
       "./hotpot.png"
     ],
-    "tags": ["website", "typescript", "react", "tool", "fun"]
+    "tags": [
+      "website",
+      "typescript",
+      "react",
+      "tool",
+      "fun"
+    ]
   },
   {
     "title": "100 Clocks",
@@ -216,7 +335,13 @@
     "images": [
       "./100_clocks.png"
     ],
-    "tags": ["website", "html", "visualization", "fun", "canvas"]
+    "tags": [
+      "website",
+      "html",
+      "visualization",
+      "fun",
+      "canvas"
+    ]
   },
   {
     "title": "JSON转TypeScript定义",
@@ -227,6 +352,12 @@
     "images": [
       "https://user-images.githubusercontent.com/8215783/158735061-68370963-27d9-40e2-a364-4c64dd85b2a1.png"
     ],
-    "tags": ["website", "typescript", "react", "tool", "devTool"]
+    "tags": [
+      "website",
+      "typescript",
+      "react",
+      "tool",
+      "devTool"
+    ]
   }
 ]
