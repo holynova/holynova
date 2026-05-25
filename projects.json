@@ -1,5 +1,23 @@
 [
   {
+    "title": "人像时间线",
+    "desc": "纯前端人脸照片对齐工具，支持 Demo、日期排序、双眼对齐和 MP4/GIF 导出。",
+    "repoName": "photo_align",
+    "demoLink": "https://holynova.github.io/photo_align/",
+    "repoLink": "https://github.com/holynova/photo_align",
+    "images": [
+      "./photo_align.png"
+    ],
+    "tags": [
+      "website",
+      "typescript",
+      "react",
+      "ai",
+      "tool",
+      "video"
+    ]
+  },
+  {
     "title": "视频提示词生成器",
     "desc": "本地网页工具，用模板生成中英文 AI 视频 Prompt，支持复制、历史、收藏和常用视频模型入口。",
     "repoName": "video_prompt_generator",
