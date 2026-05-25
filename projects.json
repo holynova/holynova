@@ -1,5 +1,16 @@
 [
   {
+    "title": "Offer 比较神器",
+    "desc": "Offer 比较器和总包计算器，支持奖金、股权、期权、工时、税后估算、多维评分和图表对比。",
+    "repoName": "offer_compare",
+    "demoLink": "https://holynova.github.io/offer_compare/",
+    "repoLink": "https://github.com/holynova/offer_compare",
+    "images": [
+      "./offer_compare.png"
+    ],
+    "tags": ["website", "html", "javascript", "tool", "calculator"]
+  },
+  {
     "title": "古诗文起名",
     "desc": "翻阅经典, 与一个惊艳的名字不期而遇\n利用诗经、楚辞、唐诗、宋词等给小朋友起名字\n支持手机查看",
     "repoName": "gushi_namer",
