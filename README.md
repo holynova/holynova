@@ -274,6 +274,16 @@
 - **链接**: [🌐 在线预览](https://holynova.github.io/keyboard_sentence/) | [💻 源码仓库](https://github.com/holynova/keyboard_sentence)
 - **标签**: `website` `javascript` `animation` `audio` `video`
 
+---
+
+### 书香管家
+<img width="640" alt="Preview" src="./bookshelf_manager.png">
+
+- **简介**: AI 拍照智能书架整理应用
+基于 React + TypeScript + IndexedDB + Gemini 2.5 Flash 多模态识别。支持拍照自动提取书籍信息、主色调及物理摆放顺序，直观还原 3D 虚拟原木书架，支持豆瓣、微信读书、淘宝链接快捷跳转。
+- **链接**: [🌐 在线预览](https://holynova.github.io/bookshelf_manager/) | [💻 源码仓库](https://github.com/holynova/bookshelf_manager)
+- **标签**: `website` `typescript` `react` `ai` `tool` `database`
+
 
 # 语言统计
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holynova)](https://github.com/anuraghazra/github-readme-stats)
