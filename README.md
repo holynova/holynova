@@ -4,6 +4,7 @@
 ## 🏗️ 项目列表
 
 ### 📖 快速导航
+1. [韵脚画布](#韵脚画布)
 1. [人像时间线](#人像时间线)
 2. [视频提示词生成器](#视频提示词生成器)
 3. [Offer 比较神器](#offer-比较神器)
@@ -28,6 +29,15 @@
 22. [100 Clocks](#100-clocks)
 23. [JSON转TypeScript定义](#json转typescript定义)
 24. [iOS打字模拟](#ios打字模拟)
+
+---
+
+### 韵脚画布
+<img width="320" alt="Preview" src="./char_finder.png">
+
+- **简介**: 移动端中文押韵字查找工具，取末字分析多音、声母、韵部和声调，过滤生僻字并提供随机灵感。
+- **链接**: [🌐 在线预览](https://holynova.github.io/char_finder/) | [💻 源码仓库](https://github.com/holynova/char_finder)
+- **标签**: `website` `mobileWeb` `typescript` `react` `chinese` `tool`
 
 ---
 
