@@ -4,6 +4,7 @@
 ## 🏗️ 项目列表
 
 ### 📖 快速导航
+1. [设计系统目录库](#设计系统目录库)
 1. [韵脚画布](#韵脚画布)
 1. [人像时间线](#人像时间线)
 2. [视频提示词生成器](#视频提示词生成器)
@@ -29,6 +30,15 @@
 22. [100 Clocks](#100-clocks)
 23. [JSON转TypeScript定义](#json转typescript定义)
 24. [iOS打字模拟](#ios打字模拟)
+
+---
+
+### 设计系统目录库
+<img width="640" alt="Preview" src="./my-design-system.png">
+
+- **简介**: 内容优先的网页设计规范目录，包含多套独立 HTML 规范页，并扩展 5 套低饱和配色方案。
+- **链接**: [🌐 在线预览](https://holynova.github.io/my-design-system/) | [💻 源码仓库](https://github.com/holynova/my-design-system)
+- **标签**: `website` `html` `css` `design-system` `tool`
 
 ---
 

@@ -1,5 +1,22 @@
 [
   {
+    "title": "设计系统目录库",
+    "desc": "内容优先的网页设计规范目录，包含多套独立 HTML 规范页，并扩展 5 套低饱和配色方案。",
+    "repoName": "my-design-system",
+    "demoLink": "https://holynova.github.io/my-design-system/",
+    "repoLink": "https://github.com/holynova/my-design-system",
+    "images": [
+      "./my-design-system.png"
+    ],
+    "tags": [
+      "website",
+      "html",
+      "css",
+      "design-system",
+      "tool"
+    ]
+  },
+  {
     "title": "人像时间线",
     "desc": "纯前端人脸照片对齐工具，支持 Demo、日期排序、双眼对齐和 MP4/GIF 导出。",
     "repoName": "photo_align",
