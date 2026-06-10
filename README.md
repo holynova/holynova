@@ -32,6 +32,15 @@
 
 ---
 
+### Z-Image-Turbo Local Studio
+<img width="640" alt="Preview" src="./image_local_llm.png">
+
+- **简介**: 本地 AI 生图工作台，支持 Z-Image-Turbo 常驻加载、批量提示词队列、暂停/继续/停止、历史记录和生成图片画廊。
+- **链接**: [在线预览](https://holynova.github.io/image_local_llm/) | [源码仓库](https://github.com/holynova/image_local_llm)
+- **标签**: `website` `python` `fastapi` `javascript` `ai` `tool`
+
+---
+
 ### 韵脚画布
 <img width="320" alt="Preview" src="./char_finder.png">
 
