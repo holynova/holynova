@@ -1,5 +1,22 @@
 [
   {
+    "title": "AI Updater Skill",
+    "desc": "Codex skill for auditing AI apps, CLIs, IDE extensions, and skills, then choosing safe upgrades by installer source.",
+    "repoName": "ai-updater-skill",
+    "demoLink": "https://holynova.github.io/ai-updater-skill/",
+    "repoLink": "https://github.com/holynova/ai-updater-skill",
+    "images": [
+      "./ai-updater-skill.png"
+    ],
+    "tags": [
+      "codex",
+      "skill",
+      "ai",
+      "cli",
+      "tool"
+    ]
+  },
+  {
     "title": "设计系统目录库",
     "desc": "内容优先的网页设计规范目录，包含多套独立 HTML 规范页，并扩展 5 套低饱和配色方案。",
     "repoName": "my-design-system",

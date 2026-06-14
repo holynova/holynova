@@ -1,6 +1,16 @@
 # 概况
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holynova&show_icons=true)
 
+
+## AI Updater Skill
+<img width="640" alt="AI Updater Skill preview" src="./ai-updater-skill.png">
+
+- **Summary**: Codex skill for auditing AI apps, CLIs, IDE extensions, and skills, then choosing safe upgrades by installer source.
+- **Links**: [Pages](https://holynova.github.io/ai-updater-skill/) | [Repo](https://github.com/holynova/ai-updater-skill)
+- **Tags**: `codex` `skill` `ai` `cli` `tool`
+
+---
+
 ## 🏗️ 项目列表
 
 ### 📖 快速导航
