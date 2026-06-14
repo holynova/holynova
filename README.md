@@ -313,6 +313,16 @@
 - **链接**: [🌐 在线预览](https://holynova.github.io/bookshelf_manager/) | [💻 源码仓库](https://github.com/holynova/bookshelf_manager)
 - **标签**: `website` `typescript` `react` `ai` `tool` `database`
 
+---
+
+### 网页动效设计灵感库
+<img width="640" alt="Preview" src="./web_motion_showcase.png">
+
+- **简介**: Web Motion Showcase
+网页 UI 动效科普与提示词灵感库。收录了 30 个适合初学者的经典网页动画，支持多色温低饱和主题切换，提供高解析全屏预览以及一键复制 AI 提示词。
+- **链接**: [🌐 在线预览](https://holynova.github.io/web-motion-showcase/) | [💻 源码仓库](https://github.com/holynova/web-motion-showcase)
+- **标签**: `website` `javascript` `animation` `design`
+
 
 # 语言统计
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holynova)](https://github.com/anuraghazra/github-readme-stats)
