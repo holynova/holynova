@@ -8,6 +8,7 @@
 | ⭐ | 项目 | 预览 | 简介 | 链接 |
 |---:|---|---|---|---|
 | 2225 | 古诗文起名 | <img width="320" alt="古诗文起名 Preview" src="./gushi_namer.png"> | 诗经楚辞唐诗宋词起名 | [Demo](https://holynova.github.io/gushi_namer/) · [Repo](https://github.com/holynova/gushi_namer) |
+| 0 | GitHub Pages Detector | <img width="320" alt="GitHub Pages Detector Preview" src="./github-pages-detector-extension.png"> | GitHub repo Pages 状态检测插件 | [Demo](https://holynova.github.io/github-pages-detector-extension/) · [Repo](https://github.com/holynova/github-pages-detector-extension) |
 | 0 | 收藏夹淘金 | <img width="320" alt="收藏夹淘金 Preview" src="./collection_miner.png"> | 新标签页随机展示收藏夹 | [Repo](https://github.com/holynova/collection_miner) |
 | 0 | 韵脚画布 | <img width="320" alt="韵脚画布 Preview" src="./char_finder.png"> | 移动端中文押韵字查找 | [Demo](https://holynova.github.io/char_finder/) · [Repo](https://github.com/holynova/char_finder) |
 | 0 | 网页动效设计灵感库 | <img width="320" alt="网页动效设计灵感库 Preview" src="./web_motion_showcase.png"> | 30 个经典网页动画 + AI 提示词 | [Demo](https://holynova.github.io/web-motion-showcase/) · [Repo](https://github.com/holynova/web-motion-showcase) |

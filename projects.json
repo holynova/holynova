@@ -1,5 +1,21 @@
 [
   {
+    "title": "GitHub Pages Detector",
+    "desc": "Chrome 插件：访问 GitHub repo 时检测 Pages 状态，支持打开和复制 Pages URL。",
+    "repoName": "github-pages-detector-extension",
+    "demoLink": "https://holynova.github.io/github-pages-detector-extension/",
+    "repoLink": "https://github.com/holynova/github-pages-detector-extension",
+    "images": [
+      "./github-pages-detector-extension.png"
+    ],
+    "tags": [
+      "chromeExtension",
+      "javascript",
+      "github",
+      "tool"
+    ]
+  },
+  {
     "title": "AI Updater Skill",
     "desc": "Codex skill for auditing AI apps, CLIs, IDE extensions, and skills, then choosing safe upgrades by installer source.",
     "repoName": "ai-updater-skill",
