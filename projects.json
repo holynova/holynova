@@ -1,5 +1,22 @@
 [
   {
+    "title": "JS vs Go 对比学习",
+    "desc": "单页课程网站，用清晰文字和代码高亮对比 JavaScript 与 Go 的语法、类型、并发和生态。",
+    "repoName": "js-go-compare",
+    "demoLink": "https://holynova.github.io/js-go-compare/",
+    "repoLink": "https://github.com/holynova/js-go-compare",
+    "images": [
+      "./js-go-compare.png"
+    ],
+    "tags": [
+      "website",
+      "javascript",
+      "go",
+      "learning",
+      "tool"
+    ]
+  },
+  {
     "title": "GitHub Pages Detector",
     "desc": "Chrome 插件：访问 GitHub repo 时检测 Pages 状态，支持打开和复制 Pages URL。",
     "repoName": "github-pages-detector-extension",
