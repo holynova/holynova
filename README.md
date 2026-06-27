@@ -8,6 +8,7 @@
 | ⭐ | 项目 | 预览 | 简介 | 链接 |
 |---:|---|---|---|---|
 | 2225 | 古诗文起名 | <img width="320" alt="古诗文起名 Preview" src="./gushi_namer.png"> | 诗经楚辞唐诗宋词起名 | [Demo](https://holynova.github.io/gushi_namer/) · [Repo](https://github.com/holynova/gushi_namer) |
+| 0 | 地图投影形变实验室 | <img width="320" alt="地图投影形变实验室 Preview" src="./mercator-country-compare.png"> | 在 Web Mercator 投影下对比各个国家的真实物理大小，支持球面平移与多国独立拖拽比较 | [Demo](https://holynova.github.io/mercator-country-compare/) · [Repo](https://github.com/holynova/mercator-country-compare) |
 | 0 | JS vs Go 对比学习 | <img width="320" alt="JS vs Go 对比学习 Preview" src="./js-go-compare.png"> | 单页课程网站，对比 JavaScript 与 Go | [Demo](https://holynova.github.io/js-go-compare/) · [Repo](https://github.com/holynova/js-go-compare) |
 | 0 | GitHub Pages Detector | <img width="320" alt="GitHub Pages Detector Preview" src="./github-pages-detector-extension.png"> | GitHub repo Pages 状态检测插件 | [Demo](https://holynova.github.io/github-pages-detector-extension/) · [Repo](https://github.com/holynova/github-pages-detector-extension) |
 | 0 | 收藏夹淘金 | <img width="320" alt="收藏夹淘金 Preview" src="./collection_miner.png"> | 新标签页随机展示收藏夹 | [Repo](https://github.com/holynova/collection_miner) |
