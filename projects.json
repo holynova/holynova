@@ -1,7 +1,7 @@
 [
   {
     "title": "地图投影形变实验室",
-    "desc": "在 Web Mercator 投影下对比各个国家的真实物理大小，支持球面大圆平移与多国独立拖拽比较，彻底纠正各向异性形变误差。",
+    "desc": "在 Web Mercator 投影下对比国家真实大小。支持大圆球面平移、中英双语切换、经纬网及赤道参考线，内置经典场景预设。",
     "repoName": "mercator-country-compare",
     "demoLink": "https://holynova.github.io/mercator-country-compare/",
     "repoLink": "https://github.com/holynova/mercator-country-compare",
