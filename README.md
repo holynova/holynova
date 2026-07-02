@@ -8,6 +8,7 @@
 | ⭐ | 项目 | 预览 | 简介 | 链接 |
 |---:|---|---|---|---|
 | 2225 | 古诗文起名 | <img width="320" alt="古诗文起名 Preview" src="./gushi_namer.png"> | 诗经楚辞唐诗宋词起名 | [Demo](https://holynova.github.io/gushi_namer/) · [Repo](https://github.com/holynova/gushi_namer) |
+| 0 | Game Tier | <img width="320" alt="Game Tier Preview" src="./game-rating-lookup.png"> | Steam / 小黑盒游戏评分查询 CLI + 网页应用 | [Demo](https://holynova.github.io/game-rating-lookup/) · [Repo](https://github.com/holynova/game-rating-lookup) |
 | 0 | 移动端传感器面板 | <img width="320" alt="移动端传感器面板 Preview" src="./mobile-sensor-playground.png"> | 3D WebGL 移动端陀螺仪与加速度计交互面板 | [Demo](https://holynova.github.io/mobile-sensor-playground/) · [Repo](https://github.com/holynova/mobile-sensor-playground) |
 | 0 | 地图投影形变实验室 | <img width="320" alt="地图投影形变实验室 Preview" src="./mercator-country-compare.png"> | 在 Web Mercator 投影下对比国家真实大小。支持大圆球面平移、中英双语切换、经纬网及赤道参考线，内置经典场景预设 | [Demo](https://holynova.github.io/mercator-country-compare/) · [Repo](https://github.com/holynova/mercator-country-compare) |
 | 0 | JS vs Go 对比学习 | <img width="320" alt="JS vs Go 对比学习 Preview" src="./js-go-compare.png"> | 单页课程网站，对比 JavaScript 与 Go | [Demo](https://holynova.github.io/js-go-compare/) · [Repo](https://github.com/holynova/js-go-compare) |
