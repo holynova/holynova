@@ -8,6 +8,7 @@
 | ⭐ | 项目 | 预览 | 简介 | 链接 |
 |---:|---|---|---|---|
 | 2225 | 古诗文起名 | <img width="320" alt="古诗文起名 Preview" src="./gushi_namer.png"> | 诗经楚辞唐诗宋词起名 | [Demo](https://holynova.github.io/gushi_namer/) · [Repo](https://github.com/holynova/gushi_namer) |
+| 0 | 诗歌公式 | <img width="320" alt="诗歌公式 Preview" src="./poem_formula.png"> | 《意象的帝国》错配写诗方法论，含插图、例子与生成提示词 | [Demo](https://holynova.github.io/poem-formula/) · [Repo](https://github.com/holynova/poem-formula) |
 | 0 | JSON Workbench | <img width="320" alt="JSON Workbench Preview" src="./json-workbench-extension.png"> | 本地 JSON 修复、格式化、Schema/TS/Zod/Pydantic/Mock 生成 Chrome 插件 | [Demo](https://holynova.github.io/json-workbench-extension/) · [Repo](https://github.com/holynova/json-workbench-extension) |
 | 0 | Game Tier | <img width="320" alt="Game Tier Preview" src="./game-rating-lookup.png"> | Steam / 小黑盒游戏评分查询 CLI + 网页应用 | [Demo](https://holynova.github.io/game-rating-lookup/) · [Repo](https://github.com/holynova/game-rating-lookup) |
 | 0 | 移动端传感器面板 | <img width="320" alt="移动端传感器面板 Preview" src="./mobile-sensor-playground.png"> | 3D WebGL 移动端陀螺仪与加速度计交互面板 | [Demo](https://holynova.github.io/mobile-sensor-playground/) · [Repo](https://github.com/holynova/mobile-sensor-playground) |
