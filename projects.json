@@ -1,5 +1,22 @@
 [
   {
+    "title": "诗歌卡片 Tinder",
+    "desc": "Poetry Flow - 极简主义现代诗歌卡片浏览与分享应用。支持 Tinder 交互滑动品读、日光/夜幕双主题切换与高清诗歌海报一键导出。",
+    "repoName": "poetry-flow",
+    "demoLink": "https://holynova.github.io/poetry-flow/",
+    "repoLink": "https://github.com/holynova/poetry-flow",
+    "images": [
+      "./poetry_flow.png"
+    ],
+    "tags": [
+      "website",
+      "mobileWeb",
+      "typescript",
+      "chinese",
+      "poetry"
+    ]
+  },
+  {
     "title": "地图投影形变实验室",
     "desc": "在 Web Mercator 投影下对比国家真实大小。支持大圆球面平移、中英双语切换、经纬网及赤道参考线，内置经典场景预设。",
     "repoName": "mercator-country-compare",
