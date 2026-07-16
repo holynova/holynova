@@ -8,6 +8,7 @@
 | ⭐ | 项目 | 预览 | 简介 | 链接 |
 |---:|---|---|---|---|
 | 2225 | 古诗文起名 | <img width="320" alt="古诗文起名 Preview" src="./gushi_namer.png"> | 诗经楚辞唐诗宋词起名 | [Demo](https://holynova.github.io/gushi_namer/) · [Repo](https://github.com/holynova/gushi_namer) |
+| 0 | 名从何来 | <img width="320" alt="名从何来 Preview" src="./brand-etymology.png"> | 品牌名称词源、读音与文化背景静态知识库 | [Demo](https://holynova.github.io/brand-etymology/) · [Repo](https://github.com/holynova/brand-etymology) |
 | 0 | 近邻 | <img width="320" alt="近邻 Preview" src="https://raw.githubusercontent.com/holynova/shanghai-public-facilities/master/assets/screenshot.png"> | 上海公共地点近邻检索，覆盖文化、交通、医疗、商业与社区服务 | [Demo](https://holynova.github.io/shanghai-public-facilities/) · [Repo](https://github.com/holynova/shanghai-public-facilities) |
 | 0 | 诗歌公式 | <img width="320" alt="诗歌公式 Preview" src="./poem_formula.png"> | 《意象的帝国》错配写诗方法论，含插图、例子与生成提示词 | [Demo](https://holynova.github.io/poem-formula/) · [Repo](https://github.com/holynova/poem-formula) |
 | 0 | JSON Workbench | <img width="320" alt="JSON Workbench Preview" src="./json-workbench-extension.png"> | 本地 JSON 修复、格式化、Schema/TS/Zod/Pydantic/Mock 生成 Chrome 插件 | [Demo](https://holynova.github.io/json-workbench-extension/) · [Repo](https://github.com/holynova/json-workbench-extension) |
