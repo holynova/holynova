@@ -8,6 +8,7 @@
 | ⭐ | 项目 | 预览 | 简介 | 链接 |
 |---:|---|---|---|---|
 | 2225 | 古诗文起名 | <img width="320" alt="古诗文起名 Preview" src="./gushi_namer.png"> | 诗经楚辞唐诗宋词起名 | [Demo](https://holynova.github.io/gushi_namer/) · [Repo](https://github.com/holynova/gushi_namer) |
+| 0 | 50 Seeds | <img width="320" alt="50 Seeds Preview" src="./50-seeds.png"> | 24 类 × 50 条的 AI 作图视觉种子库，支持双语搜索、筛选、复制与 JSON 下载 | [Demo](https://holynova.github.io/50-seeds/) · [Repo](https://github.com/holynova/50-seeds) |
 | 0 | Viewport Relay | <img width="320" alt="Viewport Relay Preview" src="https://raw.githubusercontent.com/holynova/multi-screen-view/master/screenshot.png"> | 主屏同步多个 iPhone 视口的滚动、点击与导航 | [Demo](https://holynova.github.io/multi-screen-view/) · [Repo](https://github.com/holynova/multi-screen-view) |
 | 0 | 古籍典籍谐音梗追踪器 | <img width="320" alt="古籍典籍谐音梗追踪器 Preview" src="https://raw.githubusercontent.com/holynova/xieyin/master/screenshot.png"> | 基于 Sticker-Sheet Neo-Brutalism 视觉系统挖掘典籍谐音梗 | [Demo](https://holynova.github.io/xieyin/) · [Repo](https://github.com/holynova/xieyin) |
 | 0 | Flash Words | <img width="320" alt="Flash Words Preview" src="https://raw.githubusercontent.com/holynova/flash-words/master/assets/screenshot.png"> | 浏览器本地动态文字编排与视频、GIF 导出工具 | [Demo](https://holynova.github.io/flash-words/) · [Repo](https://github.com/holynova/flash-words) |

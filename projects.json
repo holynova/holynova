@@ -1,5 +1,23 @@
 [
   {
+    "title": "50 Seeds",
+    "desc": "24 类 × 50 条的 AI 作图视觉种子库，支持双语搜索、分类筛选、复制与 JSON 下载。",
+    "repoName": "50-seeds",
+    "demoLink": "https://holynova.github.io/50-seeds/",
+    "repoLink": "https://github.com/holynova/50-seeds",
+    "images": [
+      "./50-seeds.png"
+    ],
+    "tags": [
+      "website",
+      "javascript",
+      "ai",
+      "tool",
+      "json",
+      "chinese"
+    ]
+  },
+  {
     "title": "诗歌卡片 Tinder",
     "desc": "Poetry Flow - 极简主义现代诗歌卡片浏览与分享应用。支持 Tinder 交互滑动品读、日光/夜幕双主题切换与高清诗歌海报一键导出。",
     "repoName": "poetry-flow",
