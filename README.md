@@ -8,6 +8,7 @@
 | ⭐ | 项目 | 预览 | 简介 | 链接 |
 |---:|---|---|---|---|
 | 2225 | 古诗文起名 | <img width="320" alt="古诗文起名 Preview" src="./gushi_namer.png"> | 诗经楚辞唐诗宋词起名 | [Demo](https://holynova.github.io/gushi_namer/) · [Repo](https://github.com/holynova/gushi_namer) |
+| 0 | 古籍典籍谐音梗追踪器 | <img width="320" alt="古籍典籍谐音梗追踪器 Preview" src="https://raw.githubusercontent.com/holynova/xieyin/master/screenshot.png"> | 基于 Sticker-Sheet Neo-Brutalism 视觉系统挖掘典籍谐音梗 | [Demo](https://holynova.github.io/xieyin/) · [Repo](https://github.com/holynova/xieyin) |
 | 0 | Flash Words | <img width="320" alt="Flash Words Preview" src="https://raw.githubusercontent.com/holynova/flash-words/master/assets/screenshot.png"> | 浏览器本地动态文字编排与视频、GIF 导出工具 | [Demo](https://holynova.github.io/flash-words/) · [Repo](https://github.com/holynova/flash-words) |
 | 0 | 名从何来 | <img width="320" alt="名从何来 Preview" src="./brand-etymology.png"> | 品牌名称词源、读音与文化背景静态知识库 | [Demo](https://holynova.github.io/brand-etymology/) · [Repo](https://github.com/holynova/brand-etymology) |
 | 0 | 近邻 | <img width="320" alt="近邻 Preview" src="https://raw.githubusercontent.com/holynova/shanghai-public-facilities/master/assets/screenshot.png"> | 上海公共地点近邻检索，覆盖文化、交通、医疗、商业与社区服务 | [Demo](https://holynova.github.io/shanghai-public-facilities/) · [Repo](https://github.com/holynova/shanghai-public-facilities) |
