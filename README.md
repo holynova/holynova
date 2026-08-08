@@ -8,6 +8,7 @@
 | ⭐ | 项目 | 预览 | 简介 | 链接 |
 |---:|---|---|---|---|
 | 2225 | 古诗文起名 | <img width="320" alt="古诗文起名 Preview" src="./gushi_namer.png"> | 诗经楚辞唐诗宋词起名 | [Demo](https://holynova.github.io/gushi_namer/) · [Repo](https://github.com/holynova/gushi_namer) |
+| 0 | Repo2Script | <img width="320" alt="Repo2Script Preview" src="https://raw.githubusercontent.com/holynova/one-punch/master/screenshot.png"> | 浏览器内从可见的 GitHub 仓库页面导出文本文件，生成可恢复项目的 setup.sh | [Demo](https://holynova.github.io/one-punch/) · [Repo](https://github.com/holynova/one-punch) |
 | 0 | 50 Seeds | <img width="320" alt="50 Seeds Preview" src="./50-seeds.png"> | 48 类 × 50 条的 AI 作图视觉种子库，支持双语搜索、筛选、复制与 JSON 下载 | [Demo](https://holynova.github.io/50-seeds/) · [Repo](https://github.com/holynova/50-seeds) |
 | 0 | Chrome Session TUI | <img width="320" alt="Chrome Session TUI Preview" src="https://raw.githubusercontent.com/holynova/chrome-session-tui/master/docs/screenshot.svg"> | macOS Chrome 自动化进程管理 TUI，识别并安全关闭遗留会话 | [Demo](https://holynova.github.io/chrome-session-tui/) · [Repo](https://github.com/holynova/chrome-session-tui) |
 | 0 | Tiny Icons | <img width="320" alt="Tiny Icons Preview" src="https://raw.githubusercontent.com/holynova/tiny-icons/master/screenshot.png"> | Chrome 扩展和 Favicon 小图标生成器 | [Demo](https://holynova.github.io/tiny-icons/) · [Repo](https://github.com/holynova/tiny-icons) |
