@@ -8,6 +8,7 @@
 | ⭐ | 项目 | 预览 | 简介 | 链接 |
 |---:|---|---|---|---|
 | 2225 | 古诗文起名 | <img width="320" alt="古诗文起名 Preview" src="./gushi_namer.png"> | 诗经楚辞唐诗宋词起名 | [Demo](https://holynova.github.io/gushi_namer/) · [Repo](https://github.com/holynova/gushi_namer) |
+| 0 | 镜花万象 | <img width="320" alt="镜花万象 Preview" src="./kaleidoscope-studio.png"> | 可拖动三角取样，实时生成多种平铺万花筒图案 | [Demo](https://holynova.github.io/kaleidoscope-studio/) · [Repo](https://github.com/holynova/kaleidoscope-studio) |
 | 0 | 苔卡 Moss Card | <img width="320" alt="苔卡 Moss Card Preview" src="https://raw.githubusercontent.com/holynova/flash-card/master/docs/screenshot-today.png"> | 移动端 FSRS 闪卡 PWA，支持牌组、CSV 导入、离线学习与 Supabase 云同步 | [Demo](https://holynova.github.io/flash-card/) · [Repo](https://github.com/holynova/flash-card) |
 | 0 | Win98 屏幕保护程序 | <img width="320" alt="Win98 屏幕保护程序 Preview" src="./portfolio-win98-screen-saver.png"> | 复刻星空、3D 管道、迷宫等经典屏保，支持调参、宽屏和全屏 | [Demo](https://holynova.github.io/win98-screen-saver/) · [Repo](https://github.com/holynova/win98-screen-saver) |
 | 0 | 钟姐菜谱 | <img width="320" alt="钟姐菜谱 Preview" src="./portfolio-zhongjie-recipes.png"> | 中式家常菜的个人静态菜谱库 | [Demo](https://holynova.github.io/zhongjie-recipes/) · [Repo](https://github.com/holynova/zhongjie-recipes) |
