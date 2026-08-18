@@ -8,6 +8,7 @@
 | ⭐ | 项目 | 预览 | 简介 | 链接 |
 |---:|---|---|---|---|
 | 2225 | 古诗文起名 | <img width="320" alt="古诗文起名 Preview" src="./gushi_namer.png"> | 诗经楚辞唐诗宋词起名 | [Demo](https://holynova.github.io/gushi_namer/) · [Repo](https://github.com/holynova/gushi_namer) |
+| 0 | 助人对话练习册 | <img width="320" alt="助人对话练习册 Preview" src="https://raw.githubusercontent.com/holynova/psy-talks/master/implementation-v2-reference-state.jpg"> | 心理咨询常见对话微技能的移动端练习地图，含 v1 练习与 v2 阅读版 | [Demo](https://holynova.github.io/psy-talks/) · [Repo](https://github.com/holynova/psy-talks) |
 | 0 | 镜花万象 | <img width="320" alt="镜花万象 Preview" src="./kaleidoscope-studio.png"> | 可拖动三角取样，实时生成多种平铺万花筒图案 | [Demo](https://holynova.github.io/kaleidoscope-studio/) · [Repo](https://github.com/holynova/kaleidoscope-studio) |
 | 0 | 苔卡 Moss Card | <img width="320" alt="苔卡 Moss Card Preview" src="https://raw.githubusercontent.com/holynova/flash-card/master/docs/screenshot-today.png"> | 移动端 FSRS 闪卡 PWA，支持牌组、CSV 导入、离线学习与 Supabase 云同步 | [Demo](https://holynova.github.io/flash-card/) · [Repo](https://github.com/holynova/flash-card) |
 | 0 | Win98 屏幕保护程序 | <img width="320" alt="Win98 屏幕保护程序 Preview" src="./portfolio-win98-screen-saver.png"> | 复刻星空、3D 管道、迷宫等经典屏保，支持调参、宽屏和全屏 | [Demo](https://holynova.github.io/win98-screen-saver/) · [Repo](https://github.com/holynova/win98-screen-saver) |
@@ -81,3 +82,4 @@
 
 # 语言统计
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holynova)](https://github.com/anuraghazra/github-readme-stats)
+
