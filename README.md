@@ -1,5 +1,9 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=holynova.readme)
+
 # 概况
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holynova&show_icons=true)
+
+[![holy_nova's GitHub stats](https://github-stats-extended.vercel.app/api?username=holynova&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=holynova&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
 ## 项目列表
 
@@ -79,7 +83,4 @@
 | 1 | 火锅定时器 | <img width="320" alt="火锅定时器 Preview" src="./hotpot.png"> | 多食材同时计时 | [Repo](https://github.com/holynova/json_to_ts) |
 | 0 | YouTube视频抓取 | <img width="320" alt="YouTube视频抓取 Preview" src="./youtueb_scraper.png"> | YouTube 视频内容抓取 | - |
 | 0 | 100 Clocks | <img width="320" alt="100 Clocks Preview" src="./100_clocks.png"> | 不同风格的时钟集合 | [Demo](https://holynova.github.io/100-clocks) · [Repo](https://github.com/holynova/100-clocks) |
-
-# 语言统计
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holynova)](https://github.com/anuraghazra/github-readme-stats)
 
