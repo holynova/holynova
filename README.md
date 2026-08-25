@@ -5,9 +5,18 @@
 [![holy_nova's GitHub stats](https://github-stats-extended.vercel.app/api?username=holynova&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=holynova&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
-## 项目列表
+## 纯内容网站 / Content-only
 
-按最近更新时间排序，gushi_namer 固定第一。
+以阅读、浏览和整理知识为主，不把主要交互作为分类标准。
+
+| 项目 | 预览 | 简介 | 链接 |
+|---|---|---|---|
+| 说人话的用药科普 | <img width="320" alt="说人话的用药科普 Preview" src="./portfolio-health-book.png"> | 讲清病毒、细菌、炎症、抗生素与抗炎药的移动端科普 | [Demo](https://holynova.github.io/health-book/) · [Repo](https://github.com/holynova/health-book) |
+| 诗歌公式 | <img width="320" alt="诗歌公式 Preview" src="./portfolio-poem-formula.png"> | 《意象的帝国》错配写诗方法论，含插图、例子与生成提示词 | [Demo](https://holynova.github.io/poem-formula/) · [Repo](https://github.com/holynova/poem-formula) |
+
+## 其他项目
+
+其余项目按最近更新时间排序，gushi_namer 固定第一。
 
 | ⭐ | 项目 | 预览 | 简介 | 链接 |
 |---:|---|---|---|---|
@@ -30,7 +39,6 @@
 | 0 | Emoji 人生时间线 | <img width="320" alt="Emoji 人生时间线 Preview" src="./portfolio-life_emoji.png"> | 用 Emoji 事件编辑人生时间线并生成分享图 | [Demo](https://holynova.github.io/life_emoji/) · [Repo](https://github.com/holynova/life_emoji) |
 | 0 | 鼠标滚轮健康检测 | <img width="320" alt="鼠标滚轮健康检测 Preview" src="./portfolio-mouse_scroll_heath_check.png"> | 检测滚轮回滚、抖动与方向异常 | [Demo](https://holynova.github.io/mouse_scroll_heath_check/) · [Repo](https://github.com/holynova/mouse_scroll_heath_check) |
 | 0 | Repo2Script | <img width="320" alt="Repo2Script Preview" src="./portfolio-one-punch.png"> | 浏览器内从可见的 GitHub 仓库页面导出文本文件，生成可恢复项目的 setup.sh | [Demo](https://holynova.github.io/one-punch/) · [Repo](https://github.com/holynova/one-punch) |
-| 0 | 说人话的用药科普 | <img width="320" alt="说人话的用药科普 Preview" src="./portfolio-health-book.png"> | 讲清病毒、细菌、炎症、抗生素与抗炎药的移动端科普 | [Demo](https://holynova.github.io/health-book/) · [Repo](https://github.com/holynova/health-book) |
 | 0 | 评论区图书列表 | <img width="320" alt="评论区图书列表 Preview" src="./portfolio-industry-book-recommender.png"> | 从 2747 条评论整理 170 本书，支持搜索、学科筛选和排序 | [Demo](https://holynova.github.io/industry-book-recommender/) · [Repo](https://github.com/holynova/industry-book-recommender) |
 | 0 | AI Agent 开发岗位面试报告 | <img width="320" alt="AI Agent 开发岗位面试报告 Preview" src="./portfolio-ai-agent-interview-report.png"> | 近 30 天岗位调研、能力要求与 102 道面试题整理 | [Demo](https://holynova.github.io/ai-agent-interview-report/) · [Repo](https://github.com/holynova/ai-agent-interview-report) |
 | 0 | 德州扑克牌型概率 | <img width="320" alt="德州扑克牌型概率 Preview" src="./portfolio-texas-holdem-hand-probability.png"> | 离线精确计算最终牌型与按牌型率的交互工具 | [Demo](https://holynova.github.io/texas-holdem-hand-probability/) · [Repo](https://github.com/holynova/texas-holdem-hand-probability) |
@@ -43,7 +51,6 @@
 | 0 | Flash Words | <img width="320" alt="Flash Words Preview" src="./portfolio-flash-words.png"> | 浏览器本地动态文字编排与视频、GIF 导出工具 | [Demo](https://holynova.github.io/flash-words/) · [Repo](https://github.com/holynova/flash-words) |
 | 0 | 名从何来 | <img width="320" alt="名从何来 Preview" src="./brand-etymology.png"> | 品牌名称词源、读音与文化背景静态知识库 | [Demo](https://holynova.github.io/brand-etymology/) · [Repo](https://github.com/holynova/brand-etymology) |
 | 0 | 近邻 | <img width="320" alt="近邻 Preview" src="./portfolio-city-public-facilities.png"> | 上海公共地点近邻检索，覆盖文化、交通、医疗、商业与社区服务 | [Demo](https://holynova.github.io/city-public-facilities/) · [Repo](https://github.com/holynova/city-public-facilities) |
-| 0 | 诗歌公式 | <img width="320" alt="诗歌公式 Preview" src="./portfolio-poem-formula.png"> | 《意象的帝国》错配写诗方法论，含插图、例子与生成提示词 | [Demo](https://holynova.github.io/poem-formula/) · [Repo](https://github.com/holynova/poem-formula) |
 | 0 | JSON Workbench | <img width="320" alt="JSON Workbench Preview" src="./portfolio-json-workbench-extension.png"> | 本地 JSON 修复、格式化、Schema/TS/Zod/Pydantic/Mock 生成 Chrome 插件 | [Demo](https://holynova.github.io/json-workbench-extension/) · [Repo](https://github.com/holynova/json-workbench-extension) |
 | 0 | Game Tier | <img width="320" alt="Game Tier Preview" src="./game-rating-lookup.png"> | Steam / 小黑盒游戏评分查询 CLI + 网页应用 | [Demo](https://holynova.github.io/game-rating-lookup/) · [Repo](https://github.com/holynova/game-rating-lookup) |
 | 0 | 移动端传感器面板 | <img width="320" alt="移动端传感器面板 Preview" src="./portfolio-mobile-sensor-playground.png"> | 3D WebGL 移动端陀螺仪与加速度计交互面板 | [Demo](https://holynova.github.io/mobile-sensor-playground/) · [Repo](https://github.com/holynova/mobile-sensor-playground) |
