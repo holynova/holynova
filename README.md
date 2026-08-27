@@ -11,6 +11,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 压印之间 · Print Atlas | <img width="320" alt="压印之间 Preview" src="./portfolio-print-atlas.png"> | 从木刻、凹凸平孔版到 CMYK 网点套印的互动印刷图鉴 | [Demo](https://holynova.github.io/print-atlas/) · [Repo](https://github.com/holynova/print-atlas) |
 | 说人话的用药科普 | <img width="320" alt="说人话的用药科普 Preview" src="./portfolio-health-book.png"> | 讲清病毒、细菌、炎症、抗生素与抗炎药的移动端科普 | [Demo](https://holynova.github.io/health-book/) · [Repo](https://github.com/holynova/health-book) |
 | 诗歌公式 | <img width="320" alt="诗歌公式 Preview" src="./portfolio-poem-formula.png"> | 《意象的帝国》错配写诗方法论，含插图、例子与生成提示词 | [Demo](https://holynova.github.io/poem-formula/) · [Repo](https://github.com/holynova/poem-formula) |
 
