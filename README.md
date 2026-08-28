@@ -13,6 +13,7 @@
 |---|---|---|---|
 | 穿墙透壁，上海建筑剖透图册 | <img width="320" alt="穿墙透壁 Preview" src="./portfolio-shanghai-through-walls.jpg"> | 以公开资料为证据的上海建筑剖透图册，区分实证结构与受约束的推断复原 | [Demo](https://holynova.github.io/shanghai-through-walls/) · [Repo](https://github.com/holynova/shanghai-through-walls) |
 | 压印之间 · Print Atlas | <img width="320" alt="压印之间 Preview" src="./portfolio-print-atlas.png"> | 从木刻、凹凸平孔版到 CMYK 网点套印的互动印刷图鉴 | [Demo](https://holynova.github.io/print-atlas/) · [Repo](https://github.com/holynova/print-atlas) |
+| 游戏风格转换图鉴 | <img width="320" alt="游戏风格转换图鉴 Preview" src="./portfolio-game-style-transfer-atlas.jpg"> | 用三套城市照片比较 15 款热门游戏的实机风格、提示词与 16:9 横屏转译 | [Demo](https://holynova.github.io/game-style-transfer-atlas/) · [Repo](https://github.com/holynova/game-style-transfer-atlas) |
 | 说人话的用药科普 | <img width="320" alt="说人话的用药科普 Preview" src="./portfolio-health-book.png"> | 讲清病毒、细菌、炎症、抗生素与抗炎药的移动端科普 | [Demo](https://holynova.github.io/health-book/) · [Repo](https://github.com/holynova/health-book) |
 | 诗歌公式 | <img width="320" alt="诗歌公式 Preview" src="./portfolio-poem-formula.png"> | 《意象的帝国》错配写诗方法论，含插图、例子与生成提示词 | [Demo](https://holynova.github.io/poem-formula/) · [Repo](https://github.com/holynova/poem-formula) |
 
