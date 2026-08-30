@@ -25,6 +25,7 @@
 
 | ⭐ | 项目 | 预览 | 简介 | 链接 |
 |---:|---|---|---|---|
+| 0 | Shanghai Afterglow | <img width="320" alt="Shanghai Afterglow Preview" src="./portfolio-citypop-shanghai-exploration.png"> | 上海与北京的粗颗粒 City Pop 绘画、提示词与版画规律实验档案 | [Demo](https://holynova.github.io/citypop-shanghai-exploration/) · [Repo](https://github.com/holynova/citypop-shanghai-exploration) |
 | 2225 | 古诗文起名 | <img width="320" alt="古诗文起名 Preview" src="./portfolio-gushi_namer.png"> | 诗经楚辞唐诗宋词起名 | [Demo](https://holynova.github.io/gushi_namer/) · [Repo](https://github.com/holynova/gushi_namer) |
 | 0 | 助人对话练习册 | <img width="320" alt="助人对话练习册 Preview" src="./portfolio-psy-talks.png"> | 心理咨询常见对话微技能的移动端练习地图，含 v1 练习与 v2 阅读版 | [Demo](https://holynova.github.io/psy-talks/) · [Repo](https://github.com/holynova/psy-talks) |
 | 0 | 镜花万象 | <img width="320" alt="镜花万象 Preview" src="./portfolio-kaleidoscope-studio.png"> | 可拖动三角取样，实时生成多种平铺万花筒图案 | [Demo](https://holynova.github.io/kaleidoscope-studio/) · [Repo](https://github.com/holynova/kaleidoscope-studio) |
