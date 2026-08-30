@@ -10,8 +10,9 @@
 以阅读、浏览和整理知识为主，不把主要交互作为分类标准。
 
 | 项目 | 预览 | 简介 | 链接 |
-| 画风图谱 · 经典艺术与插画流派视觉解构 | <img width="320" alt="画风图谱 Preview" src="./portfolio-art-style-showcase.png"> | 9 大基准测试场景 × 14 种经典绘画与插画流派（全 126 组全量视觉图谱与 Prompt 对照），支持双画风同屏无级滑动对比 | [Demo](https://holynova.github.io/art-style-showcase/) · [Repo](https://github.com/holynova/art-style-showcase) |
 |---|---|---|---|
+| 日用品图鉴 · 去品牌产品图素材库 | <img width="320" alt="日用品图鉴 Preview" src="./portfolio-daily-necessities-library.png"> | 30 个常见日用品与家用电器的去品牌、纯色白底产品图素材库，支持分类筛选、搜索、预览与下载 | [Demo](https://holynova.github.io/daily-necessities-library/) · [Repo](https://github.com/holynova/daily-necessities-library) |
+| 画风图谱 · 经典艺术与插画流派视觉解构 | <img width="320" alt="画风图谱 Preview" src="./portfolio-art-style-showcase.png"> | 9 大基准测试场景 × 14 种经典绘画与插画流派（全 126 组全量视觉图谱与 Prompt 对照），支持双画风同屏无级滑动对比 | [Demo](https://holynova.github.io/art-style-showcase/) · [Repo](https://github.com/holynova/art-style-showcase) |
 | 穿墙透壁，上海建筑剖透图册 | <img width="320" alt="穿墙透壁 Preview" src="./portfolio-shanghai-through-walls.jpg"> | 以公开资料为证据的上海建筑剖透图册，区分实证结构与受约束的推断复原 | [Demo](https://holynova.github.io/shanghai-through-walls/) · [Repo](https://github.com/holynova/shanghai-through-walls) |
 | 压印之间 · Print Atlas | <img width="320" alt="压印之间 Preview" src="./portfolio-print-atlas.png"> | 从木刻、凹凸平孔版到 CMYK 网点套印的互动印刷图鉴 | [Demo](https://holynova.github.io/print-atlas/) · [Repo](https://github.com/holynova/print-atlas) |
 | 游戏风格转换图鉴 | <img width="320" alt="游戏风格转换图鉴 Preview" src="./portfolio-game-style-transfer-atlas.jpg"> | 用三套城市照片比较 15 款热门游戏的实机风格、提示词与 16:9 横屏转译 | [Demo](https://holynova.github.io/game-style-transfer-atlas/) · [Repo](https://github.com/holynova/game-style-transfer-atlas) |
