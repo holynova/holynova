@@ -25,6 +25,7 @@
 
 | ⭐ | 项目 | 预览 | 简介 | 链接 |
 |---:|---|---|---|---|
+| 0 | TRA Cinematic Countdown | <img width="320" alt="TRA Cinematic Countdown Preview" src="./portfolio-hotpot-timer.png"> | Three.js 沉浸式倒计时与 A–Z 立体字母逐个变换 | [Demo](https://holynova.github.io/hotpot-timer/) · [Repo](https://github.com/holynova/hotpot-timer) |
 | 0 | Shanghai Afterglow | <img width="320" alt="Shanghai Afterglow Preview" src="./portfolio-citypop-shanghai-exploration.png"> | 上海与北京的粗颗粒 City Pop 绘画、提示词与版画规律实验档案 | [Demo](https://holynova.github.io/citypop-shanghai-exploration/) · [Repo](https://github.com/holynova/citypop-shanghai-exploration) |
 | 2225 | 古诗文起名 | <img width="320" alt="古诗文起名 Preview" src="./portfolio-gushi_namer.png"> | 诗经楚辞唐诗宋词起名 | [Demo](https://holynova.github.io/gushi_namer/) · [Repo](https://github.com/holynova/gushi_namer) |
 | 0 | 助人对话练习册 | <img width="320" alt="助人对话练习册 Preview" src="./portfolio-psy-talks.png"> | 心理咨询常见对话微技能的移动端练习地图，含 v1 练习与 v2 阅读版 | [Demo](https://holynova.github.io/psy-talks/) · [Repo](https://github.com/holynova/psy-talks) |
@@ -90,7 +91,6 @@
 | 0 | 倒推税前工资 | <img width="320" alt="倒推税前工资 Preview" src="./portfolio-pre_tax_salary_calculator.png"> | 根据税后收入反向倒推税前薪资与五险一金明细 | [Demo](https://holynova.github.io/pre_tax_salary_calculator/) · [Repo](https://github.com/holynova/pre_tax_salary_calculator) |
 | 0 | 排列组合生成器 | <img width="320" alt="排列组合生成器 Preview" src="./portfolio-combination.png"> | 排列组合计算 + 可视化 | [Demo](https://holynova.github.io/combination/) · [Repo](https://github.com/holynova/combination) |
 | 0 | 节假日调休与拼假日历 | <img width="320" alt="节假日调休与拼假日历 Preview" src="./portfolio-holiday-visualizer.png"> | 法定节假日调休方案与休假拼假日历可视化视图 | [Demo](https://holynova.github.io/holiday-visualizer/) · [Repo](https://github.com/holynova/holiday-visualizer) |
-| 0 | 火锅智能秒表 | <img width="320" alt="火锅智能秒表 Preview" src="./portfolio-hotpot-timer.png"> | 按食材分类计算最佳涮烫时间的智能秒表计时器 | [Demo](https://holynova.github.io/hotpot-timer/) · [Repo](https://github.com/holynova/hotpot-timer) |
 | 0 | 音乐脉冲 | <img width="320" alt="音乐脉冲 Preview" src="./portfolio-music_pulse.png"> | 基于音频包络曲线的音乐节奏可视化动效演示 | [Demo](https://holynova.github.io/music_pulse/) · [Repo](https://github.com/holynova/music_pulse) |
 | 0 | OpenCLI 流水线 | - | 基于 OpenCLI 调度的本地串行 AI 内容生成流水线 | [Repo](https://github.com/holynova/opencli-pipeline) |
 | 0 | Anthropic 官方资产库 | <img width="320" alt="Anthropic 官方资产库 Preview" src="./portfolio-anthropic-learn-assets.png"> | 从 Anthropic Learn 官方页面提取的 SVG 图标与配色资产库 | [Demo](https://holynova.github.io/anthropic-learn-assets/) · [Repo](https://github.com/holynova/anthropic-learn-assets) |
