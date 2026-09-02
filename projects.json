@@ -1,5 +1,23 @@
 [
   {
+    "title": "橡胶戳旅行实地笔记 · 世界城市",
+    "desc": "30 座世界著名城市的 4:5 橡胶戳旅行实地笔记海报画廊，融合手工多色套印与旅行手账质感。",
+    "repoName": "rubber-stamp-world-cities",
+    "demoLink": "https://holynova.github.io/rubber-stamp-world-cities/",
+    "repoLink": "https://github.com/holynova/rubber-stamp-world-cities",
+    "images": [
+      "./portfolio-rubber-stamp-world-cities.png"
+    ],
+    "tags": [
+      "website",
+      "gallery",
+      "travel-poster",
+      "ai-art",
+      "design",
+      "chinese"
+    ]
+  },
+  {
     "title": "50 Seeds",
     "desc": "24 类 × 50 条的 AI 作图视觉种子库，支持双语搜索、分类筛选、复制与 JSON 下载。",
     "repoName": "50-seeds",

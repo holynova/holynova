@@ -11,6 +11,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 橡胶戳世界城市 · Rubber Stamp World Cities | <img width="320" alt="橡胶戳世界城市 Preview" src="./portfolio-rubber-stamp-world-cities.png"> | 30 座世界著名城市的 4:5 橡胶戳旅行实地笔记海报画廊，融合手工多色套印与旅行手账质感 | [Demo](https://holynova.github.io/rubber-stamp-world-cities/) · [Repo](https://github.com/holynova/rubber-stamp-world-cities) |
 | 城市印记 · City Stamp | <img width="320" alt="城市印记 Preview" src="./portfolio-city-stamp.jpg"> | 上海、苏州、北京三座城市的 30 个地标六边形徽章打卡档案，支持点亮、发光与时间记录 | [Demo](https://holynova.github.io/city-stamp/) · [Repo](https://github.com/holynova/city-stamp) |
 | 日用品图鉴 · 去品牌产品图素材库 | <img width="320" alt="日用品图鉴 Preview" src="./portfolio-daily-necessities-library.png"> | 40 个常见日用品、饮料与食品的去品牌、纯色白底产品图素材库，支持分类筛选、搜索、预览与下载 | [Demo](https://holynova.github.io/daily-necessities-library/) · [Repo](https://github.com/holynova/daily-necessities-library) |
 | 画风图谱 · 经典艺术与插画流派视觉解构 | <img width="320" alt="画风图谱 Preview" src="./portfolio-art-style-showcase.png"> | 9 大基准测试场景 × 14 种经典绘画与插画流派（全 126 组全量视觉图谱与 Prompt 对照），支持双画风同屏无级滑动对比 | [Demo](https://holynova.github.io/art-style-showcase/) · [Repo](https://github.com/holynova/art-style-showcase) |
