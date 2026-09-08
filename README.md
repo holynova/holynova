@@ -26,6 +26,7 @@
 
 | ⭐ | 项目 | 预览 | 简介 | 链接 |
 |---:|---|---|---|---|
+| 0 | ARC / LAB · 系统设计学习实验室 | <img width="320" alt="ARC / LAB Preview" src="./portfolio-system-design-learning-lab.png"> | 把系统设计面试中的架构取舍变成可操作的请求追踪、思维导图与复习实验 | [Demo](https://holynova.github.io/system-design-learning-lab/) · [Repo](https://github.com/holynova/system-design-learning-lab) |
 | 0 | TRA Cinematic Countdown | <img width="320" alt="TRA Cinematic Countdown Preview" src="./portfolio-hotpot-timer.png"> | Three.js 沉浸式倒计时与 A–Z 立体字母逐个变换 | [Demo](https://holynova.github.io/hotpot-timer/) · [Repo](https://github.com/holynova/hotpot-timer) |
 | 0 | Shanghai Afterglow | <img width="320" alt="Shanghai Afterglow Preview" src="./portfolio-citypop-shanghai-exploration.png"> | 上海与北京的粗颗粒 City Pop 绘画、提示词与版画规律实验档案 | [Demo](https://holynova.github.io/citypop-shanghai-exploration/) · [Repo](https://github.com/holynova/citypop-shanghai-exploration) |
 | 2225 | 古诗文起名 | <img width="320" alt="古诗文起名 Preview" src="./portfolio-gushi_namer.png"> | 诗经楚辞唐诗宋词起名 | [Demo](https://holynova.github.io/gushi_namer/) · [Repo](https://github.com/holynova/gushi_namer) |
