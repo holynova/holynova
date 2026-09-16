@@ -1,6 +1,12 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=holynova.readme)
 
-# 概况
+# 小桑的项目与实验
+
+按内容网站与其他项目浏览作品；每项提供预览、用途和可用的 Demo / 源码链接。
+
+[内容网站](#纯内容网站--content-only) · [其他项目](#其他项目)
+
+## GitHub 概况
 
 [![holy_nova's GitHub stats](https://github-stats-extended.vercel.app/api?username=holynova&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=holynova&layout=compact)](https://github.com/stats-organization/github-stats-extended)
@@ -10,6 +16,7 @@
 以阅读、浏览和整理知识为主，不把主要交互作为分类标准。
 
 | 项目 | 预览 | 简介 | 链接 |
+| --- | --- | --- | --- |
 | 橡胶戳艺术印记 · Rubber Stamp Art Prints | <img width="320" alt="橡胶戳艺术印记 Preview" src="./portfolio-rubber-stamp-world-cities.png"> | 世界城市(30)、十二生肖(12)与二十四节气(24)共 66 枚复古手工多色纯印章艺术画廊 | [Demo](https://holynova.github.io/rubber-stamp-world-cities/) · [Repo](https://github.com/holynova/rubber-stamp-world-cities) |
 | 城市印记 · City Stamp | <img width="320" alt="城市印记 Preview" src="./portfolio-city-stamp.jpg"> | 上海、苏州、北京三座城市的 30 个地标六边形徽章打卡档案，支持点亮、发光与时间记录 | [Demo](https://holynova.github.io/city-stamp/) · [Repo](https://github.com/holynova/city-stamp) |
 | 日用品图鉴 · 去品牌产品图素材库 | <img width="320" alt="日用品图鉴 Preview" src="./portfolio-daily-necessities-library.png"> | 40 个常见日用品、饮料与食品的去品牌、纯色白底产品图素材库，支持分类筛选、搜索、预览与下载 | [Demo](https://holynova.github.io/daily-necessities-library/) · [Repo](https://github.com/holynova/daily-necessities-library) |
@@ -22,7 +29,7 @@
 
 ## 其他项目
 
-其余项目按最近更新时间排序，gushi_namer 固定第一。
+其余项目集中列于下表。星标数和项目简介为维护时的快照，以对应仓库的当前信息为准。
 
 | ⭐ | 项目 | 预览 | 简介 | 链接 |
 |---:|---|---|---|---|
