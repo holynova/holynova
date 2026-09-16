@@ -4,6 +4,11 @@
 
 按内容网站与其他项目浏览作品；每项提供预览、用途和可用的 Demo / 源码链接。
 
+<p align="center">
+  <img src="assets/readme/hero.svg" width="100%" alt="小桑的项目与实验: 按内容网站与其他项目浏览作品；每项提供预览、用途和可用的 Demo / 源码链接。">
+</p>
+
+
 [内容网站](#纯内容网站--content-only) · [其他项目](#其他项目)
 
 ## GitHub 概况
