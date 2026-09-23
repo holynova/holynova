@@ -9,6 +9,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 系统设计经典算法全景图解 · System Design Algorithms | <img width="320" alt="系统设计经典算法全景图解 Preview" src="./portfolio-system-design-algorithms-js.png"> | 基于 Alex Xu《系统设计面试》全 28 章的经典算法与数据结构纯原生 JS 实现，配矢量 SVG 架构图、Mermaid 时序流转与在线交互实验室 | [Demo](https://system-design-algorithms-js.xiaosang.cc/) · [Pages](https://holynova.github.io/system-design-algorithms-js/) · [Repo](https://github.com/holynova/system-design-algorithms-js) |
 | 图片画廊模板 · Image Gallery Template | <img width="320" alt="Image Gallery Template Preview" src="./portfolio-image-gallery-template.png"> | Astro + Sharp 图片优先模板：AI 根据主题与图片生成可发布画廊，内置压缩、校验、Umami 与静态部署 | [Demo](https://image-gallery-template.xiaosang.cc/) · [Pages](https://holynova.github.io/image-gallery-template/) · [Repo](https://github.com/holynova/image-gallery-template) |
 | 橡胶戳艺术印记 · Rubber Stamp Art Prints | <img width="320" alt="橡胶戳艺术印记 Preview" src="./portfolio-rubber-stamp-world-cities.png"> | 世界城市(30)、十二生肖(12)与二十四节气(24)共 66 枚复古手工多色纯印章艺术画廊 | [Demo](https://holynova.github.io/rubber-stamp-world-cities/) · [Repo](https://github.com/holynova/rubber-stamp-world-cities) |
 | 城市印记 · City Stamp | <img width="320" alt="城市印记 Preview" src="./portfolio-city-stamp.jpg"> | 上海、苏州、北京三座城市的 30 个地标六边形徽章打卡档案，支持点亮、发光与时间记录 | [Demo](https://holynova.github.io/city-stamp/) · [Repo](https://github.com/holynova/city-stamp) |
