@@ -73,7 +73,7 @@
 | Scrape to Markdown | <img width="320" alt="Scrape to Markdown Preview" src="./portfolio-scrape-to-markdown.chrome.png"> | 网页转 Markdown + 图片批量打包 | [Repo](https://github.com/holynova/scrape-to-markdown.chrome) |
 | iOS打字模拟 | <img width="320" alt="iOS打字模拟 Preview" src="./portfolio-keyboard_sentence.png"> | iOS 键盘自适应消隐模拟 | [Demo](https://holynova.github.io/keyboard_sentence/) · [Repo](https://github.com/holynova/keyboard_sentence) |
 | Gemini 批量生图插件 | <img width="320" alt="Gemini 批量生图插件 Preview" src="./portfolio-prompt_one_by_one.png"> | 提示词逐条发送 + 进度条 | [Repo](https://github.com/holynova/prompt_one_by_one) |
-| 坦克战术 | <img width="320" alt="坦克战术 Preview" src="./portfolio-tank-tactics-game.png"> | 坦克二打一，支持 PvP/PvE | [Demo](https://holynova.github.io/tank-tactics-game/) · [Repo](https://github.com/holynova/tank-tactics-game) |
+| 坦克战术 | <img width="320" alt="坦克战术 Preview" src="./portfolio-tank-tactics-game.png"> | 像素美术陆海战术对战，双阵营与炮火动画，支持 PvP/PvE | [Demo](https://tank-tactics-game.xiaosang.cc/) · [Repo](https://github.com/holynova/tank-tactics-game) |
 | 俳句Tinder | <img width="320" alt="俳句Tinder Preview" src="./portfolio-haiku-flow.png"> | 滑动浏览经典俳句 | [Demo](https://holynova.github.io/haiku-flow) · [Repo](https://github.com/holynova/haiku-flow) |
 | 一眼看电影 | <img width="320" alt="一眼看电影 Preview" src="./portfolio-one_second_movie.png"> | 视频压缩为 4K 联系表 | [Demo](https://holynova.github.io/one_second_movie/) · [Repo](https://github.com/holynova/one_second_movie) |
 | JSON转TypeScript定义 | <img width="320" alt="JSON转TypeScript定义 Preview" src="./portfolio-json_to_ts.png"> | JS 自动推导 TS 类型 | [Demo](https://holynova.github.io/json_to_ts/) · [Repo](https://github.com/holynova/json_to_ts) |
