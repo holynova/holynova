@@ -10,7 +10,7 @@
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
 | 炉石匹配实验室 · Hearthstone Match Lab | <img width="320" alt="Hearthstone Match Lab Preview" src="./portfolio-hearthstone-match.png"> | React 曲面滚筒、指针抖动、火花粒子与合成音效，可调参数及自定义对手 | [Demo](https://hearthstone-match.xiaosang.cc/) · [Repo](https://github.com/holynova/hearthstone-match) |
-| Builder Atlas · AI 建造者研究工作台 | <img width="320" alt="Builder Atlas Preview" src="./portfolio-builder-atlas.png"> | 30 份档案、66 条代表内容与 27 条 X 观点，三栏证据核对与本地收藏 | [Demo](https://builder-atlas.xiaosang.cc/) · [Repo](https://github.com/holynova/builder-atlas) |
+| Builder Atlas · AI 建造者研究工作台 | <img width="320" alt="Builder Atlas Preview" src="./portfolio-builder-atlas.png"> | 30 份来源绑定档案：4 份专题复核、26 份初步整理；逐条查看依据、阅读范围与边界 | [Demo](https://builder-atlas.xiaosang.cc/) · [Repo](https://github.com/holynova/builder-atlas) |
 | 坠井者 · FALLWELL | <img width="320" alt="坠井者 FALLWELL Preview" src="./portfolio-fallwell.png"> | 四名角色、三种进化核心与遗物构筑的像素下落动作肉鸽，落地补弹、踩怪连击 | [Demo](https://fallwell.xiaosang.cc/) · [Repo](https://github.com/holynova/fallwell) |
 | 裂隙幸存者 · Rift Survivors | <img width="320" alt="Rift Survivors Preview" src="./portfolio-rift-survivors.png"> | 六武器构筑生存竞技场：三类角色、武器合成、12波怪潮、近战接触打击与原创配乐 | [Demo](https://rift-survivors.xiaosang.cc/) · [Repo](https://github.com/holynova/rift-survivors) |
 | 系统设计经典算法全景图解 · System Design Algorithms | <img width="320" alt="系统设计经典算法全景图解 Preview" src="./portfolio-system-design-algorithms-js.png"> | 基于 Alex Xu《系统设计面试》全 28 章的经典算法与数据结构纯原生 JS 实现，配矢量 SVG 架构图、Mermaid 时序流转与在线交互实验室 | [Demo](https://system-design-algorithms-js.xiaosang.cc/) · [Pages](https://holynova.github.io/system-design-algorithms-js/) · [Repo](https://github.com/holynova/system-design-algorithms-js) |
