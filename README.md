@@ -9,6 +9,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 世界景点 · 纸上旅行 | <img width="320" alt="世界景点 · 纸上旅行真实页面预览" src="./portfolio-world-landmarks.png"> | 平涂水粉与纸张肌理的世界景点画廊：西班牙、中国、日本、美国各10张，共40张，支持国家筛选、高清查看和下载。 | [Demo](https://world-landmarks.xiaosang.cc/) · [Repo](https://github.com/holynova/world-landmarks) |
 | 游戏剧情视频合集 | <img width="320" alt="游戏剧情视频合集预览" src="./portfolio-elden-ring-lore.png"> | 六款游戏的中文剧情视频：艾尔登法环、赛博朋克2077、荒野大镖客2、GTA5、巫师三、黑暗之魂3。按游戏切换，支持章节跳转。 | [Demo](https://elden-ring-lore.xiaosang.cc/) · [Repo](https://github.com/holynova/elden-ring-lore) |
 | 艾尔登法环 · 交界地编年史 | <img width="320" alt="艾尔登法环 · 交界地编年史真实页面预览" src="./portfolio-elden-ring-lore-video.png"> | 五章节中文剧情短片：从黄金律法、黑刀之夜，到破碎战争与三种结局。 | [Demo](https://elden-ring-lore-video.xiaosang.cc/) · [Repo](https://github.com/holynova/elden-ring-lore-video) |
 | 印画图鉴 · Folk & Stamp Gallery | <img width="320" alt="印画图鉴 · Folk & Stamp Gallery真实页面预览" src="./portfolio-folk-gallery.png"> | 浏览农民画、文物橡皮图章、橡皮图章与游戏印章的静态图鉴。 | [Demo](https://folk-gallery.xiaosang.cc/) · [Repo](https://github.com/holynova/folk-gallery) |
