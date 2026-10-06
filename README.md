@@ -9,6 +9,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 半透明玩具兵 · Translucent Toy Guard | <img width="320" alt="半透明玩具兵真实页面预览" src="./portfolio-translucent-toy-guard.png"> | 20个卡通玩具角色，硬挺制服与磨砂半透明盔甲，支持分类、高清预览和分享。 | [Demo](https://translucent-toy-guard.xiaosang.cc/) · [Repo](https://github.com/holynova/translucent-toy-guard) |
 | 山河入版 · 套色木刻画廊 | <img width="320" alt="山河入版城市画廊预览" src="./portfolio-shanhe-gallery.png"> | 185张套色木刻风格AI画作，涵盖山河、名胜、生活、节日与十一城五景，支持分类、放大和下载。 | [Demo](https://shanhe-gallery.xiaosang.cc/) · [Repo](https://github.com/holynova/shanhe-gallery) |
 | 世界景点 · 纸上旅行 | <img width="320" alt="世界景点 · 纸上旅行真实页面预览" src="./portfolio-world-landmarks.png"> | 平涂水粉与纸张肌理的世界景点画廊：西班牙、中国、日本、美国各10张，共40张，支持国家筛选、高清查看和下载。 | [Demo](https://world-landmarks.xiaosang.cc/) · [Repo](https://github.com/holynova/world-landmarks) |
 | 游戏剧情视频合集 | <img width="320" alt="游戏剧情视频合集预览" src="./portfolio-elden-ring-lore.png"> | 六款游戏的中文剧情视频：艾尔登法环、赛博朋克2077、荒野大镖客2、GTA5、巫师三、黑暗之魂3。按游戏切换，支持章节跳转。 | [Demo](https://elden-ring-lore.xiaosang.cc/) · [Repo](https://github.com/holynova/elden-ring-lore) |
