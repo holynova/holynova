@@ -9,6 +9,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 帝号 · 皇帝称呼解码 | <img width="320" alt="帝号移动端真实页面预览" src="./thumbs/portfolio-dihao.webp"> | 用白话与关系图讲清皇帝称呼，附16位人物、32条年号、完整称号资料和小测验。 | [Demo](https://dihao.xiaosang.cc/) · [Repo](https://github.com/holynova/dihao) |
 | 半透明玩具兵 · Translucent Toy Guard | <img width="320" alt="半透明玩具兵真实页面预览" src="./thumbs/portfolio-translucent-toy-guard.webp"> | 20个卡通玩具角色，硬挺制服与磨砂半透明盔甲，支持分类、高清预览和分享。 | [Demo](https://translucent-toy-guard.xiaosang.cc/) · [Repo](https://github.com/holynova/translucent-toy-guard) |
 | 山河入版 · 套色木刻画廊 | <img width="320" alt="山河入版城市画廊预览" src="./thumbs/portfolio-shanhe-gallery.webp"> | 185张套色木刻风格AI画作，涵盖山河、名胜、生活、节日与十一城五景，支持分类、放大和下载。 | [Demo](https://shanhe-gallery.xiaosang.cc/) · [Repo](https://github.com/holynova/shanhe-gallery) |
 | 世界景点 · 纸上旅行 | <img width="320" alt="世界景点 · 纸上旅行真实页面预览" src="./thumbs/portfolio-world-landmarks.webp"> | 纸纹平涂水粉画廊：海岸夏日与多样风景各5张，五国景点各10张（含韩国），共60张，支持分类、整图预览和原图下载。 | [Demo](https://world-landmarks.xiaosang.cc/) · [Repo](https://github.com/holynova/world-landmarks) |
