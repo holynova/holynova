@@ -1,0 +1,48 @@
+name: Auto Generate Thumbnails
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'portfolio-*'
+      - 'README.md'
+      - '.github/workflows/generate-thumbnails.yml'
+      - 'scripts/generate_thumbnails.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  thumbnails:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-actions[bot]'
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install Pillow
+
+      - name: Generate thumbnails and update README
+        run: python scripts/generate_thumbnails.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          if [ -n "$(git status --porcelain)" ]; then
+            git add thumbs/ README.md
+            git commit -m "chore: auto-generate thumbnails & optimize README [skip ci]"
+            git push
+          else
+            echo "No changes detected. Everything is up to date."
+          fi
