@@ -9,6 +9,11 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 经典书导读 · Forty Classic Books | <img width="320" alt="经典书导读真实页面预览" src="./thumbs/portfolio-forty-classic-books.webp"> | 7大核心领域70本经典书深度导读：总体观点、核心观点与全书结构剖析，纯干货说人话。 | [Demo](https://xiaosang.cc/forty-classic-books/) · [Repo](https://github.com/holynova/forty-classic-books) |
+| 《人生七年》时间线 · Up Series 70 Years | <img width="320" alt="《人生七年》时间线真实页面预览" src="./thumbs/portfolio-up-series-70years.webp"> | 记录14位主角从7岁到70岁的63年人生轨迹：纪录片纪事、人物档案与横向变迁对比。 | [Demo](https://xiaosang.cc/up-series-70years/) · [Repo](https://github.com/holynova/up-series-70years) |
+| 24点纸牌求解器 · 24 Solver | <img width="320" alt="24点纸牌求解器真实页面预览" src="./thumbs/portfolio-24-solver.webp"> | 单文件网页版24点纸牌求解器：自定义选牌或随机发牌，穷举算式与结合律去重，配流光牌面与音效。 | [Demo](https://xiaosang.cc/24-solver/) · [Repo](https://github.com/holynova/24-solver) |
+| 哆啦A梦的家 3D导览 · Doraemon House 3D | <img width="320" alt="哆啦A梦的家 3D导览真实页面预览" src="./thumbs/portfolio-doraemon-house-3d.webp"> | 基于 Three.js 制作的野比大雄家 3D 立体空间导览：建筑外观、室内各层、空间拆解与点击交互。 | [Demo](https://xiaosang.cc/doraemon-house-3d/) · [Repo](https://github.com/holynova/doraemon-house-3d) |
+| 光影集视频作品展 · Video Gallery | <img width="320" alt="光影集视频作品展真实页面预览" src="./thumbs/portfolio-video-gallery.webp"> | 用代码与 AI 绘画制作的短视频作品展：Remotion 与 Motion Canvas 代码渲染引擎生成的6部短视频。 | [Demo](https://xiaosang.cc/video-gallery/) · [Repo](https://github.com/holynova/video-gallery) |
 | 霓虹幸存者 · Neon Survivors | <img width="320" alt="霓虹幸存者真实页面预览" src="./thumbs/portfolio-neon-survivors.webp"> | Three.js 三维俯视角类幸存者 Roguelite，模型与音效程序化生成。 | [Demo](https://neon-survivors.xiaosang.cc/) · [Repo](https://github.com/holynova/neon-survivors) |
 | 块茎幸存者 · Tuber Survivors | <img width="320" alt="块茎幸存者真实页面预览" src="./thumbs/portfolio-tuber-survivors.webp"> | Three.js 三维波次战斗、多武器装备与局间商店，类 Brotato 竞技场。 | [Demo](https://tuber-survivors.xiaosang.cc/) · [Repo](https://github.com/holynova/tuber-survivors) |
 | 土豆小队 · Spud Squad | <img width="320" alt="土豆小队真实页面预览" src="./thumbs/portfolio-spud-squad.webp"> | Three.js 三维幸存者竞技场，高密度粒子效果与多职业战斗。 | [Demo](https://spud-squad.xiaosang.cc/) · [Repo](https://github.com/holynova/spud-squad) |
