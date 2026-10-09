@@ -9,6 +9,11 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 霓虹幸存者 · Neon Survivors | <img width="320" alt="霓虹幸存者真实页面预览" src="./thumbs/portfolio-neon-survivors.webp"> | Three.js 三维俯视角类幸存者 Roguelite，模型与音效程序化生成。 | [Demo](https://neon-survivors.xiaosang.cc/) · [Repo](https://github.com/holynova/neon-survivors) |
+| 块茎幸存者 · Tuber Survivors | <img width="320" alt="块茎幸存者真实页面预览" src="./thumbs/portfolio-tuber-survivors.webp"> | Three.js 三维波次战斗、多武器装备与局间商店，类 Brotato 竞技场。 | [Demo](https://tuber-survivors.xiaosang.cc/) · [Repo](https://github.com/holynova/tuber-survivors) |
+| 土豆小队 · Spud Squad | <img width="320" alt="土豆小队真实页面预览" src="./thumbs/portfolio-spud-squad.webp"> | Three.js 三维幸存者竞技场，高密度粒子效果与多职业战斗。 | [Demo](https://spud-squad.xiaosang.cc/) · [Repo](https://github.com/holynova/spud-squad) |
+| 游戏剧情档案馆 · Game Narrative Archive | <img width="320" alt="游戏剧情档案馆真实页面预览" src="./thumbs/portfolio-game-narrative-archive.webp"> | 手机优先的剧情阅读、人物关系图、选择后果与结局分支分析。 | [Demo](https://game-narrative-archive.xiaosang.cc/) · [Repo](https://github.com/holynova/game-narrative-archive) |
+| 山海夜市 · Shanhai Night Market | <img width="320" alt="山海夜市真实页面预览" src="./thumbs/portfolio-web-survivor-game-agy.webp"> | 中式妖怪夜市题材的幸存者游戏，用厨具与口味组合战斗构筑。 | [Demo](https://xiaosang.cc/demos/web-survivor-game-agy/) · [Repo](https://github.com/holynova/web-survivor-game-agy) |
 | Time Slider · 滑轨时钟 | <img width="320" alt="Time Slider 滑轨时钟手机页面预览" src="./thumbs/portfolio-time-slider-clock.webp"> | 镂空像素滑轨时钟，含分列、整位、原作双轨与字母栅格，支持夜光主题和快进测试。 | [Demo](https://xiaosang.cc/time-slider-clock/) · [Repo](https://github.com/holynova/time-slider-clock) |
 | 帝号 · 皇帝称呼解码 | <img width="320" alt="帝号移动端真实页面预览" src="./thumbs/portfolio-dihao.webp"> | 用白话与关系图讲清皇帝称呼，附16位人物、32条年号、完整称号资料和小测验。 | [Demo](https://dihao.xiaosang.cc/) · [Repo](https://github.com/holynova/dihao) |
 | 半透明玩具兵 · Translucent Toy Guard | <img width="320" alt="半透明玩具兵真实页面预览" src="./thumbs/portfolio-translucent-toy-guard.webp"> | 20个卡通玩具角色，硬挺制服与磨砂半透明盔甲，支持分类、高清预览和分享。 | [Demo](https://translucent-toy-guard.xiaosang.cc/) · [Repo](https://github.com/holynova/translucent-toy-guard) |
