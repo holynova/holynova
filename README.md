@@ -9,6 +9,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 听见画面 · Sound in Sight | <img width="320" alt="听见画面真实页面预览" src="./thumbs/portfolio-rock-in-pictures.webp"> | 30幅摄影意象猜华语乐队，支持3秒揭晓、线索与原图下载。 | [Demo](https://xiaosang.cc/rock-in-pictures/) · [Repo](https://github.com/holynova/rock-in-pictures) |
 | 播客图解 · Podcast Atlas | <img width="320" alt="播客图解真实页面预览" src="./thumbs/portfolio-podcast-atlas.webp"> | 按专题读懂半拿铁与知行小酒馆，搭配时间线、人物关系和中文漫画幻灯片。 | [Demo](https://xiaosang.cc/podcast-atlas/) · [Repo](https://github.com/holynova/podcast-atlas) |
 | 经典书导读 · Forty Classic Books | <img width="320" alt="经典书导读真实页面预览" src="./thumbs/portfolio-forty-classic-books.webp"> | 7大核心领域70本经典书深度导读：总体观点、核心观点与全书结构剖析，纯干货说人话。 | [Demo](https://xiaosang.cc/forty-classic-books/) · [Repo](https://github.com/holynova/forty-classic-books) |
 | 《人生七年》时间线 · Up Series 70 Years | <img width="320" alt="《人生七年》时间线真实页面预览" src="./thumbs/portfolio-up-series-70years.webp"> | 记录14位主角从7岁到70岁的63年人生轨迹：纪录片纪事、人物档案与横向变迁对比。 | [Demo](https://xiaosang.cc/up-series-70years/) · [Repo](https://github.com/holynova/up-series-70years) |
