@@ -9,7 +9,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
-| 傅里叶地图实验室 · Fourier Atlas | <img width="320" alt="傅里叶地图实验室真实页面预览" src="./thumbs/portfolio-fourier-atlas.webp"> | 旋转圆逐步描绘地图与复杂曲线，支持渐增步长、1024 个圆和历史轨迹叠加。 | [Demo](https://xiaosang.cc/fourier-atlas/) · [Repo](https://github.com/holynova/fourier-atlas) |
+| 傅里叶地图实验室 · Fourier Atlas | <img width="320" alt="傅里叶地图实验室真实页面预览" src="./thumbs/portfolio-fourier-atlas.webp"> | 旋转圆描绘地图与四神瓦当纹样，支持圆圈强调、纯净模式和渐进绘制。 | [Demo](https://xiaosang.cc/fourier-atlas/) · [Repo](https://github.com/holynova/fourier-atlas) |
 | 听见画面 · Sound in Sight | <img width="320" alt="听见画面真实页面预览" src="./thumbs/portfolio-rock-in-pictures.webp"> | 30幅摄影意象猜华语乐队，支持3秒揭晓、线索与原图下载。 | [Demo](https://xiaosang.cc/rock-in-pictures/) · [Repo](https://github.com/holynova/rock-in-pictures) |
 | 播客图解 · Podcast Atlas | <img width="320" alt="播客图解真实页面预览" src="./thumbs/portfolio-podcast-atlas.webp"> | 按专题读懂半拿铁与知行小酒馆，搭配时间线、人物关系和中文漫画幻灯片。 | [Demo](https://xiaosang.cc/podcast-atlas/) · [Repo](https://github.com/holynova/podcast-atlas) |
 | 经典书导读 · Forty Classic Books | <img width="320" alt="经典书导读真实页面预览" src="./thumbs/portfolio-forty-classic-books.webp"> | 7大核心领域70本经典书深度导读：总体观点、核心观点与全书结构剖析，纯干货说人话。 | [Demo](https://xiaosang.cc/forty-classic-books/) · [Repo](https://github.com/holynova/forty-classic-books) |
