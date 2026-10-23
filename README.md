@@ -9,6 +9,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 纸间 · Paper in Motion | <img width="320" alt="纸间折纸实验室真实页面预览" src="./thumbs/portfolio-origami-studio.webp"> | 五种经典折纸的三维动画，支持逐步播放、折痕高亮、纸色切换与 PNG 导出。 | [Demo](https://xiaosang.cc/origami-studio/) · [Repo](https://github.com/holynova/origami-studio) |
 | 傅里叶地图实验室 · Fourier Atlas | <img width="320" alt="傅里叶地图实验室真实页面预览" src="./thumbs/portfolio-fourier-atlas.webp"> | 旋转圆描绘地图与四神瓦当纹样，支持圆圈强调、纯净模式和渐进绘制。 | [Demo](https://xiaosang.cc/fourier-atlas/) · [Repo](https://github.com/holynova/fourier-atlas) |
 | 听见画面 · Sound in Sight | <img width="320" alt="听见画面真实页面预览" src="./thumbs/portfolio-rock-in-pictures.webp"> | 30幅摄影意象猜华语乐队，支持3秒揭晓、线索与原图下载。 | [Demo](https://xiaosang.cc/rock-in-pictures/) · [Repo](https://github.com/holynova/rock-in-pictures) |
 | 播客图解 · Podcast Atlas | <img width="320" alt="播客图解真实页面预览" src="./thumbs/portfolio-podcast-atlas.webp"> | 按专题读懂半拿铁与知行小酒馆，搭配时间线、人物关系和中文漫画幻灯片。 | [Demo](https://xiaosang.cc/podcast-atlas/) · [Repo](https://github.com/holynova/podcast-atlas) |
