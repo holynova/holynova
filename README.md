@@ -9,6 +9,9 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 世界未解之谜 · World Unsolved Mysteries | <img width="320" alt="世界未解之谜真实页面预览" src="./thumbs/portfolio-world-unsolved-mysteries.webp"> | 80/90 后童年常听的 20 个谜题，集中展示辟谣结果与硬证据。 | [Demo](https://holynova.github.io/world-unsolved-mysteries/) · [Repo](https://github.com/holynova/world-unsolved-mysteries) |
+| 烘焙变量查询 · Baking Variable Search | <img width="320" alt="烘焙变量查询真实页面预览" src="./thumbs/portfolio-baking-variable-search.webp"> | 60 种烘焙品多选组合搜索，选一个变量、其余计数实时联动。 | [Demo](https://holynova.github.io/baking-variable-search/) · [Repo](https://github.com/holynova/baking-variable-search) |
+| 烘焙百科 · Baking Encyclopedia | <img width="320" alt="烘焙百科真实页面预览" src="./thumbs/portfolio-baking-encyclopedia.webp"> | 用六个变量拆解 36 种烘焙品，讲清奇怪名字背后的逻辑。 | [Demo](https://holynova.github.io/baking-encyclopedia/) · [Repo](https://github.com/holynova/baking-encyclopedia) |
 | 纸间 · Paper in Motion | <img width="320" alt="纸间折纸实验室真实页面预览" src="./thumbs/portfolio-origami-studio.webp"> | 五种经典折纸的三维动画，支持逐步播放、折痕高亮、纸色切换与 PNG 导出。 | [Demo](https://xiaosang.cc/origami-studio/) · [Repo](https://github.com/holynova/origami-studio) |
 | 傅里叶地图实验室 · Fourier Atlas | <img width="320" alt="傅里叶地图实验室真实页面预览" src="./thumbs/portfolio-fourier-atlas.webp"> | 旋转圆描绘地图与四神瓦当纹样，支持圆圈强调、纯净模式和渐进绘制。 | [Demo](https://xiaosang.cc/fourier-atlas/) · [Repo](https://github.com/holynova/fourier-atlas) |
 | 听见画面 · Sound in Sight | <img width="320" alt="听见画面真实页面预览" src="./thumbs/portfolio-rock-in-pictures.webp"> | 30幅摄影意象猜华语乐队，支持3秒揭晓、线索与原图下载。 | [Demo](https://xiaosang.cc/rock-in-pictures/) · [Repo](https://github.com/holynova/rock-in-pictures) |
