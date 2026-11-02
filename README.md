@@ -9,6 +9,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 玛法幸存者 · Mafa Survivor | <img width="320" alt="玛法幸存者线上测试模式实机预览" src="./thumbs/portfolio-mafa-survivor.webp"> | 战法道三职业、33种技能六级成长、十章地图与装备构筑；Alpha版，平衡持续完善。 | [Demo](https://xiaosang.cc/mafa-survivor/) · [Repo](https://github.com/holynova/mafa-survivor) |
 | 世界未解之谜 · World Unsolved Mysteries | <img width="320" alt="世界未解之谜真实页面预览" src="./thumbs/portfolio-world-unsolved-mysteries.webp"> | 80/90 后童年常听的 20 个谜题，集中展示辟谣结果与硬证据。 | [Demo](https://holynova.github.io/world-unsolved-mysteries/) · [Repo](https://github.com/holynova/world-unsolved-mysteries) |
 | 烘焙变量查询 · Baking Variable Search | <img width="320" alt="烘焙变量查询真实页面预览" src="./thumbs/portfolio-baking-variable-search.webp"> | 60 种烘焙品多选组合搜索，选一个变量、其余计数实时联动。 | [Demo](https://holynova.github.io/baking-variable-search/) · [Repo](https://github.com/holynova/baking-variable-search) |
 | 烘焙百科 · Baking Encyclopedia | <img width="320" alt="烘焙百科真实页面预览" src="./thumbs/portfolio-baking-encyclopedia.webp"> | 用六个变量拆解 36 种烘焙品，讲清奇怪名字背后的逻辑。 | [Demo](https://holynova.github.io/baking-encyclopedia/) · [Repo](https://github.com/holynova/baking-encyclopedia) |
