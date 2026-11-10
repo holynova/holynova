@@ -9,6 +9,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| Prompt 收藏册 · Prompt Library | <img width="320" alt="Prompt 收藏册原文与中文对照页面预览" src="./thumbs/portfolio-x-prompt-library.webp"> | 27组、71条AI提示词，保留出处与原文，附28份中文译文、分类搜索与逐条复制。 | [Demo](https://xiaosang.cc/x-prompt-library/) · [Repo](https://github.com/holynova/x-prompt-library) |
 | 概念探险队 · Concept Atlas | <img width="320" alt="概念探险队知识漫画图鉴预览" src="./thumbs/portfolio-concept-atlas.webp"> | 60张竖版知识漫画，一图解释术语背后的机制，支持分类、搜索与原图下载。 | [Demo](https://xiaosang.cc/concept-atlas/) · [Repo](https://github.com/holynova/concept-atlas) |
 | 玛法幸存者 · Mafa Survivor | <img width="320" alt="玛法幸存者线上测试模式实机预览" src="./thumbs/portfolio-mafa-survivor.webp"> | 战法道三职业、33种技能六级成长、十章地图与装备构筑；Alpha版，平衡持续完善。 | [Demo](https://xiaosang.cc/mafa-survivor/) · [Repo](https://github.com/holynova/mafa-survivor) |
 | 世界未解之谜 · World Unsolved Mysteries | <img width="320" alt="世界未解之谜真实页面预览" src="./thumbs/portfolio-world-unsolved-mysteries.webp"> | 80/90 后童年常听的 20 个谜题，集中展示辟谣结果与硬证据。 | [Demo](https://holynova.github.io/world-unsolved-mysteries/) · [Repo](https://github.com/holynova/world-unsolved-mysteries) |
