@@ -9,6 +9,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 伯恩斯坦《青少年音乐会》 · Young People's Concerts | <img width="320" alt="伯恩斯坦青少年音乐会网页预览" src="./thumbs/portfolio-bernstein-ypc.webp"> | 提炼伯恩斯坦《青少年音乐会》核心观点与现场实验，附 B 站掘火中译视频、可折叠试听曲目单与三种阅读原型。 | [Demo](https://xiaosang.cc/bernstein-ypc/) · [Repo](https://github.com/holynova/bernstein-ypc) |
 | 传奇世界幸存者 · Woool Survivor | <img width="320" alt="传奇世界幸存者实机 Boss 战预览" src="./thumbs/portfolio-woool-survivor-game.webp"> | 战法道三职业、原版技能特效与怪物素材、六大城市要塞地图及四档锯齿难度曲线。 | [Demo](https://xiaosang.cc/woool-survivor-game/) · [Repo](https://github.com/holynova/woool-survivor-game) |
 | Prompt 收藏册 · Prompt Library | <img width="320" alt="Prompt 收藏册原文与中文对照页面预览" src="./thumbs/portfolio-x-prompt-library.webp"> | 27组、71条AI提示词，保留出处与原文，附28份中文译文、分类搜索与逐条复制。 | [Demo](https://xiaosang.cc/x-prompt-library/) · [Repo](https://github.com/holynova/x-prompt-library) |
 | 概念探险队 · Concept Atlas | <img width="320" alt="概念探险队知识漫画图鉴预览" src="./thumbs/portfolio-concept-atlas.webp"> | 60张竖版知识漫画，一图解释术语背后的机制，支持分类、搜索与原图下载。 | [Demo](https://xiaosang.cc/concept-atlas/) · [Repo](https://github.com/holynova/concept-atlas) |
