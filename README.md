@@ -9,6 +9,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 破框 · Photo Breakout | <img width="320" alt="破框照片编辑器的桌面工作台" src="./thumbs/portfolio-photo-breakout.webp"> | 本地自动抠像，给人物身后加上白色网格或竖格，再导出 PNG。 | [Demo](https://xiaosang.cc/photo-breakout/) · [Repo](https://github.com/holynova/photo-breakout) |
 | 照片足迹 · Photo Atlas | <img width="320" alt="照片足迹的城市地图与地球仪" src="./thumbs/portfolio-photo-atlas.webp"> | 扫描本地照片，生成城市足迹地图、跨年照片报告和足迹分享卡。 | [Demo](https://xiaosang.cc/photo-atlas/) · [Repo](https://github.com/holynova/photo-atlas) |
 | X 书签回看 · X Bookmark Recall | <img width="320" alt="X 书签回看时间线与扩展弹窗" src="./thumbs/portfolio-x-bookmark-recall.webp"> | 从 X 书签页导入收藏，在推荐首页顶部和时间线里重新读到。 | [Demo](https://xiaosang.cc/x-bookmark-recall/) · [Repo](https://github.com/holynova/x-bookmark-recall) |
 | 伯恩斯坦《青少年音乐会》 · Young People's Concerts | <img width="320" alt="伯恩斯坦青少年音乐会网页预览" src="./thumbs/portfolio-bernstein-ypc.webp"> | 全 53 课双栏导览：核心观点与现场实验精讲、全文搜索与分类筛选、B 站掘火中译视频与可折叠试听曲目单。 | [Demo](https://xiaosang.cc/bernstein-ypc/) · [Repo](https://github.com/holynova/bernstein-ypc) |
