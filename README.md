@@ -126,7 +126,7 @@
 | 100 Clocks | <img width="320" alt="100 Clocks Preview" src="./thumbs/portfolio-100-clocks.webp"> | 不同风格的时钟集合 | [Demo](https://holynova.github.io/100-clocks) · [Repo](https://github.com/holynova/100-clocks) |
 | 倒推税前工资 | <img width="320" alt="倒推税前工资 Preview" src="./thumbs/portfolio-pre_tax_salary_calculator.webp"> | 根据税后收入反向倒推税前薪资与五险一金明细 | [Demo](https://holynova.github.io/pre_tax_salary_calculator/) · [Repo](https://github.com/holynova/pre_tax_salary_calculator) |
 | 排列组合生成器 | <img width="320" alt="排列组合生成器 Preview" src="./thumbs/portfolio-combination.webp"> | 排列组合计算 + 可视化 | [Demo](https://holynova.github.io/combination/) · [Repo](https://github.com/holynova/combination) |
-| 节假日调休与拼假日历 | <img width="320" alt="节假日调休与拼假日历 Preview" src="./thumbs/portfolio-holiday-visualizer.webp"> | 法定节假日调休方案与休假拼假日历可视化视图 | [Demo](https://holynova.github.io/holiday-visualizer/) · [Repo](https://github.com/holynova/holiday-visualizer) |
+| 节假日历 | <img width="160" alt="节假日历移动端预览" src="./thumbs/portfolio-holiday-visualizer.webp"> | 中国大陆节假日、调休补班与请假连休日历 | [Demo](https://holiday-visualizer.xiaosang.cc/) · [Repo](https://github.com/holynova/holiday-visualizer) |
 | 音乐脉冲 | <img width="320" alt="音乐脉冲 Preview" src="./thumbs/portfolio-music_pulse.webp"> | 基于音频包络曲线的音乐节奏可视化动效演示 | [Demo](https://holynova.github.io/music_pulse/) · [Repo](https://github.com/holynova/music_pulse) |
 | OpenCLI 流水线 | - | 基于 OpenCLI 调度的本地串行 AI 内容生成流水线 | [Repo](https://github.com/holynova/opencli-pipeline) |
 | Anthropic 官方资产库 | <img width="320" alt="Anthropic 官方资产库 Preview" src="./thumbs/portfolio-anthropic-learn-assets.webp"> | 从 Anthropic Learn 官方页面提取的 SVG 图标与配色资产库 | [Demo](https://holynova.github.io/anthropic-learn-assets/) · [Repo](https://github.com/holynova/anthropic-learn-assets) |
