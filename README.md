@@ -9,6 +9,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 拼页 · Pingye | <img width="320" alt="拼页个人海报编辑器" src="./thumbs/portfolio-pingye.webp"> | 把照片、作品和成绩拼成个人海报，支持六种版式、图片裁剪和高清 PNG 导出。 | [Demo](https://xiaosang.cc/pingye/) · [Repo](https://github.com/holynova/pingye) |
 | 破框 · Photo Breakout | <img width="320" alt="破框照片编辑器的桌面工作台" src="./thumbs/portfolio-photo-breakout.webp"> | 本地自动抠像，给人物身后加上白色网格或竖格，再导出 PNG。 | [Demo](https://xiaosang.cc/photo-breakout/) · [Repo](https://github.com/holynova/photo-breakout) |
 | 照片足迹 · Photo Atlas | <img width="320" alt="照片足迹的城市地图与地球仪" src="./thumbs/portfolio-photo-atlas.webp"> | 扫描本地照片，生成城市足迹地图、跨年照片报告和足迹分享卡。 | [Demo](https://xiaosang.cc/photo-atlas/) · [Repo](https://github.com/holynova/photo-atlas) |
 | X 书签回看 · X Bookmark Recall | <img width="320" alt="X 书签回看时间线与扩展弹窗" src="./thumbs/portfolio-x-bookmark-recall.webp"> | 从 X 书签页导入收藏，在推荐首页顶部和时间线里重新读到。 | [Demo](https://xiaosang.cc/x-bookmark-recall/) · [Repo](https://github.com/holynova/x-bookmark-recall) |
