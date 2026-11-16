@@ -9,6 +9,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 热点账本 · Hotspot Ledger | <img width="320" alt="热点账本 Mac 流量记录工具" src="./thumbs/portfolio-hotspot-ledger.png"> | Mac 热点流量记录：网卡用量、进程活动排行、异常提醒与重启续接。 | [Demo](https://xiaosang.cc/hotspot-ledger/) · [Repo](https://github.com/holynova/hotspot-ledger) |
 | 拼页 · Pingye | <img width="320" alt="拼页个人海报编辑器" src="./thumbs/portfolio-pingye.webp"> | 用九种版式制作个人海报、产品速览或城市导览，支持图片裁剪和高清 PNG 导出。 | [Demo](https://xiaosang.cc/pingye/) · [Repo](https://github.com/holynova/pingye) |
 | 破框 · Photo Breakout | <img width="320" alt="破框照片编辑器的桌面工作台" src="./thumbs/portfolio-photo-breakout.webp"> | 本地自动抠像，给人物身后加上白色网格或竖格，再导出 PNG。 | [Demo](https://xiaosang.cc/photo-breakout/) · [Repo](https://github.com/holynova/photo-breakout) |
 | 照片足迹 · Photo Atlas | <img width="320" alt="照片足迹的城市地图与地球仪" src="./thumbs/portfolio-photo-atlas.webp"> | 扫描本地照片，生成城市足迹地图、跨年照片报告和足迹分享卡。 | [Demo](https://xiaosang.cc/photo-atlas/) · [Repo](https://github.com/holynova/photo-atlas) |
