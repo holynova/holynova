@@ -9,6 +9,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 植物幸存者 · Plant Survivors | <img width="320" alt="植物幸存者实际运行画面" src="./thumbs/portfolio-plant-survivors-ui.webp"> | 三关花园生存游戏：移动、自动攻击、阳光升级、植物进化与首领战，支持本地存档。 | [Demo](https://xiaosang.cc/plant-survivors-ui/) · [Repo](https://github.com/holynova/plant-survivors-ui) |
 | 热点账本 · Hotspot Ledger | <img width="320" alt="热点账本 Mac 流量记录工具" src="./thumbs/portfolio-hotspot-ledger.png"> | Mac 热点流量记录：网卡用量、进程活动排行、异常提醒与重启续接。 | [Demo](https://xiaosang.cc/hotspot-ledger/) · [Repo](https://github.com/holynova/hotspot-ledger) |
 | 拼页 · Pingye | <img width="320" alt="拼页个人海报编辑器" src="./thumbs/portfolio-pingye.webp"> | 用九种版式制作个人海报、产品速览或城市导览，支持图片裁剪和高清 PNG 导出。 | [Demo](https://xiaosang.cc/pingye/) · [Repo](https://github.com/holynova/pingye) |
 | 破框 · Photo Breakout | <img width="320" alt="破框照片编辑器的桌面工作台" src="./thumbs/portfolio-photo-breakout.webp"> | 本地自动抠像，给人物身后加上白色网格或竖格，再导出 PNG。 | [Demo](https://xiaosang.cc/photo-breakout/) · [Repo](https://github.com/holynova/photo-breakout) |
