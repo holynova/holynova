@@ -9,6 +9,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| xiaosang AI图集 | <img width="320" alt="xiaosang AI图集的移动端瀑布流" src="./thumbs/portfolio-xiaosang-gallery.webp"> | 22 个系列、3,666 张 AI 图像作品，支持多图帖、沉浸滑览，以及可复用的生成提示词与 Skill。 | [Demo](https://xiaosang.cc/xiaosang-gallery/) · [Repo](https://github.com/holynova/xiaosang-gallery) |
 | Token Theater · 速度体验实验室 | <img width="320" alt="手机与终端并排比较输出速度" src="./thumbs/portfolio-token-theater.webp"> | 在手机、终端、网页和桌面界面并排体验大模型的输出速度、首字等待和流式节奏。 | [Demo](https://xiaosang.cc/token-theater/) · [Repo](https://github.com/holynova/token-theater) |
 | 植物幸存者 · Plant Survivors | <img width="320" alt="植物幸存者实际运行画面" src="./thumbs/portfolio-plant-survivors-ui.webp"> | 三关花园生存游戏：移动、自动攻击、阳光升级、植物进化与首领战，支持本地存档。 | [Demo](https://xiaosang.cc/plant-survivors-ui/) · [Repo](https://github.com/holynova/plant-survivors-ui) |
 | 热点账本 · Hotspot Ledger | <img width="320" alt="热点账本 Mac 流量记录工具" src="./thumbs/portfolio-hotspot-ledger.png"> | Mac 热点流量记录：网卡用量、进程活动排行、异常提醒与重启续接。 | [Demo](https://xiaosang.cc/hotspot-ledger/) · [Repo](https://github.com/holynova/hotspot-ledger) |
