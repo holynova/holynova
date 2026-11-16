@@ -9,6 +9,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 末班之后 · Shanghai Metro Night | <img width="320" alt="上海地铁时间地图" src="./thumbs/portfolio-shanghai-metro-night.png"> | 14 条线路、338 站，拖动时间观察双向首末班服务，支持浅色与深色模式。 | [Demo](https://xiaosang.cc/shanghai-metro-night/) · [Repo](https://github.com/holynova/shanghai-metro-night) |
 | xiaosang AI图集 | <img width="320" alt="xiaosang AI图集的移动端瀑布流" src="./thumbs/portfolio-xiaosang-gallery.webp"> | 22 个系列、3,666 张 AI 图像作品，支持多图帖、沉浸滑览，以及可复用的生成提示词与 Skill。 | [Demo](https://xiaosang.cc/xiaosang-gallery/) · [Repo](https://github.com/holynova/xiaosang-gallery) |
 | Token Theater · 速度体验实验室 | <img width="320" alt="手机与终端并排比较输出速度" src="./thumbs/portfolio-token-theater.webp"> | 在手机、终端、网页和桌面界面并排体验大模型的输出速度、首字等待和流式节奏。 | [Demo](https://xiaosang.cc/token-theater/) · [Repo](https://github.com/holynova/token-theater) |
 | 植物幸存者 · Plant Survivors | <img width="320" alt="植物幸存者实际运行画面" src="./thumbs/portfolio-plant-survivors-ui.webp"> | 三关花园生存游戏：逐帧角色动作、受击与死亡、植物进化、首领重击、战斗音效与配乐。 | [Demo](https://xiaosang.cc/plant-survivors-ui/) · [Repo](https://github.com/holynova/plant-survivors-ui) |
