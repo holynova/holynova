@@ -1,146 +1,91 @@
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="holynova — 做点好玩的网页小东西：游戏、工具、画廊、阅读与可视化，作品集 xiaosang.cc">
+</p>
+
+<p align="center">
+  <a href="https://xiaosang.cc/">作品集 Portfolio</a>
+  ·
+  <a href="https://github.com/holynova?tab=repositories">全部仓库 All Repos</a>
+</p>
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=holynova.readme)
 
-# 概况
+你好，我是 holynova。我做网页小东西——游戏、工具、画廊、阅读与可视化，大多是零构建的静态页面，打开就能玩、能用。全部作品收录在 [xiaosang.cc](https://xiaosang.cc/)。
+
+Hello, I'm holynova. I build small things for the web — games, tools, galleries, reading experiences and visualizations, mostly zero-build static pages that just work when you open them. Everything lives at [xiaosang.cc](https://xiaosang.cc/).
+
+## 概况 / Stats
 
 [![holy_nova's GitHub stats](https://github-stats-extended.vercel.app/api?username=holynova&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=holynova&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
-## 项目
+## 代表作品 / Featured Projects
+
+140+ 个作品的完整目录见 [xiaosang.cc](https://xiaosang.cc/)，下面是各方向的代表作。
+
+### 学习与阅读 / Learning & Reading
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
-| 吴军 · 专题学习 | <img width="320" alt="吴军课程专题与漫画图解" src="./thumbs/portfolio-wujun-study.png"> | 吴军14门课程的42个学习专题，含17份中文漫画图解，每份15页，支持搜索、出处追溯与PDF下载。 | [Demo](https://xiaosang.cc/wujun-study/) · [Repo](https://github.com/holynova/wujun-study) |
-| 末班之后 · Shanghai Metro Night | <img width="320" alt="上海地铁时间地图" src="./thumbs/portfolio-shanghai-metro-night.png"> | 全屏地铁时间地图，自动放映收发车过程，配事件弹幕与浅深色模式。 | [Demo](https://xiaosang.cc/shanghai-metro-night/) · [Repo](https://github.com/holynova/shanghai-metro-night) |
-| xiaosang AI图集 | <img width="320" alt="xiaosang AI图集的移动端瀑布流" src="./thumbs/portfolio-xiaosang-gallery.webp"> | 22 个系列、3,666 张 AI 图像作品，支持多图帖、沉浸滑览，以及可复用的生成提示词与 Skill。 | [Demo](https://xiaosang.cc/xiaosang-gallery/) · [Repo](https://github.com/holynova/xiaosang-gallery) |
-| Token Theater · 速度体验实验室 | <img width="320" alt="手机与终端并排比较输出速度" src="./thumbs/portfolio-token-theater.webp"> | 在手机、终端、网页和桌面界面并排体验大模型的输出速度、首字等待和流式节奏。 | [Demo](https://xiaosang.cc/token-theater/) · [Repo](https://github.com/holynova/token-theater) |
+| 吴军 · 专题学习 | <img width="320" alt="吴军课程专题与漫画图解" src="./thumbs/portfolio-wujun-study.png"> | 吴军 14 门课程的 42 个学习专题，含 17 份中文漫画图解，每份 15 页，支持搜索、出处追溯与 PDF 下载。 | [Demo](https://xiaosang.cc/wujun-study/) · [Repo](https://github.com/holynova/wujun-study) |
+| 经典书导读 · Forty Classic Books | <img width="320" alt="经典书导读真实页面预览" src="./thumbs/portfolio-forty-classic-books.webp"> | 经典书深度导读：总体观点、核心观点与全书结构剖析，纯干货说人话。 | [Demo](https://xiaosang.cc/forty-classic-books/) · [Repo](https://github.com/holynova/forty-classic-books) |
+| 伯恩斯坦《青少年音乐会》 · Young People's Concerts | <img width="320" alt="伯恩斯坦青少年音乐会网页预览" src="./thumbs/portfolio-bernstein-ypc.webp"> | 全 53 课双栏导览：核心观点与现场实验精讲、全文搜索与分类筛选、B 站掘火中译视频与可折叠试听曲目单。 | [Demo](https://xiaosang.cc/bernstein-ypc/) · [Repo](https://github.com/holynova/bernstein-ypc) |
+| 播客图解 · Podcast Atlas | <img width="320" alt="播客图解真实页面预览" src="./thumbs/portfolio-podcast-atlas.webp"> | 按专题读懂半拿铁与知行小酒馆，搭配时间线、人物关系和中文漫画幻灯片。 | [Demo](https://xiaosang.cc/podcast-atlas/) · [Repo](https://github.com/holynova/podcast-atlas) |
+
+### 游戏 / Games
+
+| 项目 | 预览 | 简介 | 链接 |
+|---|---|---|---|
 | 植物幸存者 · Plant Survivors | <img width="320" alt="植物幸存者实际运行画面" src="./thumbs/portfolio-plant-survivors-ui.webp"> | 三关花园生存游戏：逐帧角色动作、受击与死亡、植物进化、首领重击、战斗音效与配乐。 | [Demo](https://xiaosang.cc/plant-survivors-ui/) · [Repo](https://github.com/holynova/plant-survivors-ui) |
-| 热点账本 · Hotspot Ledger | <img width="320" alt="热点账本 Mac 流量记录工具" src="./thumbs/portfolio-hotspot-ledger.png"> | Mac 热点流量记录：网卡用量、进程活动排行、异常提醒与重启续接。 | [Demo](https://xiaosang.cc/hotspot-ledger/) · [Repo](https://github.com/holynova/hotspot-ledger) |
-| 拼页 · Pingye | <img width="320" alt="拼页个人海报编辑器" src="./thumbs/portfolio-pingye.webp"> | 用九种版式制作个人海报、产品速览或城市导览，支持图片裁剪和高清 PNG 导出。 | [Demo](https://xiaosang.cc/pingye/) · [Repo](https://github.com/holynova/pingye) |
+| 霓虹幸存者 · Neon Survivors | <img width="320" alt="霓虹幸存者真实页面预览" src="./thumbs/portfolio-neon-survivors.webp"> | Three.js 三维俯视角类幸存者 Roguelite，模型与音效程序化生成。 | [Demo](https://xiaosang.cc/neon-survivors/) · [Repo](https://github.com/holynova/neon-survivors) |
+| 玛法幸存者 · Mafa Survivor | <img width="320" alt="玛法幸存者线上测试模式实机预览" src="./thumbs/portfolio-mafa-survivor.webp"> | 战法道三职业、33 种技能六级成长、十章地图与装备构筑；Alpha 版，平衡持续完善。 | [Demo](https://xiaosang.cc/mafa-survivor/) · [Repo](https://github.com/holynova/mafa-survivor) |
+| 24 点求解器 · 24 Solver | <img width="320" alt="24点纸牌求解器真实页面预览" src="./thumbs/portfolio-24-solver.webp"> | 单文件网页版 24 点纸牌求解器：自定义选牌或随机发牌，穷举算式与结合律去重，配流光牌面与音效。 | [Demo](https://xiaosang.cc/24-solver/) · [Repo](https://github.com/holynova/24-solver) |
+
+### 工具 / Tools
+
+| 项目 | 预览 | 简介 | 链接 |
+|---|---|---|---|
 | 破框 · Photo Breakout | <img width="320" alt="破框照片编辑器的桌面工作台" src="./thumbs/portfolio-photo-breakout.webp"> | 本地自动抠像，给人物身后加上白色网格或竖格，再导出 PNG。 | [Demo](https://xiaosang.cc/photo-breakout/) · [Repo](https://github.com/holynova/photo-breakout) |
 | 照片足迹 · Photo Atlas | <img width="320" alt="照片足迹的城市地图与地球仪" src="./thumbs/portfolio-photo-atlas.webp"> | 扫描本地照片，生成城市足迹地图、跨年照片报告和足迹分享卡。 | [Demo](https://xiaosang.cc/photo-atlas/) · [Repo](https://github.com/holynova/photo-atlas) |
-| X 书签回看 · X Bookmark Recall | <img width="320" alt="X 书签回看时间线与扩展弹窗" src="./thumbs/portfolio-x-bookmark-recall.webp"> | 自动导入 X 书签，在推荐和正在关注的时间线里重读旧收藏。 | [Demo](https://xiaosang.cc/x-bookmark-recall/) · [Repo](https://github.com/holynova/x-bookmark-recall) |
-| 伯恩斯坦《青少年音乐会》 · Young People's Concerts | <img width="320" alt="伯恩斯坦青少年音乐会网页预览" src="./thumbs/portfolio-bernstein-ypc.webp"> | 全 53 课双栏导览：核心观点与现场实验精讲、全文搜索与分类筛选、B 站掘火中译视频与可折叠试听曲目单。 | [Demo](https://xiaosang.cc/bernstein-ypc/) · [Repo](https://github.com/holynova/bernstein-ypc) |
-| 传奇世界幸存者 · Woool Survivor | <img width="320" alt="传奇世界幸存者实机 Boss 战预览" src="./thumbs/portfolio-woool-survivor-game.webp"> | 战法道三职业、原版技能特效与怪物素材、六大城市要塞地图及四档锯齿难度曲线。 | [Demo](https://xiaosang.cc/woool-survivor-game/) · [Repo](https://github.com/holynova/woool-survivor-game) |
-| Prompt 收藏册 · Prompt Library | <img width="320" alt="Prompt 收藏册原文与中文对照页面预览" src="./thumbs/portfolio-x-prompt-library.webp"> | 27组、71条AI提示词，保留出处与原文，附28份中文译文、分类搜索与逐条复制。 | [Demo](https://xiaosang.cc/x-prompt-library/) · [Repo](https://github.com/holynova/x-prompt-library) |
-| 概念探险队 · Concept Atlas | <img width="320" alt="概念探险队知识漫画图鉴预览" src="./thumbs/portfolio-concept-atlas.webp"> | 60张竖版知识漫画，一图解释术语背后的机制，支持分类、搜索与原图下载。 | [Demo](https://xiaosang.cc/concept-atlas/) · [Repo](https://github.com/holynova/concept-atlas) |
-| 玛法幸存者 · Mafa Survivor | <img width="320" alt="玛法幸存者线上测试模式实机预览" src="./thumbs/portfolio-mafa-survivor.webp"> | 战法道三职业、33种技能六级成长、十章地图与装备构筑；Alpha版，平衡持续完善。 | [Demo](https://xiaosang.cc/mafa-survivor/) · [Repo](https://github.com/holynova/mafa-survivor) |
-| 世界未解之谜 · World Unsolved Mysteries | <img width="320" alt="世界未解之谜真实页面预览" src="./thumbs/portfolio-world-unsolved-mysteries.webp"> | 80/90 后童年常听的 20 个谜题，集中展示辟谣结果与硬证据。 | [Demo](https://holynova.github.io/world-unsolved-mysteries/) · [Repo](https://github.com/holynova/world-unsolved-mysteries) |
-| 烘焙变量查询 · Baking Variable Search | <img width="320" alt="烘焙变量查询真实页面预览" src="./thumbs/portfolio-baking-variable-search.webp"> | 60 种烘焙品多选组合搜索，选一个变量、其余计数实时联动。 | [Demo](https://holynova.github.io/baking-variable-search/) · [Repo](https://github.com/holynova/baking-variable-search) |
-| 烘焙百科 · Baking Encyclopedia | <img width="320" alt="烘焙百科真实页面预览" src="./thumbs/portfolio-baking-encyclopedia.webp"> | 用六个变量拆解 36 种烘焙品，讲清奇怪名字背后的逻辑。 | [Demo](https://holynova.github.io/baking-encyclopedia/) · [Repo](https://github.com/holynova/baking-encyclopedia) |
-| 纸间 · Paper in Motion | <img width="320" alt="纸间折纸实验室真实页面预览" src="./thumbs/portfolio-origami-studio.webp"> | 五种经典折纸的三维动画，支持逐步播放、折痕高亮、纸色切换与 PNG 导出。 | [Demo](https://xiaosang.cc/origami-studio/) · [Repo](https://github.com/holynova/origami-studio) |
-| 傅里叶地图实验室 · Fourier Atlas | <img width="320" alt="傅里叶地图实验室真实页面预览" src="./thumbs/portfolio-fourier-atlas.webp"> | 旋转圆描绘地图与四神瓦当纹样，支持圆圈强调、纯净模式和渐进绘制。 | [Demo](https://xiaosang.cc/fourier-atlas/) · [Repo](https://github.com/holynova/fourier-atlas) |
-| 听见画面 · Sound in Sight | <img width="320" alt="听见画面真实页面预览" src="./thumbs/portfolio-rock-in-pictures.webp"> | 60幅摄影意象猜华语乐队，点击即揭晓，支持线索与全部原图打包下载。 | [Demo](https://xiaosang.cc/rock-in-pictures/) · [Repo](https://github.com/holynova/rock-in-pictures) |
-| 播客图解 · Podcast Atlas | <img width="320" alt="播客图解真实页面预览" src="./thumbs/portfolio-podcast-atlas.webp"> | 按专题读懂半拿铁与知行小酒馆，搭配时间线、人物关系和中文漫画幻灯片。 | [Demo](https://xiaosang.cc/podcast-atlas/) · [Repo](https://github.com/holynova/podcast-atlas) |
-| 经典书导读 · Forty Classic Books | <img width="320" alt="经典书导读真实页面预览" src="./thumbs/portfolio-forty-classic-books.webp"> | 7大核心领域70本经典书深度导读：总体观点、核心观点与全书结构剖析，纯干货说人话。 | [Demo](https://xiaosang.cc/forty-classic-books/) · [Repo](https://github.com/holynova/forty-classic-books) |
-| 《人生七年》时间线 · Up Series 70 Years | <img width="320" alt="《人生七年》时间线真实页面预览" src="./thumbs/portfolio-up-series-70years.webp"> | 记录14位主角从7岁到70岁的63年人生轨迹：纪录片纪事、人物档案与横向变迁对比。 | [Demo](https://xiaosang.cc/up-series-70years/) · [Repo](https://github.com/holynova/up-series-70years) |
-| 24点纸牌求解器 · 24 Solver | <img width="320" alt="24点纸牌求解器真实页面预览" src="./thumbs/portfolio-24-solver.webp"> | 单文件网页版24点纸牌求解器：自定义选牌或随机发牌，穷举算式与结合律去重，配流光牌面与音效。 | [Demo](https://xiaosang.cc/24-solver/) · [Repo](https://github.com/holynova/24-solver) |
-| 哆啦A梦的家 3D导览 · Doraemon House 3D | <img width="320" alt="哆啦A梦的家 3D导览真实页面预览" src="./thumbs/portfolio-doraemon-house-3d.webp"> | 基于 Three.js 制作的野比大雄家 3D 立体空间导览：建筑外观、室内各层、空间拆解与点击交互。 | [Demo](https://xiaosang.cc/doraemon-house-3d/) · [Repo](https://github.com/holynova/doraemon-house-3d) |
-| 光影集视频作品展 · Video Gallery | <img width="320" alt="光影集视频作品展真实页面预览" src="./thumbs/portfolio-video-gallery.webp"> | 用代码与 AI 绘画制作的短视频作品展：Remotion 与 Motion Canvas 代码渲染引擎生成的6部短视频。 | [Demo](https://xiaosang.cc/video-gallery/) · [Repo](https://github.com/holynova/video-gallery) |
-| 霓虹幸存者 · Neon Survivors | <img width="320" alt="霓虹幸存者真实页面预览" src="./thumbs/portfolio-neon-survivors.webp"> | Three.js 三维俯视角类幸存者 Roguelite，模型与音效程序化生成。 | [Demo](https://xiaosang.cc/neon-survivors/) · [Repo](https://github.com/holynova/neon-survivors) |
-| 块茎幸存者 · Tuber Survivors | <img width="320" alt="块茎幸存者真实页面预览" src="./thumbs/portfolio-tuber-survivors.webp"> | Three.js 三维波次战斗、多武器装备与局间商店，类 Brotato 竞技场。 | [Demo](https://xiaosang.cc/tuber-survivors/) · [Repo](https://github.com/holynova/tuber-survivors) |
-| 土豆小队 · Spud Squad | <img width="320" alt="土豆小队真实页面预览" src="./thumbs/portfolio-spud-squad.webp"> | Three.js 三维幸存者竞技场，高密度粒子效果与多职业战斗。 | [Demo](https://xiaosang.cc/spud-squad/) · [Repo](https://github.com/holynova/spud-squad) |
-| 游戏剧情档案馆 · Game Narrative Archive | <img width="320" alt="游戏剧情档案馆真实页面预览" src="./thumbs/portfolio-game-narrative-archive.webp"> | 手机优先的剧情阅读、人物关系图、选择后果与结局分支分析。 | [Demo](https://xiaosang.cc/game-narrative-archive/) · [Repo](https://github.com/holynova/game-narrative-archive) |
-| 山海夜市 · Shanhai Night Market | <img width="320" alt="山海夜市真实页面预览" src="./thumbs/portfolio-web-survivor-game-agy.webp"> | 中式妖怪夜市题材的幸存者游戏，用厨具与口味组合战斗构筑。 | [Demo](https://xiaosang.cc/demos/web-survivor-game-agy/) · [Repo](https://github.com/holynova/web-survivor-game-agy) |
-| Time Slider · 滑轨时钟 | <img width="320" alt="Time Slider 滑轨时钟手机页面预览" src="./thumbs/portfolio-time-slider-clock.webp"> | 镂空像素滑轨时钟，含分列、整位、原作双轨与字母栅格，支持夜光主题和快进测试。 | [Demo](https://xiaosang.cc/time-slider-clock/) · [Repo](https://github.com/holynova/time-slider-clock) |
-| 帝号 · 皇帝称呼解码 | <img width="320" alt="帝号移动端真实页面预览" src="./thumbs/portfolio-dihao.webp"> | 用白话与关系图讲清皇帝称呼，附16位人物、32条年号、完整称号资料和小测验。 | [Demo](https://dihao.xiaosang.cc/) · [Repo](https://github.com/holynova/dihao) |
-| 半透明玩具兵 · Translucent Toy Guard | <img width="320" alt="半透明玩具兵真实页面预览" src="./thumbs/portfolio-translucent-toy-guard.webp"> | 20个卡通玩具角色，硬挺制服与磨砂半透明盔甲，支持分类、高清预览和分享。 | [Demo](https://translucent-toy-guard.xiaosang.cc/) · [Repo](https://github.com/holynova/translucent-toy-guard) |
-| 山河入版 · 套色木刻画廊 | <img width="320" alt="山河入版城市画廊预览" src="./thumbs/portfolio-shanhe-gallery.webp"> | 185张套色木刻风格AI画作，涵盖山河、名胜、生活、节日与十一城五景，支持分类、放大和下载。 | [Demo](https://shanhe-gallery.xiaosang.cc/) · [Repo](https://github.com/holynova/shanhe-gallery) |
-| 世界景点 · 纸上旅行 | <img width="320" alt="世界景点 · 纸上旅行真实页面预览" src="./thumbs/portfolio-world-landmarks.webp"> | 纸纹平涂水粉画廊：海岸夏日与多样风景各5张，五国景点各10张（含韩国），共60张，支持分类、整图预览和原图下载。 | [Demo](https://world-landmarks.xiaosang.cc/) · [Repo](https://github.com/holynova/world-landmarks) |
-| 游戏剧情视频合集 | <img width="320" alt="游戏剧情视频合集预览" src="./thumbs/portfolio-elden-ring-lore.webp"> | 六款游戏的中文剧情视频：艾尔登法环、赛博朋克2077、荒野大镖客2、GTA5、巫师三、黑暗之魂3。按游戏切换，支持章节跳转。 | [Demo](https://elden-ring-lore.xiaosang.cc/) · [Repo](https://github.com/holynova/elden-ring-lore) |
-| 艾尔登法环 · 交界地编年史 | <img width="320" alt="艾尔登法环 · 交界地编年史真实页面预览" src="./thumbs/portfolio-elden-ring-lore-video.webp"> | 五章节中文剧情短片：从黄金律法、黑刀之夜，到破碎战争与三种结局。 | [Demo](https://elden-ring-lore-video.xiaosang.cc/) · [Repo](https://github.com/holynova/elden-ring-lore-video) |
-| 印画图鉴 · Folk & Stamp Gallery | <img width="320" alt="印画图鉴 · Folk & Stamp Gallery真实页面预览" src="./thumbs/portfolio-folk-gallery.webp"> | 321幅农民画与印章图鉴，网格加载缩略图，灯箱显示高清原图，支持键盘切换。 | [Demo](https://folk-gallery.xiaosang.cc/) · [Repo](https://github.com/holynova/folk-gallery) |
-| 王者荣耀 · 联名英雄图集 | <img width="320" alt="王者荣耀联名英雄图集页面预览" src="./thumbs/portfolio-crossover-folk-gallery.webp"> | 155张联名英雄概念图，28个等宽主题标签，支持高清浏览与主题原图打包下载。 | [Demo](https://crossover-folk-gallery.xiaosang.cc/) · [Repo](https://github.com/holynova/crossover-folk-gallery) |
-| 创世纪 · 触碰的四十种可能 | <img width="320" alt="创世纪 · 触碰的四十种可能真实页面预览" src="./thumbs/portfolio-the-creation-variants.webp"> | 米开朗基罗《创造亚当》40个变种数字艺术展厅：经典、神话、赛博、极简与波普，支持多视角浏览与中英双语解析。 | [Demo](https://the-creation-variants.xiaosang.cc/) · [Repo](https://github.com/holynova/the-creation-variants) |
-| PHOTO-REAL VIRTUALITY · 游戏写实影像 | <img width="320" alt="PHOTO-REAL VIRTUALITY · 游戏写实影像真实页面预览" src="./thumbs/portfolio-elden-ring-liveaction.webp"> | 将艾尔登法环、赛博朋克2077与塞尔达角色和场景转译为摄影风格AI图像。 | [Demo](https://elden-ring-liveaction.xiaosang.cc/) · [Repo](https://github.com/holynova/elden-ring-liveaction) |
-| 认知工件实验室 · AI Explainer Artifacts | <img width="320" alt="认知工件实验室 · AI Explainer Artifacts真实页面预览" src="./thumbs/portfolio-karpathy-deep-explainer-artifacts.webp"> | 通过独立交互页面探索前端、分布式系统、提示词工程及两位创作者的观点整理。 | [Demo](https://karpathy-deep-explainer-artifacts.xiaosang.cc/) · [Repo](https://github.com/holynova/karpathy-deep-explainer-artifacts) |
-| Rogue Bastion · 坦克要塞 | <img width="320" alt="Rogue Bastion · 坦克要塞真实页面预览" src="./thumbs/portfolio-battle-city-roguelike.webp"> | 驾驶坦克守卫老鹰基地，在战役中切换元素主炮并选择强化。 | [Demo](https://battle-city-roguelike.xiaosang.cc/) · [Repo](https://github.com/holynova/battle-city-roguelike) |
-| 炉石匹配实验室 · Hearthstone Match Lab | <img width="320" alt="炉石匹配实验室 · Hearthstone Match Lab真实页面预览" src="./thumbs/portfolio-hearthstone-match.webp"> | 可调参数的炉石匹配界面复刻，观察滚筒减速、指针抖动、粒子和合成音效。 | [Demo](https://hearthstone-match.xiaosang.cc/) · [Repo](https://github.com/holynova/hearthstone-match) |
-| Builder Atlas · AI建造者阅读档案 | <img width="320" alt="Builder Atlas · AI建造者阅读档案真实页面预览" src="./thumbs/portfolio-builder-atlas.webp"> | 浏览30份来源绑定的建造者档案，按阅读路线查看观点、出处、收藏和练习笔记。 | [Demo](https://builder-atlas.xiaosang.cc/) · [Repo](https://github.com/holynova/builder-atlas) |
-| 坠井者 · FALLWELL | <img width="320" alt="坠井者 · FALLWELL真实页面预览" src="./thumbs/portfolio-fallwell.webp"> | 向井底不断下落，靠射击减速、踩怪连击与落地补弹构筑自己的动作肉鸽。 | [Demo](https://fallwell.xiaosang.cc/) · [Repo](https://github.com/holynova/fallwell) |
-| 裂隙幸存者 · Rift Survivors | <img width="320" alt="裂隙幸存者 · Rift Survivors真实页面预览" src="./thumbs/portfolio-rift-survivors.webp"> | 在怪潮之间购买、合成与搭配武器和道具，构筑自己的生存竞技场打法。 | [Demo](https://rift-survivors.xiaosang.cc/) · [Repo](https://github.com/holynova/rift-survivors) |
-| 系统设计经典算法全景图解 · System Design Algorithms | <img width="320" alt="系统设计经典算法全景图解 Preview" src="./thumbs/portfolio-system-design-algorithms-js.webp"> | 基于 Alex Xu《系统设计面试》全 28 章的经典算法与数据结构纯原生 JS 实现，配矢量 SVG 架构图、Mermaid 时序流转与在线交互实验室 | [Demo](https://xiaosang.cc/system-design-algorithms-js/) · [Pages](https://holynova.github.io/system-design-algorithms-js/) · [Repo](https://github.com/holynova/system-design-algorithms-js) |
-| 图片画廊模板 · Image Gallery Template | <img width="320" alt="Image Gallery Template Preview" src="./thumbs/portfolio-image-gallery-template.webp"> | Astro + Sharp 图片优先模板：AI 根据主题与图片生成可发布画廊，内置压缩、校验、Umami 与静态部署 | [Demo](https://xiaosang.cc/image-gallery-template/) · [Pages](https://holynova.github.io/image-gallery-template/) · [Repo](https://github.com/holynova/image-gallery-template) |
-| 橡胶戳艺术印记 · Rubber Stamp Art Prints | <img width="320" alt="橡胶戳艺术印记 Preview" src="./thumbs/portfolio-rubber-stamp-world-cities.webp"> | 世界城市(30)、十二生肖(12)与二十四节气(24)共 66 枚复古手工多色纯印章艺术画廊 | [Demo](https://holynova.github.io/rubber-stamp-world-cities/) · [Repo](https://github.com/holynova/rubber-stamp-world-cities) |
-| 城市印记 · City Stamp | <img width="320" alt="城市印记 Preview" src="./thumbs/portfolio-city-stamp.webp"> | 上海、苏州、北京三座城市的 30 个地标六边形徽章打卡档案，支持点亮、发光与时间记录 | [Demo](https://holynova.github.io/city-stamp/) · [Repo](https://github.com/holynova/city-stamp) |
-| 撕标签 · 去品牌产品图素材库 | <img width="320" alt="撕标签 Preview" src="./thumbs/portfolio-daily-necessities-library.webp"> | Wander 分类瀑布流：116 张去标签产品 PNG 与 21 组静物合集，支持搜索、收藏、分享和原图下载 | [Demo](https://daily-necessities-library.xiaosang.cc/) · [Repo](https://github.com/holynova/daily-necessities-library) |
-| 画风图谱 · 经典艺术与插画流派视觉解构 | <img width="320" alt="画风图谱 Preview" src="./thumbs/portfolio-art-style-showcase.webp"> | 9 大基准测试场景 × 14 种经典绘画与插画流派（全 126 组全量视觉图谱与 Prompt 对照），支持双画风同屏无级滑动对比 | [Demo](https://holynova.github.io/art-style-showcase/) · [Repo](https://github.com/holynova/art-style-showcase) |
-| 穿墙透壁，上海建筑剖透图册 | <img width="320" alt="穿墙透壁 Preview" src="./thumbs/portfolio-shanghai-through-walls.webp"> | 以公开资料为证据的上海建筑剖透图册，区分实证结构与受约束的推断复原 | [Demo](https://holynova.github.io/shanghai-through-walls/) · [Repo](https://github.com/holynova/shanghai-through-walls) |
-| 压印之间 · Print Atlas | <img width="320" alt="压印之间 Preview" src="./thumbs/portfolio-print-atlas.webp"> | 从木刻、凹凸平孔版到 CMYK 网点套印的互动印刷图鉴 | [Demo](https://holynova.github.io/print-atlas/) · [Repo](https://github.com/holynova/print-atlas) |
-| 游戏风格转换图鉴 | <img width="320" alt="游戏风格转换图鉴 Preview" src="./thumbs/portfolio-game-style-transfer-atlas.webp"> | 用三套城市照片比较 15 款热门游戏的实机风格、提示词与 16:9 横屏转译 | [Demo](https://holynova.github.io/game-style-transfer-atlas/) · [Repo](https://github.com/holynova/game-style-transfer-atlas) |
-| 说人话的用药科普 | <img width="320" alt="说人话的用药科普 Preview" src="./thumbs/portfolio-health-book.webp"> | 讲清病毒、细菌、炎症、抗生素与抗炎药的移动端科普 | [Demo](https://holynova.github.io/health-book/) · [Repo](https://github.com/holynova/health-book) |
-| 诗歌公式 | <img width="320" alt="诗歌公式 Preview" src="./thumbs/portfolio-poem-formula.webp"> | 《意象的帝国》错配写诗方法论，含插图、例子与生成提示词 | [Demo](https://holynova.github.io/poem-formula/) · [Repo](https://github.com/holynova/poem-formula) |
-| 系统设计实验册 · V1 06—08 | <img width="320" alt="系统设计实验册 Preview" src="./thumbs/portfolio-system-design-learning-lab.webp"> | 操作 KV 副本、拆解 Snowflake ID、追踪短网址缓存；三章完整实验与思维导图 | [Demo](https://holynova.github.io/system-design-learning-lab/) · [Repo](https://github.com/holynova/system-design-learning-lab) |
-| TRA Cinematic Countdown | <img width="320" alt="TRA Cinematic Countdown Preview" src="./thumbs/portfolio-hotpot-timer.webp"> | Three.js 沉浸式倒计时与 A–Z 立体字母逐个变换 | [Demo](https://holynova.github.io/hotpot-timer/) · [Repo](https://github.com/holynova/hotpot-timer) |
-| Shanghai Afterglow | <img width="320" alt="Shanghai Afterglow Preview" src="./thumbs/portfolio-citypop-shanghai-exploration.webp"> | 上海与北京的粗颗粒 City Pop 绘画、提示词与版画规律实验档案 | [Demo](https://holynova.github.io/citypop-shanghai-exploration/) · [Repo](https://github.com/holynova/citypop-shanghai-exploration) |
-| 古诗文起名 | <img width="320" alt="古诗文起名 Preview" src="./thumbs/portfolio-gushi_namer.webp"> | 诗经楚辞唐诗宋词起名 | [Demo](https://holynova.github.io/gushi_namer/) · [Repo](https://github.com/holynova/gushi_namer) |
-| 助人对话练习册 | <img width="320" alt="助人对话练习册 Preview" src="./thumbs/portfolio-psy-talks.webp"> | 心理咨询常见对话微技能的移动端练习地图，含 v1 练习与 v2 阅读版 | [Demo](https://holynova.github.io/psy-talks/) · [Repo](https://github.com/holynova/psy-talks) |
-| 镜花万象 | <img width="320" alt="镜花万象 Preview" src="./thumbs/portfolio-kaleidoscope-studio.webp"> | 可拖动三角取样，实时生成多种平铺万花筒图案 | [Demo](https://holynova.github.io/kaleidoscope-studio/) · [Repo](https://github.com/holynova/kaleidoscope-studio) |
-| 苔卡 Moss Card | <img width="320" alt="苔卡 Moss Card Preview" src="./thumbs/portfolio-flash-card.webp"> | 移动端 FSRS 闪卡 PWA，支持牌组、CSV 导入、离线学习与 Supabase 云同步 | [Demo](https://holynova.github.io/flash-card/) · [Repo](https://github.com/holynova/flash-card) |
-| Win98 屏幕保护程序 | <img width="320" alt="Win98 屏幕保护程序 Preview" src="./thumbs/portfolio-win98-screen-saver.webp"> | 复刻星空、3D 管道、迷宫等经典屏保，支持调参、宽屏和全屏 | [Demo](https://holynova.github.io/win98-screen-saver/) · [Repo](https://github.com/holynova/win98-screen-saver) |
-| AI Gallery | <img width="320" alt="AI Gallery Preview" src="./thumbs/portfolio-ai-gallery.webp"> | AI 图片库，支持搜索、网格/列表视图、灯箱和深色主题 | [Demo](https://ai-gallery.xiaosang.cc/) · [Repo](https://github.com/holynova/ai-gallery) |
-| 课本插图写实化 | <img width="320" alt="课本插图写实化 Preview" src="./thumbs/portfolio-text_book_pics.webp"> | 将经典课本插图转成写实照片的对照图库 | [Demo](https://holynova.github.io/text_book_pics/) · [Repo](https://github.com/holynova/text_book_pics) |
-| 24 点全解 | <img width="320" alt="24 点全解 Preview" src="./thumbs/portfolio-24points.webp"> | 24 点游戏全部 1820 种四牌组合的解法库 | [Demo](https://holynova.github.io/24points/) · [Repo](https://github.com/holynova/24points) |
-| Director Motorcycle Cinema | <img width="320" alt="Director Motorcycle Cinema Preview" src="./thumbs/portfolio-director-motorcycle-cinema.webp"> | 导演风格的摩托车与猫摄影电影感画廊 | [Demo](https://holynova.github.io/director-motorcycle-cinema/) · [Repo](https://github.com/holynova/director-motorcycle-cinema) |
-| 3D 卡片景深实验室 | <img width="320" alt="3D 卡片景深实验室 Preview" src="./thumbs/portfolio-card-3d-depth-lab.webp"> | 指针驱动的 CSS 3D 卡片、视差与景深效果 | [Demo](https://holynova.github.io/card-3d-depth-lab/) · [Repo](https://github.com/holynova/card-3d-depth-lab) |
-| Ask All AI | <img width="320" alt="Ask All AI Preview" src="./thumbs/portfolio-ask_all_ai.webp"> | 并排比较 ChatGPT、Gemini、Grok 和 DeepSeek 的流式回答 | [Demo](https://holynova.github.io/ask_all_ai/) · [Repo](https://github.com/holynova/ask_all_ai) |
-| 文物打卡 | <img width="320" alt="文物打卡 Preview" src="./thumbs/portfolio-wenwu-checkin.webp"> | 195 件禁止出境文物的检索、筛选与本地打卡 | [Demo](https://holynova.github.io/wenwu-checkin/) · [Repo](https://github.com/holynova/wenwu-checkin) |
-| 小宇宙全集转录 | <img width="320" alt="小宇宙全集转录 Preview" src="./thumbs/portfolio-xiaoyuzhou-transcript-downloader.webp"> | 小宇宙播客列表与转录的批量下载工作台 | [Demo](https://holynova.github.io/xiaoyuzhou-transcript-downloader/) · [Repo](https://github.com/holynova/xiaoyuzhou-transcript-downloader) |
-| Hand Fireworks | <img width="320" alt="Hand Fireworks Preview" src="./thumbs/portfolio-hand_fireworks.webp"> | 用手势控制 Three.js 粒子文字与烟花效果 | [Demo](https://holynova.github.io/hand_fireworks/) · [Repo](https://github.com/holynova/hand_fireworks) |
-| Cut & Remix | <img width="320" alt="Cut & Remix Preview" src="./thumbs/portfolio-cut_and_remix.webp"> | 照片编织、图像解构与重组的生成艺术工具 | [Demo](https://holynova.github.io/cut_and_remix/) · [Repo](https://github.com/holynova/cut_and_remix) |
-| WebGL 路径追踪 | <img width="320" alt="WebGL 路径追踪 Preview" src="./thumbs/portfolio-raytracing-demo.webp"> | 零依赖 WebGL2 实时路径追踪，展示漫反射、金属与玻璃材质 | [Demo](https://holynova.github.io/raytracing-demo/) · [Repo](https://github.com/holynova/raytracing-demo) |
-| Emoji 人生时间线 | <img width="320" alt="Emoji 人生时间线 Preview" src="./thumbs/portfolio-life_emoji.webp"> | 用 Emoji 事件编辑人生时间线并生成分享图 | [Demo](https://holynova.github.io/life_emoji/) · [Repo](https://github.com/holynova/life_emoji) |
-| 鼠标滚轮健康检测 | <img width="320" alt="鼠标滚轮健康检测 Preview" src="./thumbs/portfolio-mouse_scroll_heath_check.webp"> | 检测滚轮回滚、抖动与方向异常 | [Demo](https://holynova.github.io/mouse_scroll_heath_check/) · [Repo](https://github.com/holynova/mouse_scroll_heath_check) |
-| 评论区图书列表 | <img width="320" alt="评论区图书列表 Preview" src="./thumbs/portfolio-industry-book-recommender.webp"> | 从 2747 条评论整理 170 本书，支持搜索、学科筛选和排序 | [Demo](https://holynova.github.io/industry-book-recommender/) · [Repo](https://github.com/holynova/industry-book-recommender) |
-| AI Agent 开发岗位面试报告 | <img width="320" alt="AI Agent 开发岗位面试报告 Preview" src="./thumbs/portfolio-ai-agent-interview-report.webp"> | 近 30 天岗位调研、能力要求与 102 道面试题整理 | [Demo](https://holynova.github.io/ai-agent-interview-report/) · [Repo](https://github.com/holynova/ai-agent-interview-report) |
-| 德州扑克牌型概率 | <img width="320" alt="德州扑克牌型概率 Preview" src="./thumbs/portfolio-texas-holdem-hand-probability.webp"> | 离线精确计算最终牌型与按牌型率的交互工具 | [Demo](https://holynova.github.io/texas-holdem-hand-probability/) · [Repo](https://github.com/holynova/texas-holdem-hand-probability) |
-| 诗歌卡片 Tinder | <img width="320" alt="诗歌卡片 Tinder Preview" src="./thumbs/portfolio-poetry-flow.webp"> | Tinder 式现代诗歌浏览、双主题切换与高清海报导出 | [Demo](https://holynova.github.io/poetry-flow/) · [Repo](https://github.com/holynova/poetry-flow) |
-| 50 Seeds | <img width="320" alt="50 Seeds Preview" src="./thumbs/portfolio-50-seeds.webp"> | 48 类 × 50 条的 AI 作图视觉种子库，支持双语搜索、筛选、复制与 JSON 下载 | [Demo](https://holynova.github.io/50-seeds/) · [Repo](https://github.com/holynova/50-seeds) |
-| Chrome Session TUI | <img width="320" alt="Chrome Session TUI Preview" src="./thumbs/portfolio-chrome-session-tui.webp"> | macOS Chrome 自动化进程管理 TUI，识别并安全关闭遗留会话 | [Demo](https://holynova.github.io/chrome-session-tui/) · [Repo](https://github.com/holynova/chrome-session-tui) |
-| Tiny Icons | <img width="320" alt="Tiny Icons Preview" src="./thumbs/portfolio-tiny-icons.webp"> | Chrome 扩展和 Favicon 小图标生成器 | [Demo](https://holynova.github.io/tiny-icons/) · [Repo](https://github.com/holynova/tiny-icons) |
-| Viewport Relay | <img width="320" alt="Viewport Relay Preview" src="./thumbs/portfolio-multi-screen-view.webp"> | 主屏同步多个 iPhone 视口的滚动、点击与导航 | [Demo](https://holynova.github.io/multi-screen-view/) · [Repo](https://github.com/holynova/multi-screen-view) |
-| 古籍典籍谐音梗追踪器 | <img width="320" alt="古籍典籍谐音梗追踪器 Preview" src="./thumbs/portfolio-xieyin.webp"> | 基于 Sticker-Sheet Neo-Brutalism 视觉系统挖掘典籍谐音梗 | [Demo](https://holynova.github.io/xieyin/) · [Repo](https://github.com/holynova/xieyin) |
-| Flash Words | <img width="320" alt="Flash Words Preview" src="./thumbs/portfolio-flash-words.webp"> | 浏览器本地动态文字编排与视频、GIF 导出工具 | [Demo](https://holynova.github.io/flash-words/) · [Repo](https://github.com/holynova/flash-words) |
-| 名从何来 | <img width="320" alt="名从何来 Preview" src="./thumbs/portfolio-brand-etymology.webp"> | 品牌名称词源、读音与文化背景静态知识库 | [Demo](https://holynova.github.io/brand-etymology/) · [Repo](https://github.com/holynova/brand-etymology) |
-| 近邻 | <img width="320" alt="近邻 Preview" src="./thumbs/portfolio-city-public-facilities.webp"> | 上海公共地点近邻检索，覆盖文化、交通、医疗、商业与社区服务 | [Demo](https://holynova.github.io/city-public-facilities/) · [Repo](https://github.com/holynova/city-public-facilities) |
-| JSON Workbench | <img width="320" alt="JSON Workbench Preview" src="./thumbs/portfolio-json-workbench-extension.webp"> | 本地 JSON 修复、格式化、Schema/TS/Zod/Pydantic/Mock 生成 Chrome 插件 | [Demo](https://holynova.github.io/json-workbench-extension/) · [Repo](https://github.com/holynova/json-workbench-extension) |
-| Game Tier | <img width="320" alt="Game Tier Preview" src="./thumbs/portfolio-game-rating-lookup.webp"> | Steam / 小黑盒游戏评分查询 CLI + 网页应用 | [Demo](https://holynova.github.io/game-rating-lookup/) · [Repo](https://github.com/holynova/game-rating-lookup) |
-| 移动端传感器面板 | <img width="320" alt="移动端传感器面板 Preview" src="./thumbs/portfolio-mobile-sensor-playground.webp"> | 3D WebGL 移动端陀螺仪与加速度计交互面板 | [Demo](https://holynova.github.io/mobile-sensor-playground/) · [Repo](https://github.com/holynova/mobile-sensor-playground) |
-| 地图投影形变实验室 | <img width="320" alt="地图投影形变实验室 Preview" src="./thumbs/portfolio-mercator-country-compare.webp"> | 在 Web Mercator 投影下对比国家真实大小。支持大圆球面平移、中英双语切换、经纬网及赤道参考线，内置经典场景预设 | [Demo](https://holynova.github.io/mercator-country-compare/) · [Repo](https://github.com/holynova/mercator-country-compare) |
-| JS vs Go 对比学习 | <img width="320" alt="JS vs Go 对比学习 Preview" src="./thumbs/portfolio-js-go-compare.webp"> | 单页课程网站，对比 JavaScript 与 Go | [Demo](https://holynova.github.io/js-go-compare/) · [Repo](https://github.com/holynova/js-go-compare) |
-| GitHub Pages Detector | <img width="320" alt="GitHub Pages Detector Preview" src="./thumbs/portfolio-github-pages-detector-extension.webp"> | GitHub repo Pages 状态检测插件 | [Demo](https://holynova.github.io/github-pages-detector-extension/) · [Repo](https://github.com/holynova/github-pages-detector-extension) |
-| 收藏夹淘金 | <img width="320" alt="收藏夹淘金 Preview" src="./thumbs/portfolio-collection_miner.webp"> | 新标签页随机展示收藏夹 | [Repo](https://github.com/holynova/collection_miner) |
-| 韵脚画布 | <img width="320" alt="韵脚画布 Preview" src="./thumbs/portfolio-char_finder.webp"> | 移动端中文押韵字查找 | [Demo](https://holynova.github.io/char_finder/) · [Repo](https://github.com/holynova/char_finder) |
-| 网页动效设计灵感库 | <img width="320" alt="网页动效设计灵感库 Preview" src="./thumbs/portfolio-web-motion-showcase.webp"> | 30 个经典网页动画 + AI 提示词 | [Demo](https://holynova.github.io/web-motion-showcase/) · [Repo](https://github.com/holynova/web-motion-showcase) |
-| 设计系统目录库 | <img width="320" alt="设计系统目录库 Preview" src="./thumbs/portfolio-my-design-system.webp"> | 网页设计规范 + 低饱和配色 | [Demo](https://holynova.github.io/my-design-system/) · [Repo](https://github.com/holynova/my-design-system) |
-| 电子万花尺 | <img width="320" alt="电子万花尺 Preview" src="./thumbs/portfolio-spinning-drawer.webp"> | 旋轮线可视化，多形状配色 | [Demo](https://holynova.github.io/spinning-drawer/) · [Repo](https://github.com/holynova/spinning-drawer) |
-| 人像时间线 | <img width="320" alt="人像时间线 Preview" src="./thumbs/portfolio-photo_align.webp"> | 人脸照片对齐 + MP4/GIF 导出 | [Demo](https://holynova.github.io/photo_align/) · [Repo](https://github.com/holynova/photo_align) |
-| Z-Image-Turbo Local Studio | <img width="320" alt="Z-Image-Turbo Local Studio Preview" src="./thumbs/portfolio-image_local_llm.webp"> | 本地 AI 生图工作台 | [Demo](https://holynova.github.io/image_local_llm/) · [Repo](https://github.com/holynova/image_local_llm) |
-| 书香管家 | <img width="320" alt="书香管家 Preview" src="./thumbs/portfolio-bookshelf_manager.webp"> | AI 拍照识别 + 3D 虚拟书架 | [Demo](https://holynova.github.io/bookshelf_manager/) · [Repo](https://github.com/holynova/bookshelf_manager) |
-| 视频提示词生成器 | <img width="320" alt="视频提示词生成器 Preview" src="./thumbs/portfolio-video_prompt_generator.webp"> | 中英文 AI 视频 Prompt 模板 | [Demo](https://holynova.github.io/video_prompt_generator/) · [Repo](https://github.com/holynova/video_prompt_generator) |
-| Offer 比较神器 | <img width="320" alt="Offer 比较神器 Preview" src="./thumbs/portfolio-offer_compare.webp"> | 薪资对比 + 多维评分图表 | [Demo](https://holynova.github.io/offer_compare/) · [Repo](https://github.com/holynova/offer_compare) |
-| Scrape to Markdown | <img width="320" alt="Scrape to Markdown Preview" src="./thumbs/portfolio-scrape-to-markdown.chrome.webp"> | 网页转 Markdown + 图片批量打包 | [Repo](https://github.com/holynova/scrape-to-markdown.chrome) |
-| iOS打字模拟 | <img width="320" alt="iOS打字模拟 Preview" src="./thumbs/portfolio-keyboard_sentence.webp"> | iOS 键盘自适应消隐模拟 | [Demo](https://holynova.github.io/keyboard_sentence/) · [Repo](https://github.com/holynova/keyboard_sentence) |
-| Gemini 批量生图插件 | <img width="320" alt="Gemini 批量生图插件 Preview" src="./thumbs/portfolio-prompt_one_by_one.webp"> | 提示词逐条发送 + 进度条 | [Repo](https://github.com/holynova/prompt_one_by_one) |
-| 坦克战术 | <img width="320" alt="坦克战术 Preview" src="./thumbs/portfolio-tank-tactics-game.webp"> | 像素美术陆海战术对战，双阵营与炮火动画，支持 PvP/PvE | [Demo](https://tank-tactics-game.xiaosang.cc/) · [Repo](https://github.com/holynova/tank-tactics-game) |
-| 俳句Tinder | <img width="320" alt="俳句Tinder Preview" src="./thumbs/portfolio-haiku-flow.webp"> | 滑动浏览经典俳句 | [Demo](https://holynova.github.io/haiku-flow) · [Repo](https://github.com/holynova/haiku-flow) |
-| 一眼看电影 | <img width="320" alt="一眼看电影 Preview" src="./thumbs/portfolio-one_second_movie.webp"> | 视频压缩为 4K 联系表 | [Demo](https://holynova.github.io/one_second_movie/) · [Repo](https://github.com/holynova/one_second_movie) |
-| JSON转TypeScript定义 | <img width="320" alt="JSON转TypeScript定义 Preview" src="./thumbs/portfolio-json_to_ts.webp"> | JS 自动推导 TS 类型 | [Demo](https://holynova.github.io/json_to_ts/) · [Repo](https://github.com/holynova/json_to_ts) |
-| 生命时间轴可视化 | - | 甘特图展示生命时间线 | [Repo](https://github.com/holynova/life_bar_chart) |
-| 等宽文字生成器 | <img width="320" alt="等宽文字生成器 Preview" src="./thumbs/portfolio-equal_width.webp"> | 自动调整字号使视觉等宽 | [Demo](https://holynova.github.io/equal_width/) · [Repo](https://github.com/holynova/equal_width) |
-| 弹幕附魔 | <img width="320" alt="弹幕附魔 Preview" src="./thumbs/portfolio-string_alchemy.webp"> | 文字转同音化学元素 | [Demo](https://holynova.github.io/string_alchemy/) · [Repo](https://github.com/holynova/string_alchemy) |
-| 藏头诗生成器 | <img width="320" alt="藏头诗生成器 Preview" src="./thumbs/portfolio-head_tail_poem.webp"> | 藏头诗藏尾诗生成 | [Demo](https://holynova.github.io/head_tail_poem/) · [Repo](https://github.com/holynova/head_tail_poem) |
-| 排序算法可视化 | <img width="320" alt="排序算法可视化 Preview" src="./thumbs/portfolio-algorithm.webp"> | 排序算法可视化 playground | [Demo](https://holynova.github.io/algorithm/show_sort/index.html) · [Repo](https://github.com/holynova/algorithm) |
-| YouTube视频抓取 | <img width="320" alt="YouTube视频抓取 Preview" src="./thumbs/portfolio-youtube-channel-scraper-chrome.webp"> | YouTube 视频内容抓取 | - |
-| 100 Clocks | <img width="320" alt="100 Clocks Preview" src="./thumbs/portfolio-100-clocks.webp"> | 不同风格的时钟集合 | [Demo](https://holynova.github.io/100-clocks) · [Repo](https://github.com/holynova/100-clocks) |
-| 倒推税前工资 | <img width="320" alt="倒推税前工资 Preview" src="./thumbs/portfolio-pre_tax_salary_calculator.webp"> | 根据税后收入反向倒推税前薪资与五险一金明细 | [Demo](https://holynova.github.io/pre_tax_salary_calculator/) · [Repo](https://github.com/holynova/pre_tax_salary_calculator) |
-| 排列组合生成器 | <img width="320" alt="排列组合生成器 Preview" src="./thumbs/portfolio-combination.webp"> | 排列组合计算 + 可视化 | [Demo](https://holynova.github.io/combination/) · [Repo](https://github.com/holynova/combination) |
-| 节假日历 | <img width="160" alt="节假日历移动端预览" src="./thumbs/portfolio-holiday-visualizer.webp"> | 中国大陆节假日、调休补班与请假连休日历 | [Demo](https://holiday-visualizer.xiaosang.cc/) · [Repo](https://github.com/holynova/holiday-visualizer) |
-| 音乐脉冲 | <img width="320" alt="音乐脉冲 Preview" src="./thumbs/portfolio-music_pulse.webp"> | 基于音频包络曲线的音乐节奏可视化动效演示 | [Demo](https://holynova.github.io/music_pulse/) · [Repo](https://github.com/holynova/music_pulse) |
-| OpenCLI 流水线 | - | 基于 OpenCLI 调度的本地串行 AI 内容生成流水线 | [Repo](https://github.com/holynova/opencli-pipeline) |
-| Anthropic 官方资产库 | <img width="320" alt="Anthropic 官方资产库 Preview" src="./thumbs/portfolio-anthropic-learn-assets.webp"> | 从 Anthropic Learn 官方页面提取的 SVG 图标与配色资产库 | [Demo](https://holynova.github.io/anthropic-learn-assets/) · [Repo](https://github.com/holynova/anthropic-learn-assets) |
-| 小红书自动化发布 | - | 小红书图文发布自动化工具：支持批量排程、拼图封面与防检测 | [Repo](https://github.com/holynova/auto-xiao-hong-shu) |
-| NotebookLM 自动化生成 | <img width="320" alt="NotebookLM 自动化生成 Preview" src="./thumbs/portfolio-notebooklm_one_by_one.webp"> | 基于 NotebookLM 的自动化幻灯片与小红书图文生成器 | [Repo](https://github.com/holynova/notebooklm_one_by_one) |
-| 古风藏头诗生成排版 | <img width="320" alt="古风藏头诗生成排版 Preview" src="./thumbs/portfolio-head_tail_poem_generator.webp"> | 古风藏头诗与藏尾诗生成排版工具，支持多字数与格律 | [Demo](https://holynova.github.io/head_tail_poem_generator/) · [Repo](https://github.com/holynova/head_tail_poem_generator) |
-| PDF 转微信长图 | <img width="320" alt="PDF 转微信长图 Preview" src="./thumbs/portfolio-pdf2wechat.webp"> | 纯前端 PDF 文件转微信长图拼接与分享工具 | [Demo](https://holynova.github.io/pdf2wechat/) · [Repo](https://github.com/holynova/pdf2wechat) |
-| 豆瓣网盘资源检索 | <img width="320" alt="豆瓣网盘资源检索 Preview" src="./thumbs/portfolio-douban-quark-clawer.webp"> | 豆瓣电影想看清单自动检索夸克网盘资源工具 | [Demo](https://holynova.github.io/douban-quark-clawer/) · [Repo](https://github.com/holynova/douban-quark-clawer) |
-| UI Compare 隐私政策规范 | <img width="320" alt="UI Compare 隐私政策规范 Preview" src="./thumbs/portfolio-ui-compare-privacy-policy.webp"> | UI Compare 浏览器扩展双语隐私协议规范页 | [Demo](https://holynova.github.io/ui-compare-privacy-policy/) · [Repo](https://github.com/holynova/ui-compare-privacy-policy) |
+| 拼页 · Pingye | <img width="320" alt="拼页个人海报编辑器" src="./thumbs/portfolio-pingye.webp"> | 用九种版式制作个人海报、产品速览或城市导览，支持图片裁剪和高清 PNG 导出。 | [Demo](https://xiaosang.cc/pingye/) · [Repo](https://github.com/holynova/pingye) |
+| 热点账本 · Hotspot Ledger | <img width="320" alt="热点账本 Mac 流量记录工具" src="./thumbs/portfolio-hotspot-ledger.png"> | Mac 热点流量记录：网卡用量、进程活动排行、异常提醒与重启续接。 | [Demo](https://xiaosang.cc/hotspot-ledger/) · [Repo](https://github.com/holynova/hotspot-ledger) |
+
+### 画廊与艺术 / Galleries & Art
+
+| 项目 | 预览 | 简介 | 链接 |
+|---|---|---|---|
+| xiaosang AI 图集 | <img width="320" alt="xiaosang AI图集的移动端瀑布流" src="./thumbs/portfolio-xiaosang-gallery.webp"> | 22 个系列、3,666 张 AI 图像作品，支持多图帖、沉浸滑览，以及可复用的生成提示词与 Skill。 | [Demo](https://xiaosang.cc/xiaosang-gallery/) · [Repo](https://github.com/holynova/xiaosang-gallery) |
+| 印画图鉴 · Folk & Stamp Gallery | <img width="320" alt="印画图鉴真实页面预览" src="./thumbs/portfolio-folk-gallery.webp"> | 321 幅农民画与印章图鉴，网格加载缩略图，灯箱显示高清原图，支持键盘切换。 | [Demo](https://folk-gallery.xiaosang.cc/) · [Repo](https://github.com/holynova/folk-gallery) |
+| 山河入版 · 套色木刻画廊 | <img width="320" alt="山河入版城市画廊预览" src="./thumbs/portfolio-shanhe-gallery.webp"> | 185 张套色木刻风格 AI 画作，涵盖山河、名胜、生活、节日与十一城五景，支持分类、放大和下载。 | [Demo](https://shanhe-gallery.xiaosang.cc/) · [Repo](https://github.com/holynova/shanhe-gallery) |
+| 世界景点 · 纸上旅行 | <img width="320" alt="世界景点 · 纸上旅行真实页面预览" src="./thumbs/portfolio-world-landmarks.webp"> | 纸纹平涂水粉画廊：海岸夏日与多样风景各 5 张，五国景点各 10 张（含韩国），共 60 张，支持分类、整图预览和原图下载。 | [Demo](https://world-landmarks.xiaosang.cc/) · [Repo](https://github.com/holynova/world-landmarks) |
+
+### 数据与可视化 / Data & Visualization
+
+| 项目 | 预览 | 简介 | 链接 |
+|---|---|---|---|
+| 末班之后 · Shanghai Metro Night | <img width="320" alt="上海地铁时间地图" src="./thumbs/portfolio-shanghai-metro-night.png"> | 全屏地铁时间地图，自动放映收发车过程，配事件弹幕与浅深色模式。 | [Demo](https://xiaosang.cc/shanghai-metro-night/) · [Repo](https://github.com/holynova/shanghai-metro-night) |
+| 概念探险队 · Concept Atlas | <img width="320" alt="概念探险队知识漫画图鉴预览" src="./thumbs/portfolio-concept-atlas.webp"> | 60 张竖版知识漫画，一图解释术语背后的机制，支持分类、搜索与原图下载。 | [Demo](https://xiaosang.cc/concept-atlas/) · [Repo](https://github.com/holynova/concept-atlas) |
+| Token Theater · 速度体验实验室 | <img width="320" alt="手机与终端并排比较输出速度" src="./thumbs/portfolio-token-theater.webp"> | 在手机、终端、网页和桌面界面并排体验大模型的输出速度、首字等待和流式节奏。 | [Demo](https://xiaosang.cc/token-theater/) · [Repo](https://github.com/holynova/token-theater) |
+| 古诗文起名 | <img width="320" alt="古诗文起名 Preview" src="./thumbs/portfolio-gushi_namer.webp"> | 诗经楚辞唐诗宋词起名。 | [Demo](https://holynova.github.io/gushi_namer/) · [Repo](https://github.com/holynova/gushi_namer) |
+
+## 最近更新 / Recently
+
+- **铁甲夹击 Iron Flank** — 二打一回合制坦克战棋：8×8 棋盘，两辆夹一辆集火击毁；10 张地图、8 关战役、人机与双人对战。[在线玩](https://holynova.github.io/iron-flank/) · [仓库](https://github.com/holynova/iron-flank)
+- **坦克要塞 Rogue Bastion** — 坦克 Roguelite：守卫基地打穿 16 层，6 种元素主炮按楼层解锁，军械库永久升级，第 16 层 Boss 战。[在线玩](https://holynova.github.io/rogue-bastion/) · [仓库](https://github.com/holynova/rogue-bastion)
+
+## 技术与兴趣 / Stack & Interests
+
+- **前端为主**：JavaScript、Canvas / Three.js，零构建静态站，移动端优先。
+- **也做**：Chrome 扩展、CLI 小工具、Node 脚本。
+- **兴趣**：游戏、音乐、诗歌、城市、AI 生成图像。
+
+## English
+
+**holynova** builds small things for the web — games, tools, galleries, reading experiences and visualizations, mostly zero-build static pages. The full catalog (140+ projects) lives at [xiaosang.cc](https://xiaosang.cc/).
+
+- **Learning & reading**: Wu Jun study topics, classic-books guides, Bernstein's Young People's Concerts, podcast atlas.
+- **Games**: Plant Survivors, Neon Survivors, Mafa Survivor, 24 Solver — plus the newest tank games, Iron Flank (turn-based focus-fire tactics) and Rogue Bastion (tank roguelite).
+- **Tools**: Photo Breakout (local background removal), Photo Atlas, Pingye (poster maker), Hotspot Ledger.
+- **Galleries & art**: xiaosang AI gallery (3,666 images), folk & stamp gallery, woodblock-style landscapes, world landmarks in watercolor.
+- **Data & visualization**: Shanghai metro night map, concept atlas, Token Theater, classical-poetry baby naming.
+- **Stack**: JavaScript, Canvas / Three.js, zero-build static sites, mobile-first; also Chrome extensions, CLI tools and Node scripts.
