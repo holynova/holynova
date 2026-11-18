@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="360" viewBox="0 0 1200 360"
+     role="img" aria-labelledby="title desc">
+  <title id="title">holynova — 做点好玩的网页小东西</title>
+  <desc id="desc">暖纸底个人主页横幅：holynova，大标题与副标题"做点好玩的网页小东西"，右侧是一面由十二块彩色小方块组成的作品墙马赛克，象征众多网页小项目；底部是游戏、工具、画廊、阅读、可视化五个标签。</desc>
+
+  <rect width="1200" height="360" rx="26" fill="#f7f2e9"/>
+
+  <g id="title-block" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <text x="56" y="62" font-size="18" letter-spacing="4" fill="#2f5d62">GITHUB · HOLYNOVA · 个人主页</text>
+    <text x="56" y="140" font-size="72" font-weight="700" fill="#26221f">holynova</text>
+    <text x="56" y="186" font-size="25" fill="#4a443c">做点好玩的网页小东西</text>
+    <text x="56" y="220" font-size="18" fill="#6f675c">打开就能玩、能用；全部作品收录于 xiaosang.cc</text>
+    <g id="chips" font-size="18" fill="#26221f" text-anchor="middle">
+      <g><rect x="56" y="252" width="92" height="36" rx="18" fill="#efe6d4" stroke="#d8cbb2" stroke-width="1.5"/><text x="102" y="276">游戏</text></g>
+      <g><rect x="160" y="252" width="92" height="36" rx="18" fill="#efe6d4" stroke="#d8cbb2" stroke-width="1.5"/><text x="206" y="276">工具</text></g>
+      <g><rect x="264" y="252" width="92" height="36" rx="18" fill="#efe6d4" stroke="#d8cbb2" stroke-width="1.5"/><text x="310" y="276">画廊</text></g>
+      <g><rect x="368" y="252" width="92" height="36" rx="18" fill="#efe6d4" stroke="#d8cbb2" stroke-width="1.5"/><text x="414" y="276">阅读</text></g>
+      <g><rect x="472" y="252" width="116" height="36" rx="18" fill="#efe6d4" stroke="#d8cbb2" stroke-width="1.5"/><text x="530" y="276">可视化</text></g>
+    </g>
+  </g>
+
+  <g id="mosaic-wall">
+    <g><rect x="768" y="40" width="88" height="88" rx="12" fill="#7fa8c9"/><circle cx="812" cy="84" r="22" fill="#ffffff" opacity="0.9"/><circle cx="812" cy="84" r="10" fill="#7fa8c9"/></g>
+    <g><rect x="864" y="40" width="88" height="88" rx="12" fill="#8fbf8f"/><polygon points="908,58 930,104 886,104" fill="#ffffff" opacity="0.9"/></g>
+    <g><rect x="960" y="40" width="88" height="88" rx="12" fill="#d9a5b3"/><rect x="990" y="66" width="28" height="36" rx="4" fill="#ffffff" opacity="0.9"/><rect x="990" y="106" width="28" height="8" rx="4" fill="#ffffff" opacity="0.9"/></g>
+    <g><rect x="1056" y="40" width="88" height="88" rx="12" fill="#f2d492"/><rect x="1082" y="70" width="10" height="28" fill="#26221f" opacity="0.75"/><rect x="1097" y="58" width="10" height="40" fill="#26221f" opacity="0.75"/><rect x="1112" y="76" width="10" height="22" fill="#26221f" opacity="0.75"/></g>
+    <g><rect x="768" y="136" width="88" height="88" rx="12" fill="#a78bca"/><polygon points="812,160 830,178 812,196 794,178" fill="#ffffff" opacity="0.9"/></g>
+    <g><rect x="864" y="136" width="88" height="88" rx="12" fill="#7fc8bc"/><circle cx="895" cy="168" r="9" fill="#ffffff" opacity="0.9"/><circle cx="921" cy="168" r="9" fill="#ffffff" opacity="0.9"/><circle cx="895" cy="192" r="9" fill="#ffffff" opacity="0.9"/><circle cx="921" cy="192" r="9" fill="#ffffff" opacity="0.9"/></g>
+    <g><rect x="960" y="136" width="88" height="88" rx="12" fill="#e8b4b8"/><path d="M 984 196 L 1004 160 L 1024 196 Z" fill="#ffffff" opacity="0.9"/><rect x="1000" y="196" width="8" height="10" fill="#ffffff" opacity="0.9"/></g>
+    <g><rect x="1056" y="136" width="88" height="88" rx="12" fill="#9db8d2"/><rect x="1080" y="160" width="40" height="40" rx="8" fill="none" stroke="#ffffff" stroke-width="6" opacity="0.9"/></g>
+    <g><rect x="768" y="232" width="88" height="88" rx="12" fill="#b5c99a"/><path d="M 784 288 Q 800 260 812 280 Q 824 300 840 276" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity="0.9"/></g>
+    <g><rect x="864" y="232" width="88" height="88" rx="12" fill="#e6c79c"/><polygon points="908,254 914,270 930,276 914,282 908,298 902,282 886,276 902,270" fill="#ffffff" opacity="0.9"/></g>
+    <g><rect x="960" y="232" width="88" height="88" rx="12" fill="#c9a7d8"/><rect x="984" y="256" width="40" height="10" rx="5" fill="#ffffff" opacity="0.9"/><rect x="984" y="272" width="28" height="10" rx="5" fill="#ffffff" opacity="0.9"/><rect x="984" y="288" width="34" height="10" rx="5" fill="#ffffff" opacity="0.9"/></g>
+    <g><rect x="1056" y="232" width="88" height="88" rx="12" fill="#88b0a5"/><circle cx="1100" cy="276" r="20" fill="none" stroke="#ffffff" stroke-width="6" opacity="0.9"/><circle cx="1100" cy="276" r="6" fill="#ffffff" opacity="0.9"/></g>
+  </g>
+</svg>
