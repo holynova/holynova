@@ -10,7 +10,7 @@
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
 | 育儿读本 | <img width="320" alt="蒙台梭利篇手机首页" src="./thumbs/portfolio-parenting-reader.webp"> | 从家庭场景读懂蒙台梭利教育与正面管教，两篇各约一小时，含分龄案例与十幅插图。 | [Demo](https://parenting-reader.xiaosang.cc/) · [Repo](https://github.com/holynova/parenting-reader) |
-| 重力物理互动表盘 · Gravity Watch Face | <img width="320" alt="重力物理互动表盘移动端预览" src="./thumbs/portfolio-gravity-watch-face.png"> | 手机全屏 3D 物理重力互动表盘：传感器驱动网球、钻石、篮球、黄金与足球五套场景实时翻滚碰撞，配 HDR 光影与桌面 360° 倾角模拟。 | [Demo](https://gravity-watch-face.xiaosang.cc/) · [Repo](https://github.com/holynova/gravity-watch-face) |
+| 重力物理互动表盘 · Gravity Watch Face | <img width="320" alt="重力物理互动表盘移动端预览" src="./thumbs/portfolio-gravity-watch-face.png"> | 手机全屏 3D 物理重力互动空间：横竖全屏自适应与无时钟纯净视图，传感器驱动标准篮球场与五套场景翻滚及多通道细腻震动。 | [Demo](https://gravity-watch-face.xiaosang.cc/) · [Repo](https://github.com/holynova/gravity-watch-face) |
 | 头三年 · 0–3 岁育儿白纸手记 | <img width="320" alt="头三年0-3岁育儿白纸手记移动端预览" src="./thumbs/portfolio-first-three-years.png"> | 移动端优先的 0–3 岁育儿深度手册：蒙台梭利 7 节 + 正面管教 6 节、12 张小黑原创手绘插图、客厅高频危机话术对照与低成本改造清单。 | [Demo](https://first-three-years.xiaosang.cc/) · [Repo](https://github.com/holynova/first-three-years) |
 | 游匣 Gamefolio | <img width="320" alt="游匣游戏封面收藏馆" src="./thumbs/portfolio-game-shelf.png"> | Windows 本地游戏库、评分与磁盘空间分析 | [Demo](https://game-shelf.xiaosang.cc/) · [Repo](https://github.com/holynova/game-shelf) |
 | 吴军 · 专题学习 | <img width="320" alt="吴军课程专题与漫画图解" src="./thumbs/portfolio-wujun-study.png"> | 吴军14门课程的42个学习专题，含17份中文漫画图解，每份15页，支持搜索、出处追溯与PDF下载。 | [Demo](https://xiaosang.cc/wujun-study/) · [Repo](https://github.com/holynova/wujun-study) |
