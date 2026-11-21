@@ -9,6 +9,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 头三年 · 0–3 岁育儿白纸手记 | <img width="320" alt="头三年0-3岁育儿白纸手记移动端预览" src="./thumbs/portfolio-first-three-years.png"> | 移动端优先的 0–3 岁育儿深度手册：蒙台梭利 7 节 + 正面管教 6 节、12 张小黑原创手绘插图、客厅高频危机话术对照与低成本改造清单。 | [Demo](https://first-three-years.xiaosang.cc/) · [Repo](https://github.com/holynova/first-three-years) |
 | 游匣 Gamefolio | <img width="320" alt="游匣游戏封面收藏馆" src="./thumbs/portfolio-game-shelf.png"> | Windows 本地游戏库、评分与磁盘空间分析 | [Demo](https://game-shelf.xiaosang.cc/) · [Repo](https://github.com/holynova/game-shelf) |
 | 吴军 · 专题学习 | <img width="320" alt="吴军课程专题与漫画图解" src="./thumbs/portfolio-wujun-study.png"> | 吴军14门课程的42个学习专题，含17份中文漫画图解，每份15页，支持搜索、出处追溯与PDF下载。 | [Demo](https://xiaosang.cc/wujun-study/) · [Repo](https://github.com/holynova/wujun-study) |
 | 末班之后 · Shanghai Metro Night | <img width="320" alt="上海地铁时间地图" src="./thumbs/portfolio-shanghai-metro-night.png"> | 全屏地铁时间地图，自动放映收发车过程，配事件弹幕与浅深色模式。 | [Demo](https://xiaosang.cc/shanghai-metro-night/) · [Repo](https://github.com/holynova/shanghai-metro-night) |
