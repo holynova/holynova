@@ -135,7 +135,7 @@
 | 一眼看电影 | <img width="320" alt="一眼看电影 Preview" src="./thumbs/portfolio-one_second_movie.webp"> | 视频压缩为 4K 联系表 | [Demo](https://holynova.github.io/one_second_movie/) · [Repo](https://github.com/holynova/one_second_movie) |
 | JSON转TypeScript定义 | <img width="320" alt="JSON转TypeScript定义 Preview" src="./thumbs/portfolio-json_to_ts.webp"> | JS 自动推导 TS 类型 | [Demo](https://holynova.github.io/json_to_ts/) · [Repo](https://github.com/holynova/json_to_ts) |
 | 生命时间轴可视化 | - | 甘特图展示生命时间线 | [Repo](https://github.com/holynova/life_bar_chart) |
-| 等宽文字生成器 | <img width="320" alt="等宽文字生成器 Preview" src="./thumbs/portfolio-equal_width.webp"> | 自动调整字号使视觉等宽 | [Demo](https://holynova.github.io/equal_width/) · [Repo](https://github.com/holynova/equal_width) |
+| 齐行 · 等宽海报工坊 | <img width="320" alt="齐行手机版海报编辑器" src="./thumbs/portfolio-equal_width.webp"> | 多行文字自动等宽排版，支持复制和导出高清海报 | [Demo](https://equal-width.xiaosang.cc/) · [Repo](https://github.com/holynova/equal_width) |
 | 弹幕附魔 | <img width="320" alt="弹幕附魔 Preview" src="./thumbs/portfolio-string_alchemy.webp"> | 文字转同音化学元素 | [Demo](https://holynova.github.io/string_alchemy/) · [Repo](https://github.com/holynova/string_alchemy) |
 | 藏头诗生成器 | <img width="320" alt="藏头诗生成器 Preview" src="./thumbs/portfolio-head_tail_poem.webp"> | 藏头诗藏尾诗生成 | [Demo](https://holynova.github.io/head_tail_poem/) · [Repo](https://github.com/holynova/head_tail_poem) |
 | 排序算法可视化 | <img width="320" alt="排序算法可视化 Preview" src="./thumbs/portfolio-algorithm.webp"> | 排序算法可视化 playground | [Demo](https://holynova.github.io/algorithm/show_sort/index.html) · [Repo](https://github.com/holynova/algorithm) |
