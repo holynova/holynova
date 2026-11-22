@@ -9,6 +9,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| Ucas 粒子实验室 | <img width="320" alt="由粒子组成的行星和星环" src="./thumbs/portfolio-ucas-particles.webp"> | 复刻 Ucas Studio 的五组动效，另有 100 个可用鼠标、触屏或键盘操作的粒子实验。 | [Demo](https://ucas-particles.xiaosang.cc/) · [Repo](https://github.com/holynova/ucas-particles) |
 | 纸上出界 · 破框摄影五十景 | <img width="320" alt="白鹭飞羽伸出相纸的摄影展首页" src="./thumbs/portfolio-beyond-the-print.webp"> | 50 幅原创 AI 破框摄影，可按题材筛选、逐幅看高清图，在手机上滑动翻页。 | [Demo](https://beyond-the-print.xiaosang.cc/) · [Repo](https://github.com/holynova/beyond-the-print) |
 | Windows 95 版式图鉴 | <img width="320" alt="十种排版构图的真实页面缩略图" src="./thumbs/portfolio-win95-desktop-atlas.webp"> | 同一套 Windows 95 窗口下的十种网页版式，含真实缩略图、特性对照表，以及同素材的海报、杂志、卡片和时间线对照。 | [Demo](https://win95-desktop-atlas.xiaosang.cc/) · [Repo](https://github.com/holynova/win95-desktop-atlas) |
 | 风格样本室 · Preference Atlas | <img width="320" alt="风格样本室的主题目录" src="./thumbs/portfolio-preference-atlas.webp"> | 给中文写作与视觉设计的 96 个样本评分，生成可复制给 AI 的个人风格指南。 | [Demo](https://preference-atlas.xiaosang.cc/) · [Repo](https://github.com/holynova/preference-atlas) |
