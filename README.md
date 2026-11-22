@@ -9,6 +9,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 纸上出界 · 破框摄影五十景 | <img width="320" alt="白鹭飞羽伸出相纸的摄影展首页" src="./thumbs/portfolio-beyond-the-print.webp"> | 50 幅原创 AI 破框摄影，可按题材筛选、逐幅看高清图，在手机上滑动翻页。 | [Demo](https://beyond-the-print.xiaosang.cc/) · [Repo](https://github.com/holynova/beyond-the-print) |
 | Windows 95 桌面图鉴 | <img width="320" alt="旅行邮局与复古桌面任务栏" src="./thumbs/portfolio-win95-desktop-atlas.webp"> | 八个可交互的复古桌面作品集，可放大植物标本、切换建筑平面图、比较釉色、盖邮戳和辨认星座。 | [Demo](https://win95-desktop-atlas.xiaosang.cc/) · [Repo](https://github.com/holynova/win95-desktop-atlas) |
 | 风格样本室 · Preference Atlas | <img width="320" alt="风格样本室的主题目录" src="./thumbs/portfolio-preference-atlas.webp"> | 给中文写作与视觉设计的 96 个样本评分，生成可复制给 AI 的个人风格指南。 | [Demo](https://preference-atlas.xiaosang.cc/) · [Repo](https://github.com/holynova/preference-atlas) |
 | 育儿读本 | <img width="320" alt="蒙台梭利篇手机首页" src="./thumbs/portfolio-parenting-reader.webp"> | 从家庭场景读懂蒙台梭利教育与正面管教，两篇各约一小时，含分龄案例与十幅插图。 | [Demo](https://parenting-reader.xiaosang.cc/) · [Repo](https://github.com/holynova/parenting-reader) |
