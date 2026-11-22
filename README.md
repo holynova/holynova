@@ -10,7 +10,7 @@
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
 | 纸上出界 · 破框摄影五十景 | <img width="320" alt="白鹭飞羽伸出相纸的摄影展首页" src="./thumbs/portfolio-beyond-the-print.webp"> | 50 幅原创 AI 破框摄影，可按题材筛选、逐幅看高清图，在手机上滑动翻页。 | [Demo](https://beyond-the-print.xiaosang.cc/) · [Repo](https://github.com/holynova/beyond-the-print) |
-| Windows 95 桌面图鉴 | <img width="320" alt="旅行邮局与复古桌面任务栏" src="./thumbs/portfolio-win95-desktop-atlas.webp"> | 八个可交互的复古桌面作品集，可放大植物标本、切换建筑平面图、比较釉色、盖邮戳和辨认星座。 | [Demo](https://win95-desktop-atlas.xiaosang.cc/) · [Repo](https://github.com/holynova/win95-desktop-atlas) |
+| Windows 95 版式图鉴 | <img width="320" alt="十种排版构图的真实页面缩略图" src="./thumbs/portfolio-win95-desktop-atlas.webp"> | 同一套 Windows 95 窗口下的十种网页版式，含真实缩略图、特性对照表，以及同素材的海报、杂志、卡片和时间线对照。 | [Demo](https://win95-desktop-atlas.xiaosang.cc/) · [Repo](https://github.com/holynova/win95-desktop-atlas) |
 | 风格样本室 · Preference Atlas | <img width="320" alt="风格样本室的主题目录" src="./thumbs/portfolio-preference-atlas.webp"> | 给中文写作与视觉设计的 96 个样本评分，生成可复制给 AI 的个人风格指南。 | [Demo](https://preference-atlas.xiaosang.cc/) · [Repo](https://github.com/holynova/preference-atlas) |
 | 育儿读本 | <img width="320" alt="蒙台梭利篇手机首页" src="./thumbs/portfolio-parenting-reader.webp"> | 从家庭场景读懂蒙台梭利教育与正面管教，两篇各约一小时，含分龄案例与十幅插图。 | [Demo](https://parenting-reader.xiaosang.cc/) · [Repo](https://github.com/holynova/parenting-reader) |
 | 重力物理互动表盘 · Gravity Watch Face | <img width="320" alt="重力物理互动表盘移动端预览" src="./thumbs/portfolio-gravity-watch-face.png"> | 手机全屏 3D 物理重力互动空间：横竖全屏自适应与无时钟纯净视图，传感器驱动标准篮球场与五套场景翻滚及多通道细腻震动。 | [Demo](https://gravity-watch-face.xiaosang.cc/) · [Repo](https://github.com/holynova/gravity-watch-face) |
