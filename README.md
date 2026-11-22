@@ -1,3 +1,5 @@
+[English](README.en.md) · [作品集](https://xiaosang.cc/)
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=holynova.readme)
 
 # 概况
@@ -9,6 +11,13 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| 传奇世界幸存者 · 移动版 | <img width="320" alt="传奇世界幸存者 · 移动版实机画面" src="./thumbs/portfolio-woool-survivor-mobile.webp"> | 单指走位，用战士、法师或道士挑战八章首领。1.1 版有两场独立试招，经典版也可继续。 | [Demo](https://xiaosang.cc/woool-survivor-mobile/next/) · [Repo](https://github.com/holynova/woool-survivor-mobile) |
+| 花火琴房 | <img width="320" alt="花火琴房实机画面" src="./thumbs/portfolio-piano-fireworks.webp"> | 任选 55 首曲目，看烟花随音符、冰块敲击或小军鼓的节奏绽放。 | [Demo](https://piano-fireworks.xiaosang.cc/) · [Repo](https://github.com/holynova/piano-fireworks) |
+| 排序观察室 | <img width="320" alt="排序观察室实机画面" src="./thumbs/portfolio-sort_animation.webp"> | 逐步播放七种排序，对照实心柱、数组快照和伪代码，听见每次比较与交换。 | [Demo](https://sort-animation.xiaosang.cc/) · [Repo](https://github.com/holynova/sort_animation) |
+| 动词放映室 | <img width="320" alt="动词放映室实机画面" src="./thumbs/portfolio-verb-theater.webp"> | 跟着十组手势做动作，看同一个下拉动作怎样打开百叶窗、放下卷纸或点亮床头灯。 | [Demo](https://verb-theater.xiaosang.cc/) · [Repo](https://github.com/holynova/verb-theater) |
+| 沙棘乱斗 | <img width="320" alt="沙棘乱斗实机画面" src="./thumbs/portfolio-bramble-brawl.webp"> | 拖动仙人掌英雄躲过怪潮，进化武器和被动技能，在矿区迎战晶核巨像。 | [Demo](https://bramble-brawl.xiaosang.cc/) · [Repo](https://github.com/holynova/bramble-brawl) |
+| 双词电台 | <img width="320" alt="双词电台实机画面" src="./thumbs/portfolio-band-name-radio.webp"> | 按空格生成一个乐队名，点名字重听它的旋律。两组各 308 个词，共 94,864 种组合。 | [Demo](https://band-name-radio.xiaosang.cc/) · [Repo](https://github.com/holynova/band-name-radio) |
+| AI Slop 观察图鉴 | <img width="320" alt="AI Slop 观察图鉴实机画面" src="./thumbs/portfolio-ai-slop-fieldguide.webp"> | 逐项对照 60 个中文样本的原稿和修改稿，8 条关联真实事件或研究。 | [Demo](https://ai-slop-fieldguide.xiaosang.cc/) · [Repo](https://github.com/holynova/ai-slop-fieldguide) |
 | Ucas 粒子实验室 | <img width="320" alt="由粒子组成的行星和星环" src="./thumbs/portfolio-ucas-particles.webp"> | 复刻 Ucas Studio 的五组动效，另有 100 个可用鼠标、触屏或键盘操作的粒子实验。 | [Demo](https://ucas-particles.xiaosang.cc/) · [Repo](https://github.com/holynova/ucas-particles) |
 | 纸上出界 · 破框摄影五十景 | <img width="320" alt="白鹭飞羽伸出相纸的摄影展首页" src="./thumbs/portfolio-beyond-the-print.webp"> | 50 幅原创 AI 破框摄影，可按题材筛选、逐幅看高清图，在手机上滑动翻页。 | [Demo](https://beyond-the-print.xiaosang.cc/) · [Repo](https://github.com/holynova/beyond-the-print) |
 | Windows 95 版式图鉴 | <img width="320" alt="十种排版构图的真实页面缩略图" src="./thumbs/portfolio-win95-desktop-atlas.webp"> | 同一套 Windows 95 窗口下的十种网页版式，含真实缩略图、特性对照表，以及同素材的海报、杂志、卡片和时间线对照。 | [Demo](https://win95-desktop-atlas.xiaosang.cc/) · [Repo](https://github.com/holynova/win95-desktop-atlas) |
@@ -17,9 +26,9 @@
 | 重力物理互动表盘 · Gravity Watch Face | <img width="320" alt="重力物理互动表盘移动端预览" src="./thumbs/portfolio-gravity-watch-face.png"> | 手机全屏 3D 物理重力互动空间：横竖全屏自适应与无时钟纯净视图，传感器驱动标准篮球场与五套场景翻滚及多通道细腻震动。 | [Demo](https://gravity-watch-face.xiaosang.cc/) · [Repo](https://github.com/holynova/gravity-watch-face) |
 | 头三年 · 0–3 岁育儿白纸手记 | <img width="320" alt="头三年0-3岁育儿白纸手记移动端预览" src="./thumbs/portfolio-first-three-years.png"> | 移动端优先的 0–3 岁育儿深度手册：蒙台梭利 7 节 + 正面管教 6 节、23 张小黑原创手绘插图、客厅高频危机话术对照与低成本改造清单。 | [Demo](https://first-three-years.xiaosang.cc/) · [Repo](https://github.com/holynova/first-three-years) |
 | 游匣 Gamefolio | <img width="320" alt="游匣游戏封面收藏馆" src="./thumbs/portfolio-game-shelf.png"> | Windows 本地游戏库、评分与磁盘空间分析 | [Demo](https://game-shelf.xiaosang.cc/) · [Repo](https://github.com/holynova/game-shelf) |
-| 吴军 · 专题学习 | <img width="320" alt="吴军课程专题与漫画图解" src="./thumbs/portfolio-wujun-study.png"> | 吴军14门课程的42个学习专题，含17份中文漫画图解，每份15页，支持搜索、出处追溯与PDF下载。 | [Demo](https://xiaosang.cc/wujun-study/) · [Repo](https://github.com/holynova/wujun-study) |
+| 吴军 · 专题学习 | <img width="320" alt="吴军课程专题与漫画图解" src="./thumbs/portfolio-wujun-study.png"> | 吴军14门课程的42个学习专题，含17份中文漫画图解，每份15页，支持搜索、出处追溯与PDF下载。 | [Demo](https://wujun-study.xiaosang.cc/) · [Repo](https://github.com/holynova/wujun-study) |
 | 末班之后 · Shanghai Metro Night | <img width="320" alt="上海地铁时间地图" src="./thumbs/portfolio-shanghai-metro-night.png"> | 全屏地铁时间地图，自动放映收发车过程，配事件弹幕与浅深色模式。 | [Demo](https://xiaosang.cc/shanghai-metro-night/) · [Repo](https://github.com/holynova/shanghai-metro-night) |
-| xiaosang AI图集 | <img width="320" alt="xiaosang AI图集的移动端瀑布流" src="./thumbs/portfolio-xiaosang-gallery.webp"> | 22 个系列、3,666 张 AI 图像作品，支持多图帖、沉浸滑览，以及可复用的生成提示词与 Skill。 | [Demo](https://xiaosang.cc/xiaosang-gallery/) · [Repo](https://github.com/holynova/xiaosang-gallery) |
+| xiaosang AI图集 | <img width="320" alt="xiaosang AI图集的移动端瀑布流" src="./thumbs/portfolio-xiaosang-gallery.webp"> | 22 个系列、3,666 张 AI 图像作品，支持多图帖、沉浸滑览，以及可复用的生成提示词与 Skill。 | [Demo](https://gallery.xiaosang.cc/) · [Repo](https://github.com/holynova/xiaosang-gallery) |
 | Token Theater · 速度体验实验室 | <img width="320" alt="手机与终端并排比较输出速度" src="./thumbs/portfolio-token-theater.webp"> | 在手机、终端、网页和桌面界面并排体验大模型的输出速度、首字等待和流式节奏。 | [Demo](https://xiaosang.cc/token-theater/) · [Repo](https://github.com/holynova/token-theater) |
 | 植物幸存者 · Plant Survivors | <img width="320" alt="植物幸存者实际运行画面" src="./thumbs/portfolio-plant-survivors-ui.webp"> | 三关花园生存游戏：逐帧角色动作、受击与死亡、植物进化、首领重击、战斗音效与配乐。 | [Demo](https://xiaosang.cc/plant-survivors-ui/) · [Repo](https://github.com/holynova/plant-survivors-ui) |
 | VPN 流量账本 · VPN Ledger | <img width="320" alt="Windows VPN 流量账本的应用流量矩形图" src="./thumbs/portfolio-vpn-ledger.png"> | 按应用查看 VPN 或全局流量，检查未知连接并回看历史记录。 | [下载](https://vpn-ledger.xiaosang.cc/) · [Repo](https://github.com/holynova/vpn-ledger) |
