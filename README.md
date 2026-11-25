@@ -11,6 +11,7 @@
 
 | 项目 | 预览 | 简介 | 链接 |
 |---|---|---|---|
+| AI 编程三重视角 · Zara / poteto / Pocock | <img width="320" alt="AI 编程三重视角 PC 专题预览" src="./thumbs/portfolio-ai-coding-thinkers.webp"> | 收录 Zara Zhang、poteto（Lauren Tan）与 Matt Pocock 一手观点与 16 支核验 YouTube 视频，每人一套 30 分钟差异化 PC 原型：16:9 审美翻页画册、Prompt 对照实验台与 6 阶段工程流水线。 | [Demo](https://ai-coding-thinkers.xiaosang.cc/) · [Repo](https://github.com/holynova/ai-coding-thinkers) |
 | 香港美食地图与真口碑食单 | <img width="320" alt="香港美食地图与真口碑食单移动端预览" src="./thumbs/portfolio-hk-food-guide.webp"> | 全港 29 家核验食店地图与攻略：含 5 家平价米其林一星、8 家知名名店与 16 家本地私藏，支持一键导航与微信食单复制。 | [Demo](https://hk-food-guide.xiaosang.cc/) · [Repo](https://github.com/holynova/hk-food-guide) |
 | 传奇世界幸存者 · 移动版 | <img width="320" alt="传奇世界幸存者 · 移动版实机画面" src="./thumbs/portfolio-woool-survivor-mobile.webp"> | 单指走位，用战士、法师或道士挑战八章首领。1.1 版有两场独立试招，经典版也可继续。 | [Demo](https://xiaosang.cc/woool-survivor-mobile/next/) · [Repo](https://github.com/holynova/woool-survivor-mobile) |
 | 花火琴房 | <img width="320" alt="花火琴房实机画面" src="./thumbs/portfolio-piano-fireworks.webp"> | 任选 55 首曲目，看烟花随音符、冰块敲击或小军鼓的节奏绽放。 | [Demo](https://piano-fireworks.xiaosang.cc/) · [Repo](https://github.com/holynova/piano-fireworks) |
