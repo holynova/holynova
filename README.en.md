@@ -11,6 +11,7 @@
 
 | Project | Preview | Description | Links |
 |---|---|---|---|
+| Hong Kong Food Map & Guide | <img width="320" alt="Hong Kong Food Map & Guide preview" src="./thumbs/portfolio-hk-food-guide.webp"> | Mobile-first Hong Kong food map featuring 29 vetted spots—5 affordable 1-Michelin-star eateries, 8 iconic classics, and 16 local favorites—with itineraries and one-tap navigation. | [Demo](https://hk-food-guide.xiaosang.cc/) · [Repo](https://github.com/holynova/hk-food-guide) |
 | Woool Survivor Mobile | <img width="320" alt="Woool Survivor Mobile preview" src="./thumbs/portfolio-woool-survivor-mobile.webp"> | Dodge with one finger through eight boss chapters. Version 1.1 adds two boss trials and keeps classic saves separate. | [Demo](https://xiaosang.cc/woool-survivor-mobile/next/) · [Repo](https://github.com/holynova/woool-survivor-mobile) |
 | Piano Fireworks | <img width="320" alt="Piano Fireworks preview" src="./thumbs/portfolio-piano-fireworks.webp"> | Choose from 55 recordings and watch fireworks respond to piano notes, ice sounds and snare drums. | [Demo](https://piano-fireworks.xiaosang.cc/) · [Repo](https://github.com/holynova/piano-fireworks) |
 | Sort Lab | <img width="320" alt="Sort Lab preview" src="./thumbs/portfolio-sort_animation.webp"> | Step through seven algorithms with solid bars, array snapshots, pseudocode and sound. | [Demo](https://sort-animation.xiaosang.cc/) · [Repo](https://github.com/holynova/sort_animation) |
